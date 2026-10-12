@@ -1,0 +1,287 @@
+[
+  {
+    "id": "IST-001",
+    "area": "Barbaros",
+    "district": "Ataşehir",
+    "date": "26 Şubat 2025 (haber)",
+    "title": "Alt geçit çevresinde tekrarlanan cinsel saldırı iddiaları",
+    "type": "Cinsel saldırı, cinsel taciz",
+    "tags": [
+      "cinsel-saldiri",
+      "cinsel-taciz"
+    ],
+    "summary": "2020–2025 arasında alt geçit çevresinde kadınları hedef aldığı belirtilen bir şüpheli, polis çalışması sonucunda yakalandı. Şüphelinin 14 ayrı suç kaydı bulunduğu bildirildi. DNA incelemeleri soruşturmada kullanıldı.",
+    "legal": "Şüpheli tutuklandı; kesinleşmiş mahkûmiyet bilgisi bulunmuyor.",
+    "source": "NTV",
+    "url": "https://www.ntv.com.tr/amp/turkiye/atasehir-sapigi-yakalandi-bircok-taciz-ve-tecavuz-olayina-karismis%2CoOvN9uRafkqPWvQPIXdIKw",
+    "lat": 40.9925,
+    "lng": 29.1038,
+    "year": 2025,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "NTV",
+        "url": "https://www.ntv.com.tr/amp/turkiye/atasehir-sapigi-yakalandi-bircok-taciz-ve-tecavuz-olayina-karismis%2CoOvN9uRafkqPWvQPIXdIKw"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-002",
+    "area": "Güven",
+    "district": "Güngören",
+    "date": "2 Kasım 2020 (olay)",
+    "title": "Kadın, cinsel saldırıya uğradığını ve evde alıkonulduğunu bildirdi",
+    "type": "Tecavüz iddiası, alıkoyma",
+    "tags": [
+      "cinsel-saldiri"
+    ],
+    "summary": "Bir kadın, cinsel saldırıya uğradığını ve bir evde zorla tutulduğunu belirterek polisi aradı. Polis kadını bulunduğu yerden çıkardı.",
+    "legal": "Üç şüpheli gözaltına alındı; sonraki yargılama sonucu kaynakta yer almıyor.",
+    "source": "DHA",
+    "url": "https://www.dha.com.tr/gundem/gungorende-ozbek-kadina-tecavuz-iddiasi-3-gozalti-1795959",
+    "lat": 41.0219,
+    "lng": 28.8788,
+    "year": 2020,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "DHA",
+        "url": "https://www.dha.com.tr/gundem/gungorende-ozbek-kadina-tecavuz-iddiasi-3-gozalti-1795959"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-003",
+    "area": "19 Mayıs",
+    "district": "Şişli",
+    "date": "1 Aralık 2017 (olay)",
+    "title": "Parkta bıçak tehdidiyle cinsel saldırı iddiası",
+    "type": "Cinsel saldırı iddiası, tehdit",
+    "tags": [
+      "cinsel-saldiri"
+    ],
+    "summary": "Bir kadın bıçakla tehdit edilerek parka götürüldüğünü ve cinsel saldırıya maruz kaldığını bildirdi. Polis kamera görüntülerini inceleyerek şüpheliyi yakaladı.",
+    "legal": "Şüpheli gözaltına alındı; kesinleşmiş hüküm bilgisi doğrulanmadı.",
+    "source": "Son Dakika",
+    "url": "https://www.sondakika.com/3-sayfa/haber-sisli-de-parkta-cinsel-saldiri-iddiasi-10336877/",
+    "lat": 41.0621,
+    "lng": 28.9894,
+    "year": 2017,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "Son Dakika",
+        "url": "https://www.sondakika.com/3-sayfa/haber-sisli-de-parkta-cinsel-saldiri-iddiasi-10336877/"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-004",
+    "area": "Selimiye",
+    "district": "Üsküdar",
+    "date": "7 Haziran 2022 (olay)",
+    "title": "İş görüşmesine gelen kadın cinsel tacize uğradığını bildirdi",
+    "type": "Cinsel taciz ve cinsel saldırı girişimi iddiaları",
+    "tags": [
+      "cinsel-taciz",
+      "cinsel-saldiri"
+    ],
+    "summary": "Bir danışmanlık merkezine iş görüşmesine gelen kadın, içeride cinsel tacize uğradığını ileri sürdü. Çevredekilerin ihbarı üzerine polis geldi ve tarafların ifadeleri alındı.",
+    "legal": "Hakkında şikâyette bulunulan kişi ifadesinin ardından serbest bırakıldı.",
+    "source": "DHA",
+    "url": "https://www.dha.com.tr/foto-galeri/uskudarda-is-gorusmesinde-taciz-iddiasi-2082937",
+    "lat": 41.0005,
+    "lng": 29.0238,
+    "year": 2022,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "DHA",
+        "url": "https://www.dha.com.tr/foto-galeri/uskudarda-is-gorusmesinde-taciz-iddiasi-2082937"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-005",
+    "area": "Sultançiftliği",
+    "district": "Sultangazi",
+    "date": "16 Ağustos 2021 (haber)",
+    "title": "Genç kadın eski partnerinin kendisine şiddet uyguladığını açıkladı",
+    "type": "Tecavüz iddiası, fiziksel şiddet, alıkoyma",
+    "tags": [
+      "cinsel-saldiri",
+      "partner-siddeti"
+    ],
+    "summary": "18 yaşındaki bir kadın, eski erkek arkadaşı tarafından üç gün alıkonulduğunu ve fiziksel ve cinsel şiddete maruz kaldığını ileri sürdü.",
+    "legal": "Şüpheli gözaltına alındıktan sonra ifadesinin ardından serbest bırakıldı.",
+    "source": "DHA",
+    "url": "https://www.dha.com.tr/gundem/sultangazide-genc-kadinin-yardim-cigligi-1843070",
+    "lat": 41.1058,
+    "lng": 28.8738,
+    "year": 2021,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "DHA",
+        "url": "https://www.dha.com.tr/gundem/sultangazide-genc-kadinin-yardim-cigligi-1843070"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-006",
+    "area": "Ardıçlı",
+    "district": "Esenyurt",
+    "date": "25 Haziran 2024 (olay) / Nisan 2025 (haber)",
+    "title": "Kadının ölümünde cinsel saldırı ve öldürme bulguları açıklandı",
+    "type": "Cinsel saldırı ve cinayet",
+    "tags": [
+      "cinsel-saldiri",
+      "cinayet"
+    ],
+    "summary": "Bir patika yolda cansız bedeni bulunan kadının ölümüyle ilgili adli tıp incelemesinde cinsel saldırı ve boğularak öldürülme bulguları açıklandı. Üç şüpheli gözaltına alındı.",
+    "legal": "Üç şüpheli adliyeye sevk edildi; kesinleşmiş mahkûmiyet bilgisi doğrulanmadı.",
+    "source": "DHA",
+    "url": "https://www.dha.com.tr/yerel-haberler/istanbul/dha-istanbul-bulteni-2-2617148",
+    "lat": 41.0491,
+    "lng": 28.6641,
+    "year": 2024,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "DHA",
+        "url": "https://www.dha.com.tr/yerel-haberler/istanbul/dha-istanbul-bulteni-2-2617148"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-007",
+    "area": "Fevzi Çakmak",
+    "district": "Bağcılar",
+    "date": "Eylül 2018 (olay) / 5 Ekim 2018 (haber)",
+    "title": "Engelli kadına yönelik cinsel saldırı iddiasıyla altı kişi yakalandı",
+    "type": "Nitelikli cinsel saldırı iddiası",
+    "tags": [
+      "cinsel-saldiri"
+    ],
+    "summary": "Bağcılar’da bir kadına yönelik cinsel saldırı iddiası üzerine polis soruşturma başlattı ve altı şüpheliyi yakaladı.",
+    "legal": "Altı kişi gözaltına alındı ve adliyeye sevk edildi; sonraki yargılama sonucu teyit edilmedi.",
+    "source": "DHA",
+    "url": "https://www.dha.com.tr/gundem/istanbulda-engelli-kadina-tecavuz-eden-6-kisi-yakalandi-1602732",
+    "lat": 41.0453,
+    "lng": 28.8435,
+    "year": 2018,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "DHA",
+        "url": "https://www.dha.com.tr/gundem/istanbulda-engelli-kadina-tecavuz-eden-6-kisi-yakalandi-1602732"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-008",
+    "area": "Atatürk",
+    "district": "Arnavutköy",
+    "date": "21 Ekim 2019 (haber)",
+    "title": "14 yaşındaki kız çocuğuna yönelik cinsel istismar iddiası",
+    "type": "Çocuğun cinsel istismarı iddiası, çocuk yaşta evlendirme",
+    "tags": [
+      "cocuk-istismari",
+      "cinsel-saldiri"
+    ],
+    "summary": "Bir kız çocuğunun bildiriminden sonra soruşturma başlatıldı. Soruşturma kapsamında çocuğun bir yetişkinle dini nikâhla evlendirildiği iddiaları da gündeme geldi.",
+    "legal": "Şüpheli tutuklandı; kesinleşmiş yargı kararı kaynakta bulunmuyor.",
+    "source": "DHA",
+    "url": "https://www.dha.com.tr/gundem/arnavutkoyde-tecavuz-skandalinin-altindan-cocuk-gelin-drami-cikti-1732920",
+    "lat": 41.1848,
+    "lng": 28.7386,
+    "year": 2019,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "DHA",
+        "url": "https://www.dha.com.tr/gundem/arnavutkoyde-tecavuz-skandalinin-altindan-cocuk-gelin-drami-cikti-1732920"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-009",
+    "area": "Osmanağa",
+    "district": "Kadıköy",
+    "date": "19 Mayıs 2017 (olay) / 21 Mayıs 2017 (haber)",
+    "title": "İş hanında bıçak tehdidiyle cinsel saldırı iddiası",
+    "type": "Tecavüz iddiası, tehdit",
+    "tags": [
+      "cinsel-saldiri"
+    ],
+    "summary": "Bir kadın, bir iş hanında bıçak tehdidiyle cinsel saldırıya uğradığını belirterek şikâyetçi oldu. Polis şüpheliyi yakaladı.",
+    "legal": "Şüpheli tutuklandı; kesinleşmiş mahkûmiyet kararı doğrulanmadı.",
+    "source": "Sözcü",
+    "url": "https://www.sozcu.com.tr/kadikoyde-yardim-bahanesiyle-tecavuz-iddiasi-supheli-tutuklandi-wp1861847",
+    "lat": 40.9918,
+    "lng": 29.0261,
+    "year": 2017,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "Sözcü",
+        "url": "https://www.sozcu.com.tr/kadikoyde-yardim-bahanesiyle-tecavuz-iddiasi-supheli-tutuklandi-wp1861847"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  },
+  {
+    "id": "IST-010",
+    "area": "Muratpaşa",
+    "district": "Zeytinburnu",
+    "date": "10 Aralık 2012 (haber)",
+    "title": "Sokakta iki kadına yönelik cinsel taciz olayları",
+    "type": "Cinsel taciz, teşhircilik",
+    "tags": [
+      "cinsel-taciz"
+    ],
+    "summary": "Aynı sokakta iki farklı günde kadınlara yönelik cinsel tacizde bulunduğu bildirilen kişi polis tarafından yakalandı; güvenlik kamerası görüntüleri incelendi.",
+    "legal": "Şüpheli gözaltına alındı; sonraki yargılama sonucu doğrulanmadı.",
+    "source": "Habertürk",
+    "url": "https://www.haberturk.com/gundem/haber/801992-o-sapik-yakalandi",
+    "lat": 40.9997,
+    "lng": 28.9061,
+    "year": 2012,
+    "status": "published",
+    "verification": "legacy_import_unverified",
+    "sources": [
+      {
+        "publisher": "Habertürk",
+        "url": "https://www.haberturk.com/gundem/haber/801992-o-sapik-yakalandi"
+      }
+    ],
+    "location_precision": "approximate_neighborhood",
+    "review_required": true
+  }
+]

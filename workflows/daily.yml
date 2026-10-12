@@ -1,0 +1,37 @@
+name: Daily national news verification
+on:
+  schedule:
+    - cron: '18 5 * * *' # 08:18 Türkiye time (UTC+3); UTC cron
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: news-ingestion
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Verify and ingest (fail closed)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MAPTILER_KEY: ${{ secrets.MAPTILER_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+          MAX_RSS_ITEMS: '35'
+        run: python scripts/collect.py
+      - name: Publish updated JSON to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reports.json data/review_queue.json data/seen_urls.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: daily verified news update"
+            git push
+          fi
