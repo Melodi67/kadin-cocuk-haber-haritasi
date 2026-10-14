@@ -390,5 +390,113 @@
     "source": "yeniakit.com.tr",
     "url": "https://www.yeniakit.com.tr/haber/kemik-kirma-ve-cinsel-taciz-yahudi-medyasi-binlerce-filistinli-israilin-iskence-kamplarinda-tutuluyor-2027865.html",
     "title": "Kemik kırma ve cinsel taciz! Yahudi medyası: Binlerce Filistinli, İsrail'in işkence kamplarında tutuluyor - Yeni Akit Gazetesi"
+  },
+  {
+    "id": "AUTO-0560110c0896",
+    "title": "Hakem soruşturmasında şüphelinin telefonunda çocuk istismarı görüntüsü tespit edildi",
+    "title_en": "Child abuse imagery detected on suspect's phone in referee investigation",
+    "summary": "Bir soruşturma kapsamında gözaltına alınan bir şüphelinin telefonunda NCMEC raporu ve bilirkişi incelemesiyle çocuk istismarı içeren içerikler tespit edildi.",
+    "summary_en": "Child abuse content was detected via an NCMEC report and expert examination on the phone of a suspect detained as part of an investigation.",
+    "date": "2024-01-11",
+    "area": "",
+    "district": "",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuk istismarı ve müstehcen içerik bulundurma iddiasıyla soruşturma",
+    "legal_en": "Investigation on allegations of child abuse and possession of obscene content",
+    "sources": [
+      {
+        "publisher": "t24.com.tr",
+        "url": "https://t24.com.tr/spor/mhk-sorusturmasinda-gozaltina-alinmisti-ferdi-karadorukun-telefonundan-cocuk-istismari-goruntuleri-cikti,1350897"
+      }
+    ],
+    "source": "t24.com.tr",
+    "url": "https://t24.com.tr/spor/mhk-sorusturmasinda-gozaltina-alinmisti-ferdi-karadorukun-telefonundan-cocuk-istismari-goruntuleri-cikti,1350897",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:47:16.850938+00:00"
+  },
+  {
+    "id": "AUTO-9fb563666a02",
+    "title": "Girne'de Çocuğa Cinsel İstismar İddiasıyla Yargılanan Zanlı Teminatla Serbest Bırakıldı",
+    "title_en": "Suspect Released on Bail Following Child Sexual Abuse Allegations in Kyrenia",
+    "summary": "Girne'de 8 yaşındaki bir çocuğa yönelik cinsel istismar ve taciz iddialarıyla tutuklanan zanlı, mahkeme kararıyla yurt dışına çıkış yasağı ve kefalet koşullarıyla serbest bırakıldı.",
+    "summary_en": "A suspect arrested in Kyrenia on allegations of sexual abuse and harassment against an 8-year-old child was released on bail with travel restrictions by court order.",
+    "date": "2026-10-06",
+    "area": "",
+    "district": "Girne",
+    "province": "Girne",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı, Cinsel istismar, Cinsel taciz",
+    "legal_en": "Child sexual abuse, Sexual abuse, Sexual harassment",
+    "sources": [
+      {
+        "publisher": "kibrishaberci.com",
+        "url": "https://www.kibrishaberci.com/girnede-8-yasindaki-cocuga-cinsel-istismar-iddiasi-79-yasindaki-zanli-teminatla-serbest/"
+      }
+    ],
+    "source": "kibrishaberci.com",
+    "url": "https://www.kibrishaberci.com/girnede-8-yasindaki-cocuga-cinsel-istismar-iddiasi-79-yasindaki-zanli-teminatla-serbest/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:47:16.850988+00:00"
+  },
+  {
+    "id": "AUTO-30544acb6f95",
+    "title": "Bursa'da cinsel taciz suçlamasıyla yargılanan sanık hakkında dava sürüyor",
+    "title_en": "Trial continues for defendant accused of sexual harassment in Bursa",
+    "summary": "Bursa'da kurduğu dernek üzerinden kadın müritlerinde cinsel tacizde bulunduğu ve çıplak fotoğraf ile video istediği iddia edilen eski bir polis hakkındaki yargılama süreci devam ediyor.",
+    "summary_en": "The trial continues regarding a former police officer in Bursa who allegedly sexually harassed female followers and demanded nude photos and videos through an association he founded.",
+    "date": "2024-09-01",
+    "area": "",
+    "district": "Yıldırım",
+    "province": "Bursa",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel taciz ve basit cinsel saldırı",
+    "legal_en": "Sexual harassment and simple sexual assault",
+    "sources": [
+      {
+        "publisher": "babaocagi.com.tr",
+        "url": "https://www.babaocagi.com.tr/eski-ozel-harekat-polisi-seyh-olmustu-cinsel-taciz-suclamasiyla-yargilaniyor"
+      }
+    ],
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/eski-ozel-harekat-polisi-seyh-olmustu-cinsel-taciz-suclamasiyla-yargilaniyor",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:47:16.851025+00:00"
+  },
+  {
+    "id": "REVIEW-38b50aa5cf8e",
+    "status": "review",
+    "reason": "The incident took place in Austria (Tirol), outside of Turkey, and does not involve the jurisdiction or public-interest scope required for the Turkish incident map.",
+    "source": "medyaavusturya.at",
+    "url": "https://www.medyaavusturya.at/blog/tirolde-turk-ailenin-kapisina-domuz-kafasi-birakan-saniga-beraat/",
+    "title": "Tirol’de Türk ailenin kapısına domuz kafası bırakan sanığa beraat - Medya Avusturya"
+  },
+  {
+    "id": "REVIEW-ff4112728282",
+    "status": "review",
+    "reason": "The article discusses a Ministry of National Education announcement regarding a foundation's online competition in schools, mentioning historical judicial cases as background context rather than reporting a new primary incident related to the required categories.",
+    "source": "bianet.org",
+    "url": "https://bianet.org/haber/meb-ensar-vakfinin-yarismasini-turkiye-genelindeki-okullara-duyurdu-323996",
+    "title": "MEB, Ensar Vakfı’nın yarışmasını Türkiye genelindeki okullara duyurdu - Bianet"
+  },
+  {
+    "id": "REVIEW-0c7c96084175",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (Cornell University, USA).",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/dunya/son-dakika-toplu-cinsel-saldiri-iddialariyla-gundeme-gelmisti-yil-sonuna-kadar-yasaklandi-7679271",
+    "title": "Toplu cinsel saldırı iddialarıyla gündeme gelmişti! 'Yıl sonuna kadar yasaklandı' - Milliyet"
   }
 ]
