@@ -23,7 +23,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MAPTILER_KEY: ${{ secrets.MAPTILER_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash-lite
+          GEMINI_MODEL: gemini-3.5-flash-lite
           MAX_RSS_ITEMS: '35'
         run: python scripts/collect.py
       - name: Publish updated JSON to repository
