@@ -4,3 +4,4 @@ beautifulsoup4>=4.12,<5
 python-dateutil>=2.9,<3
 pytest>=8,<10
 googlenewsdecoder==0.2.1
+selectolax==0.4.13
