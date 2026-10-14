@@ -1,1 +1,394 @@
-[]
+[
+  {
+    "id": "AUTO-a1082a8f83f8",
+    "title": "Taksim'de Koreli fenomene taciz: Şüpheli yakalandı",
+    "title_en": "Korean social media phenomenon harassed in Taksim: Suspect caught",
+    "summary": "İstanbul Beyoğlu'nda canlı yayın yapan Güney Koreli bir sosyal medya yayıncısına cinsel tacizde bulunduğu tespit edilen şüpheli, polis ekiplerince Sarıyer'de gözaltına alındı ve hakkında adli işlem başlatıldı.",
+    "summary_en": "The suspect, identified as having sexually harassed a South Korean social media broadcaster live streaming in Beyoğlu, Istanbul, was detained by police in Sarıyer and legal proceedings were initiated.",
+    "date": "",
+    "area": "Taksim",
+    "district": "Beyoğlu",
+    "province": "İstanbul",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel taciz",
+    "legal_en": "Sexual harassment",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/turkiye/galeri-koreli-fenomeni-taksimde-taciz-etmisti-supheli-yakalandi-1736768"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/turkiye/galeri-koreli-fenomeni-taksimde-taciz-etmisti-supheli-yakalandi-1736768",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554446+00:00"
+  },
+  {
+    "id": "AUTO-11eb00c7fd9c",
+    "title": "Telegram'da çocuk istismarı görüntülerini satın alanlara operasyon: 8 gözaltı",
+    "title_en": "Operation against buyers of child abuse content on Telegram: 8 detained",
+    "summary": "İstanbul'da Telegram üzerinden çocuk istismarı görüntülerini para karşılığı satın aldığı belirlenen şüphelilere yönelik düzenlenen operasyonda 8 kişi gözaltına alındı.",
+    "summary_en": "In Istanbul, 8 suspects were detained in an operation targeting individuals who purchased child abuse content via Telegram in exchange for money.",
+    "date": "2026-09-30",
+    "area": "",
+    "district": "",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Müstehcenlik ve çocuk istismarı",
+    "legal_en": "Obscenity and child abuse",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/gundem/telegramda-cocuk-istismari-goruntulerini-satin-alanlara-operasyon-8-supheli-gozaltina-alindi-1744323"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/gundem/telegramda-cocuk-istismari-goruntulerini-satin-alanlara-operasyon-8-supheli-gozaltina-alindi-1744323",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554489+00:00"
+  },
+  {
+    "id": "AUTO-0811f85c470a",
+    "title": "Samsun'da engelli kadına cinsel saldırı iddiasıyla akrabası tutuklandı",
+    "title_en": "Relative arrested in Samsun over alleged sexual assault against disabled woman",
+    "summary": "Samsun'un Atakum ilçesinde yüzde 40 zihinsel engelli genç kadına cinsel saldırıda bulunduğu öne sürülen akrabası tutuklandı.",
+    "summary_en": "A relative accused of sexually assaulting a young woman with a 40 percent intellectual disability was arrested in Atakum, Samsun.",
+    "date": "2026-10-08",
+    "area": "",
+    "district": "Atakum",
+    "province": "Samsun",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli cinsel saldırı suçu iddiasıyla soruşturma ve tutuklama kararı",
+    "legal_en": "Investigation and arrest decision on charges of aggravated sexual assault",
+    "sources": [
+      {
+        "publisher": "babaocagi.com.tr",
+        "url": "https://www.babaocagi.com.tr/zihinsel-engelli-genc-kadina-cinsel-saldiri-iddiasi-60-yasindaki-akrabasi-tutuklandi"
+      },
+      {
+        "publisher": "12punto.com.tr",
+        "url": "https://12punto.com.tr/adalet-hukuk/samsunda-zihinsel-engelli-genc-kadina-cinsel-saldiri-iddiasi-60-yasindaki-akrabasi-tutuklandi-154900"
+      }
+    ],
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/zihinsel-engelli-genc-kadina-cinsel-saldiri-iddiasi-60-yasindaki-akrabasi-tutuklandi",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554521+00:00"
+  },
+  {
+    "id": "AUTO-25a4750cded7",
+    "title": "Tanju Özcan’a Cinsel Saldırı Davasında Beraat",
+    "title_en": "Tanju Özcan Acquitted in Sexual Assault Trial",
+    "summary": "Bolu 2’nci Ağır Ceza Mahkemesi, nitelikli cinsel saldırı ve kişiyi hürriyetinden yoksun kılma suçlarından yargılanan belediye başkanının beraatine karar verdi.",
+    "summary_en": "The Bolu 2nd High Criminal Court acquitted the mayor who was being tried for qualified sexual assault and deprivation of liberty.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Bolu",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli cinsel saldırı ve kişiyi hürriyetinden yoksun kılma suçlarından beraat",
+    "legal_en": "Acquittal of qualified sexual assault and deprivation of liberty",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/tanju-ozcan-a-cinsel-saldiri-davasinda-beraat-2543833"
+      },
+      {
+        "publisher": "gazeteoksijen.com",
+        "url": "https://gazeteoksijen.com/turkiye/tanju-ozcan-cinsel-saldiri-davasindan-beraat-etti-291714"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/tanju-ozcan-a-cinsel-saldiri-davasinda-beraat-2543833",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554545+00:00"
+  },
+  {
+    "id": "AUTO-b0619aced271",
+    "title": "Viyana'da Yaşlı Kadına Cinsel Saldırı Olayı",
+    "title_en": "Sexual Assault Incident Against Elderly Woman in Vienna",
+    "summary": "Viyana'da 85 yaşındaki bir kadın, evine yürüdüğü sırada bir apartman avlusunda cinsel saldırıya uğradı. Polis şüpheliyi arıyor.",
+    "summary_en": "An 85-year-old woman was sexually assaulted in an apartment courtyard while walking home in Vienna. Police are searching for the suspect.",
+    "date": "2026-10-06",
+    "area": "",
+    "district": "",
+    "province": "Viyana",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli cinsel saldırı",
+    "legal_en": "Aggravated sexual assault",
+    "sources": [
+      {
+        "publisher": "medyaavusturya.at",
+        "url": "https://www.medyaavusturya.at/blog/viyanada-85-yasindaki-kadina-cinsel-saldiri-polis-supheliyi-ariyor/"
+      }
+    ],
+    "source": "medyaavusturya.at",
+    "url": "https://www.medyaavusturya.at/blog/viyanada-85-yasindaki-kadina-cinsel-saldiri-polis-supheliyi-ariyor/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554560+00:00"
+  },
+  {
+    "id": "AUTO-3dd75198c00f",
+    "title": "Tanju Özcan cinsel saldırı davasında beraat etti",
+    "title_en": "Tanju Özcan acquitted in sexual assault trial",
+    "summary": "Bolu'da cinsel saldırı ve kişiyi hürriyetinden yoksun kılma suçlamalarıyla yargılanan belediye başkanı, mahkeme heyetinin kesin ve somut delil bulunmadığına hükmetmesiyle beraat etti.",
+    "summary_en": "The mayor on trial for sexual assault and deprivation of liberty in Bolu was acquitted after the court ruled there was no conclusive and concrete evidence.",
+    "date": "2026-10-05",
+    "area": "",
+    "district": "",
+    "province": "Bolu",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli cinsel saldırı, Zincirleme şekilde kişiyi hürriyetinden yoksun kılma",
+    "legal_en": "Qualified sexual assault, Deprivation of liberty in a chained manner",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/gundem/tanju-ozcan-cinsel-saldiri-davasinda-beraat-etti-diger-suctan-tutuklulugu-suruyor-43330144"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/gundem/tanju-ozcan-cinsel-saldiri-davasinda-beraat-etti-diger-suctan-tutuklulugu-suruyor-43330144",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554573+00:00"
+  },
+  {
+    "id": "AUTO-e1591c82dd0c",
+    "title": "Görele Belediye Başkanı'nın cinsel taciz cezası onandı",
+    "title_en": "Mayor's child sexual harassment sentence upheld in Giresun",
+    "summary": "Görele'de bir lise öğrencisine yönelik elektronik haberleşme araçlarıyla cinsel taciz suçundan yargılanan belediye başkanı hakkında yerel mahkemenin verdiği 1 yıl 6 ay hapis cezası istinaf mahkemesince onandı.",
+    "summary_en": "The appeals court upheld a 1 year and 6 month prison sentence given to a mayor in Görele for child sexual harassment committed via electronic communication tools.",
+    "date": "2025-02-08",
+    "area": "",
+    "district": "Görele",
+    "province": "Giresun",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Çocuğa karşı elektronik haberleşme araçlarının sağladığı kolaylıktan faydalanmak suretiyle cinsel taciz",
+    "legal_en": "Child sexual harassment via electronic communication tools",
+    "sources": [
+      {
+        "publisher": "cnnturk.com",
+        "url": "https://www.cnnturk.com/turkiye/hasbi-dedenin-cezasina-onama-gorelede-yeniden-belediye-baskani-secilecek-3473436"
+      }
+    ],
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/turkiye/hasbi-dedenin-cezasina-onama-gorelede-yeniden-belediye-baskani-secilecek-3473436",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554588+00:00"
+  },
+  {
+    "id": "AUTO-1ac7ec480a82",
+    "title": "Kahramanmaraş'ta 19 yıl önceki çifte cinayet davasında karar",
+    "title_en": "Verdict reached in 19-year-old double murder case in Kahramanmaraş",
+    "summary": "Kahramanmaraş'ta 2005 yılında kaybolan iki kız kardeşin öldürülmesiyle ilgili 19 yıl sonra görülen davada, iki sanık ağırlaştırılmış müebbet hapis cezasına çarptırıldı.",
+    "summary_en": "In the trial held 19 years later regarding the murder of two sisters who went missing in 2005 in Kahramanmaraş, two defendants were sentenced to aggravated life imprisonment.",
+    "date": "2005-01-01",
+    "area": "Sarıkaya",
+    "district": "Dulkadiroğlu",
+    "province": "Kahramanmaraş",
+    "category": "femicide",
+    "type": "femicide",
+    "legal": "Taammüden öldürme, nitelikli cinsel saldırı",
+    "legal_en": "Premeditated murder, qualified sexual assault",
+    "sources": [
+      {
+        "publisher": "trthaber.com",
+        "url": "https://www.trthaber.com/haber/turkiye/cifte-cinayet-19-yil-sonra-aydinlatildi-2-saniga-agirlastirilmis-muebbet-958931.html"
+      }
+    ],
+    "source": "trthaber.com",
+    "url": "https://www.trthaber.com/haber/turkiye/cifte-cinayet-19-yil-sonra-aydinlatildi-2-saniga-agirlastirilmis-muebbet-958931.html",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554602+00:00"
+  },
+  {
+    "id": "AUTO-10eccc06a9e1",
+    "title": "Mehmet Akif Ersoy davasında ikinci duruşma görüldü",
+    "title_en": "Second hearing held in the trial of Mehmet Akif Ersoy",
+    "summary": "Habertürk eski Genel Yayın Yönetmeni Mehmet Akif Ersoy'un nitelikli cinsel saldırı ve suç örgütü kurma suçlamalarıyla yargılandığı davanın ikinci duruşmasında tutukluluğunun devamına karar verildi.",
+    "summary_en": "In the second hearing of the trial where former Habertürk Editor-in-Chief Mehmet Akif Ersoy is tried on charges of qualified sexual assault and forming a criminal organization, the court ruled for the continuation of his detention.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "İstanbul",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli cinsel saldırı, suç örgütü kurma ve yönetme, uyuşturucu ticareti",
+    "legal_en": "Qualified sexual assault, establishing and managing a criminal organization, drug trafficking",
+    "sources": [
+      {
+        "publisher": "halktv.com.tr",
+        "url": "https://halktv.com.tr/turkiye/mehmet-akif-ersoy-hakim-karsisinda-taniklar-dinlenecek-1060470h"
+      }
+    ],
+    "source": "halktv.com.tr",
+    "url": "https://halktv.com.tr/turkiye/mehmet-akif-ersoy-hakim-karsisinda-taniklar-dinlenecek-1060470h",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554618+00:00"
+  },
+  {
+    "id": "AUTO-3e56a062c55c",
+    "title": "Tekirdağ'da çocuk istismarı görüntüsü operasyonu: 6 tutuklama",
+    "title_en": "Child abuse imagery operation in Tekirdağ: 6 arrests",
+    "summary": "Tekirdağ'da sanal medya üzerinden çocuklara ait müstehcen görüntüleri satın aldıkları ve yayan şüphelilere yönelik operasyonda yakalanan 7 kişiden 6'sı tutuklandı.",
+    "summary_en": "In Tekirdağ, 6 out of 7 suspects captured in an operation targeting individuals purchasing and spreading child obscenity imagery on social media were arrested.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Tekirdağ",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocukların kullanıldığı müstehcen yayınları depolamak, satın almak veya yaymak",
+    "legal_en": "Storing, purchasing or disseminating obscene publications involving children",
+    "sources": [
+      {
+        "publisher": "sozcu.com.tr",
+        "url": "https://www.sozcu.com.tr/cocuk-istismari-gorsellerine-siber-darbe-6-tutuklama-p365745"
+      }
+    ],
+    "source": "sozcu.com.tr",
+    "url": "https://www.sozcu.com.tr/cocuk-istismari-gorsellerine-siber-darbe-6-tutuklama-p365745",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-14T07:38:42.554633+00:00"
+  },
+  {
+    "id": "REVIEW-00a7af315a2b",
+    "status": "review",
+    "reason": "The article discusses general systemic issues regarding campus sexual assaults, focusing primarily on a case in the US (Cornell University) and an anonymous student's experience abroad. It does not report a verifiable incident occurring in Turkey.",
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/c8p303kpeq9po",
+    "title": "Üniversitede cinsel saldırı: Cornell davasıyla açığa çıkan handikaplar - BBC"
+  },
+  {
+    "id": "REVIEW-c72a32282291",
+    "status": "review",
+    "reason": "Bu haber toplumsal olay, şiddet veya suç içermemektedir; genel saat uygulaması değişikliğiyle ilgilidir.",
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/yaz-saati-uygulamasi-25-ekimde-sona-erecek",
+    "title": "Yaz saati uygulaması 25 Ekim’de sona erecek - Kibris Gerçek"
+  },
+  {
+    "id": "REVIEW-704eba2426ce",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (United Kingdom), and the map is intended for Turkish public-interest news.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/magazin/russell-brand-cinsel-saldiri-suclamalariyla-hakim-karsisinda-esi-yalniz-birakmadi-2545970",
+    "title": "Russell Brand cinsel saldırı suçlamalarıyla hakim karşısında: Eşi yalnız bırakmadı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-cd8922472f75",
+    "status": "review",
+    "reason": "The article discusses global statistics and general trends regarding AI-generated child abuse imagery (primarily based on IWF data from the UK and international reports), rather than reporting a specific, verifiable individual incident in Turkey.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/dunya/yapay-zekayla-cocuk-istismari-iceriklerinde-yuzde-40-lik-artis-2543826",
+    "title": "Yapay zekâyla çocuk istismarı içeriklerinde yüzde 40’lık artış - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-1587034f0d8e",
+    "status": "review",
+    "reason": "The incident describes general statistical reports and trends about AI-generated child abuse materials in the UK, rather than a specific verifiable local incident report suitable for a map.",
+    "source": "haber.sabah.com.tr",
+    "url": "https://haber.sabah.com.tr/galeri/yapay-zekada-cocuk-istismari-patladi-6-ayda-6-bin-310-dehsete-dusuren-goruntu-ingiltereden-acil-duzenleme-cagrisi",
+    "title": "Yapay zekada çocuk istismarı patladı: 6 ayda 6 bin 310 dehşete düşüren görüntü! İngiltere’den acil düzenleme çağrısı - Sabah"
+  },
+  {
+    "id": "REVIEW-27064815bcc1",
+    "status": "review",
+    "reason": "Olay Güney Kıbrıs'ta (Kıbrıs Cumhuriyeti) meydana gelmiştir ve Türkiye sınırları dışındadır.",
+    "source": "kibristurk.com",
+    "url": "https://www.kibristurk.com/guney-kibristan-polisiye-olaylar",
+    "title": "Güney Kıbrıs’tan polisiye olaylar... - Kıbrıs Türk Haber"
+  },
+  {
+    "id": "REVIEW-3b58f6e8c47d",
+    "status": "review",
+    "reason": "The article is about a sports training session (football team preparation) and does not contain any incidents related to the specified categories.",
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/galatasarayda-victor-osimhen-gelismesi-1",
+    "title": "Galatasaray'da Victor Osimhen gelişmesi! - https://www.babaocagi.com/"
+  },
+  {
+    "id": "REVIEW-e656521c0b2f",
+    "status": "review",
+    "reason": "The article discusses global statistical trends and data from an international organization (IWF) regarding AI-generated child abuse content rather than reporting a specific, localized criminal incident in Turkey.",
+    "source": "ahaber.com.tr",
+    "url": "https://www.ahaber.com.tr/galeri/gundem/yapay-zekayla-cocuk-istismari-iceriklerinde-korkutan-artis-rakamlar-alarm-veriyor",
+    "title": "Yapay zekayla çocuk istismarı içeriklerinde korkutan artış: Rakamlar alarm veriyor - A Haber"
+  },
+  {
+    "id": "REVIEW-01549132a0cb",
+    "status": "review",
+    "reason": "The article is about political allegations and denials regarding financial investments and funds involving a government minister, which does not constitute a physical crime or incident reportable on a public-interest crime and violence map.",
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/ticaret-bakani-omer-bolat-fon-iddialarina-yanit-verdi-400-koydu-800-aldi-ifadesi-yalandir",
+    "title": "Ticaret Bakanı Ömer Bolat 'fon' iddialarına yanıt verdi: 400 koydu, 800 aldı ifadesi yalandır - https://www.babaocagi.com/"
+  },
+  {
+    "id": "REVIEW-a7dc64cfb1fb",
+    "status": "review",
+    "reason": "Olay ABD'de (New York) gerçekleştiği için Türkiye haritası kapsamına girmemektedir.",
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/dunya/abd-ayaga-kalkmisti-cornelldeki-cinsel-saldiri-dosyasinda-kritik-gelisme-ozel-savci-gorevlendirildi-3474248",
+    "title": "ABD ayağa kalkmıştı! Cornell'deki cinsel saldırı dosyasında kritik gelişme: Özel savcı görevlendirildi - CNN Türk"
+  },
+  {
+    "id": "REVIEW-6d42f76f3586",
+    "status": "review",
+    "reason": "Metin, Mersin Kadın Platformu'nun LGBTİ hakları ve genel toplumsal sorunlar üzerine yaptığı bir basın açıklamasını içermektedir. Belirli, münferit bir adli olay veya suç vakası bildirmemektedir.",
+    "source": "evrensel.net",
+    "url": "https://www.evrensel.net/haber/6004084/mersin-kadin-platformu-asil-tehdit-kadin-cinayetleri-mesemler-cocuk-istismari-ve-yoksulluk",
+    "title": "Mersin Kadın Platformu: Asıl tehdit kadın cinayetleri, MESEM’ler, çocuk istismarı ve yoksulluk - Evrensel"
+  },
+  {
+    "id": "REVIEW-52c0def242a1",
+    "status": "review",
+    "reason": "The article is about a legislative bill passed in the National Assembly of France regarding sexual assault and abuse, not a specific local incident report.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fransa-da-cinsel-saldiri-ve-istismarla-mucadele-tasarisi-kabul-edildi-2546512",
+    "title": "Fransa’da cinsel saldırı ve istismarla mücadele tasarısı kabul edildi - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-27547a11cbce",
+    "status": "review",
+    "reason": "The reported events take place outside of Turkey (in Israeli prisons and detention centers involving Palestinian detainees) and fall outside the geographic and jurisdictional scope of the Turkish public-interest news map.",
+    "source": "yeniakit.com.tr",
+    "url": "https://www.yeniakit.com.tr/haber/kemik-kirma-ve-cinsel-taciz-yahudi-medyasi-binlerce-filistinli-israilin-iskence-kamplarinda-tutuluyor-2027865.html",
+    "title": "Kemik kırma ve cinsel taciz! Yahudi medyası: Binlerce Filistinli, İsrail'in işkence kamplarında tutuluyor - Yeni Akit Gazetesi"
+  }
+]
