@@ -506,5 +506,109 @@
     "source": "kibrisgercek.com",
     "url": "https://www.kibrisgercek.com/ozturkler-turkiyenin-kktcye-destegi-mali-degil-stratejik-boyutta",
     "title": "Öztürkler: Türkiye'nin KKTC'ye desteği mali değil, stratejik boyutta - Kibris Gerçek"
+  },
+  {
+    "id": "AUTO-b5e26c611a6b",
+    "title": "Elazığ'da çocuğa cinsel istismar davasında karar",
+    "title_en": "Verdict announced in child sexual abuse case in Elazığ",
+    "summary": "Elazığ'da 14 yaşındaki çocuğa cinsel istismar suçundan yargılanan iki sanığa 30 yıl ve 18 yıl 9 ay hapis cezası verildi.",
+    "summary_en": "Two defendants were sentenced to 30 years and 18 years and 9 months in prison for the sexual abuse of a 14-year-old child in Elazığ.",
+    "date": "2026-10-14",
+    "area": "",
+    "district": "",
+    "province": "Elazığ",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı suçundan mahkumiyet",
+    "legal_en": "Conviction for sexual abuse of a child",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/14-yasindaki-cocuga-cinsel-istismar-davasinda-karar-aciklandi-2546865"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/14-yasindaki-cocuga-cinsel-istismar-davasinda-karar-aciklandi-2546865",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-15T10:04:23.232818+00:00"
+  },
+  {
+    "id": "AUTO-f25095e4e9f9",
+    "title": "Girne’de Çocuğa Cinsel İstismar Suçlaması",
+    "title_en": "Child Sexual Abuse Allegation in Girne",
+    "summary": "Girne'de 8 yaşındaki bir çocuğa yönelik cinsel istismar suçlamasıyla ilgili haber yer almaktadır.",
+    "summary_en": "A news report details an allegation of child sexual abuse directed at an 8-year-old child in Girne.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Girne",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "kibrisgercek.com",
+        "url": "https://www.kibrisgercek.com/15-ekim-2026-kibris-gercek-manset"
+      }
+    ],
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/15-ekim-2026-kibris-gercek-manset",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-15T10:04:23.232868+00:00"
+  },
+  {
+    "id": "REVIEW-bda4d49f825a",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Londra, İngiltere) gerçekleştiği için Türkiye haritası veri kriterlerine uygun değildir.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/10/14/russell-brandin-tecavuz-ve-cinsel-saldiri-davasi-basladi-savcidan-agir-suclamalar",
+    "title": "Russell Brand’in tecavüz ve cinsel saldırı davası başladı: Savcıdan ağır suçlamalar - Euronews.com"
+  },
+  {
+    "id": "REVIEW-b71c0818d551",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in London, United Kingdom).",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/magazin/ingiliz-savcidan-russell-brand-davasinda-sert-sozler-acimasiz-hesapci-ve-bir-cinsel-saldirgan-2546738",
+    "title": "İngiliz savcıdan Russell Brand davasında sert sözler: 'Acımasız, hesapçı ve bir cinsel saldırgan' - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-6eb3a5d62b1f",
+    "status": "review",
+    "reason": "The incident described refers to global reports of AI-generated child exploitation advertisements on social media platforms across multiple countries, lacking a specific localized incident within Turkey.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/yasam/cocuklar-metanin-umurunda-degil-7657724",
+    "title": "META’dan çocuk istismarı rezaleti! Yapay zeka ile üretilmiş cinsel görsel reklamları - Sabah"
+  },
+  {
+    "id": "REVIEW-1bfdb47c0203",
+    "status": "review",
+    "reason": "The article is about political party mayoral candidates and election announcements, which is not relevant to the public-interest crime or violence map categories.",
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/dpnin-lefkosa-adayi-deniz-demircioglu-girne-adayi-dr-ozgur-turk-oldu",
+    "title": "DP’nin Lefkoşa adayı Deniz Demircioğlu, Girne adayı Dr. Özgür Türk oldu - Kibris Gerçek"
+  },
+  {
+    "id": "REVIEW-5aa6b6c0e733",
+    "status": "review",
+    "reason": "Genel operasyon ve istatistik haberi, tekil bir olay içermiyor.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-cocuk-mustehcenliginden-yasa-disi-bahise-son-5-gunde-327-supheli-yakalandi-43338418",
+    "title": "İçişleri Bakanlığı duyurdu | Çocuk müstehcenliğinden yasa dışı bahise: Son 5 günde 327 şüpheli yakalandı - Hürriyet"
+  },
+  {
+    "id": "REVIEW-ab36792ba0c3",
+    "status": "review",
+    "reason": "The article is a historical compilation/chronology of events that happened on October 15 throughout history (such as Atatürk reading Nutuk, elections in 1961, historical figures' births/deaths, etc.). It does not report a specific, current crime, violence incident, or public-interest news map event.",
+    "source": "konyaimza.com",
+    "url": "https://konyaimza.com/service/amp/gundem/15-ekim-tarihte-bugun-turkiye-ve-dunya-tarihinde-neler-oldu-kimler-dogdu-kimler-43274h",
+    "title": "15 Ekim Tarihte Bugün: Türkiye ve Dünya Tarihinde Neler Oldu, Kimler Doğdu, Kimler Öldü? - Konya İmza"
   }
 ]
