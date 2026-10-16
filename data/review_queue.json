@@ -610,5 +610,53 @@
     "source": "konyaimza.com",
     "url": "https://konyaimza.com/service/amp/gundem/15-ekim-tarihte-bugun-turkiye-ve-dunya-tarihinde-neler-oldu-kimler-dogdu-kimler-43274h",
     "title": "15 Ekim Tarihte Bugün: Türkiye ve Dünya Tarihinde Neler Oldu, Kimler Doğdu, Kimler Öldü? - Konya İmza"
+  },
+  {
+    "id": "REVIEW-5abf82670e25",
+    "status": "review",
+    "reason": "Olay, Belçika'da genel bir istatistik ve farkındalık yürüyüşü ile ilgilidir; Türkiye'de gerçekleşen spesifik bir adli olay veya suç vakası değildir.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/avrupa/2026/10/10/belcikada-her-10-kiz-cocugundan-9una-cinsel-taciz",
+    "title": "Belçika'da her 10 kız çocuğundan 9'una cinsel taciz! - Sabah"
+  },
+  {
+    "id": "REVIEW-eb5a348b97de",
+    "status": "review",
+    "reason": "Olay Almanya'da gerçekleşmiştir. Harita kapsamı yalnızca Türkiye sınırları içerisindeki olaylardır.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/amp/dunya/almanya-bir-robotun-16-yasindaki-kiza-cinsel-tacizini-konusuyor-1746420",
+    "title": "Almanya, bir robotun 16 yaşındaki kıza cinsel tacizini konuşuyor - NTV Haber"
+  },
+  {
+    "id": "REVIEW-0179e7180915",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Avustralya) gerçekleşmiştir ve genel bir araştırma/istatistik haberidir, belirli tekil bir adli olayı konu almamaktadır.",
+    "source": "vietnam.vn",
+    "url": "https://www.vietnam.vn/tr/nghien-cuu-canh-bao-xu-huong-gia-tang-tinh-trang-xam-hai-tre-em-tai-australia",
+    "title": "Araştırmalar, Avustralya'da çocuk istismarı vakalarında artış eğilimi olduğuna dair uyarıda bulunuyor. - Vietnam.vn"
+  },
+  {
+    "id": "REVIEW-0b14f78f527b",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in Sweden), therefore it is not relevant to the Turkish public-interest news map.",
+    "source": "odatv.com",
+    "url": "https://www.odatv.com/egitim/sadece-turkiyenin-derdi-degil-ulke-okul-skandalla-sarsildi-prensin-okulu-cok-tartisildi-kral-sessiz-120166810",
+    "title": "Sadece Türkiye'nin derdi değil: Ülke okul skandalla sarsıldı... Prensin okulu çok tartışıldı: Kral sessiz - Odatv"
+  },
+  {
+    "id": "REVIEW-4ddc77a452f9",
+    "status": "review",
+    "reason": "The article is a statistical summary/compilation report of violence against women for a specific month (September 2026) based on various NGO reports and media data, rather than a report of a specific, single incident with verifiable individual details, location, and date.",
+    "source": "gazetekadikoy.com.tr",
+    "url": "https://www.gazetekadikoy.com.tr/gundem/eylul-ayinin-erkek-siddeti-bilancosu",
+    "title": "Eylül ayının erkek şiddeti bilançosu| Haberler - Gazete Kadıköy"
+  },
+  {
+    "id": "REVIEW-76c8885a692a",
+    "status": "review",
+    "reason": "The article is about an election for the presidency of the Turkish Cypriot Barbers' Association and does not report on a public-interest crime or incident within the scope of the news map.",
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/kibris-turk-berberler-birliginin-yeni-baskani-soner-tekeli-oldu",
+    "title": "Kıbrıs Türk Berberler Birliği’nin yeni başkanı Soner Tekeli oldu - Kibris Gerçek"
   }
 ]
