@@ -658,5 +658,45 @@
     "source": "kibrisgercek.com",
     "url": "https://www.kibrisgercek.com/kibris-turk-berberler-birliginin-yeni-baskani-soner-tekeli-oldu",
     "title": "Kıbrıs Türk Berberler Birliği’nin yeni başkanı Soner Tekeli oldu - Kibris Gerçek"
+  },
+  {
+    "id": "REVIEW-d02dc8f1b46e",
+    "status": "review",
+    "reason": "Olay Almanya'da gerçekleşmiştir. Harita yalnızca Türkiye sınırları içindeki olayları kapsamaktadır.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/dunya/almanya-bir-robotun-16-yasindaki-kiza-cinsel-tacizini-konusuyor-1746420",
+    "title": "Almanya, bir robotun 16 yaşındaki kıza cinsel tacizini konuşuyor - NTV Haber"
+  },
+  {
+    "id": "REVIEW-e7e069c0c722",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in India), and the mapping scope is limited to incidents in Turkey.",
+    "source": "evrensel.net",
+    "url": "https://www.evrensel.net/haber/6003407/hindistanda-3-kadin-gazeteciye-cinsel-taciz",
+    "title": "Hindistan’da 3 kadın gazeteciye cinsel taciz - Evrensel"
+  },
+  {
+    "id": "REVIEW-13f1868ba166",
+    "status": "review",
+    "reason": "The article is about a political evaluation of a military exercise and contains no report of an incident relevant to public-interest crime or violence mapping.",
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/ziya-ozturkler-kibris-turk-halkinin-guvencesi-turkiye-ve-mehmetciktir",
+    "title": "Ziya Öztürkler: Kıbrıs Türk halkının güvencesi Türkiye ve Mehmetçiktir - Kibris Gerçek"
+  },
+  {
+    "id": "REVIEW-70047ac8a6b9",
+    "status": "review",
+    "reason": "The article is about sports news regarding UEFA country rankings and football match results, not a public-interest crime incident.",
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/galatasaray-ve-fenerbahcenin-maglubiyetleri-sonrasi-uefa-ulke-puani-guncellendi-turkiye-9-sirada",
+    "title": "Galatasaray ve Fenerbahçe'nin mağlubiyetleri sonrası UEFA ülke puanı güncellendi: Türkiye 9. sırada - Kibris Gerçek"
+  },
+  {
+    "id": "REVIEW-3dc31535da0b",
+    "status": "review",
+    "reason": "The article is about a political condolence message regarding a natural disaster (flood) in Istanbul, not a targeted crime or incident fitting the required categories.",
+    "source": "kibrisgercek.com",
+    "url": "https://www.kibrisgercek.com/unal-ustelden-istanbuldaki-sel-felaketine-iliskin-taziye-mesaji",
+    "title": "Ünal Üstel'den İstanbul'daki sel felaketine ilişkin taziye mesajı - Kibris Gerçek"
   }
 ]
