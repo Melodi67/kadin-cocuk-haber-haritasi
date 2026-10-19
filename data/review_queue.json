@@ -714,5 +714,93 @@
     "source": "akdenizgercek.com.tr",
     "url": "https://www.akdenizgercek.com.tr/kose-yazisi/376735/trumpin-rusya-hesabina-calisan-ajan-oldugu-iddialari-tekrar-gundeme-geldi",
     "title": "Trump'ın Rusya Hesabına Çalışan Ajan Olduğu İddiaları Tekrar Gündeme Geldi - Akdeniz Gerçek"
+  },
+  {
+    "id": "AUTO-ae91bb30f8aa",
+    "title": "Beyoğlu'nda Çocuklara Cinsel İstismar İddiasıyla İddianame",
+    "title_en": "Indictment Filed in Istanbul for Child Abuse",
+    "summary": "İstanbul Beyoğlu'nda iki çocuğa cinsel istismarda bulunduğu iddia edilen şüpheli hakkında hazırlanan iddianamede 20 yıla kadar hapis cezası istendi.",
+    "summary_en": "An indictment has been filed in Istanbul demanding up to 20 years in prison for a suspect accused of child sexual abuse.",
+    "date": "",
+    "area": "",
+    "district": "Beyoğlu",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma",
+    "legal_en": "Child sexual abuse, deprivation of liberty",
+    "sources": [
+      {
+        "publisher": "ahaber.com.tr",
+        "url": "https://www.ahaber.com.tr/yasam/2026/10/19/beyoglunda-iki-cocuga-cinsel-istismar-iddiasi"
+      },
+      {
+        "publisher": "odatv.com",
+        "url": "https://www.odatv.com/guncel/beyoglunda-iki-cocuga-istismar-yusuf-pnin-20-yil-hapsi-istendi-120167288"
+      }
+    ],
+    "source": "ahaber.com.tr",
+    "url": "https://www.ahaber.com.tr/yasam/2026/10/19/beyoglunda-iki-cocuga-cinsel-istismar-iddiasi",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-19T10:55:24.405001+00:00"
+  },
+  {
+    "id": "REVIEW-fc22eb02f8c3",
+    "status": "review",
+    "reason": "Olay Almanya'da gerçekleşmiştir. Türkiye'deki kamu yararına haber haritası kapsamı dışındadır.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/avrupa/alman-ordusunda-bir-cinsel-taciz-skandali-daha-43346896",
+    "title": "Alman Ordusunda bir cinsel taciz skandalı daha - Hürriyet"
+  },
+  {
+    "id": "REVIEW-bab37b29ae52",
+    "status": "review",
+    "reason": "The article discusses a planned children's beauty pageant that was subsequently cancelled by the governorate and faced public and ministerial backlash, rather than reporting a specific completed criminal incident of child abuse or assault.",
+    "source": "ahaber.com.tr",
+    "url": "https://www.ahaber.com.tr/galeri/magazin/antalyadaki-cocuk-guzellik-yarismasina-bakanlik-mudahalesi",
+    "title": "4 yaşındaki çocuklar da yarışacaktı! Bakanlıktan güzellik maskeli istismara neşter - A Haber"
+  },
+  {
+    "id": "REVIEW-b6b5c710e94a",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in Germany), making it ineligible for the Turkey public-interest news map.",
+    "source": "odatv.com",
+    "url": "https://www.odatv.com/dunya/almanya-ayaga-kalkti-orduda-cinsel-iliski-yarismasi-120167323",
+    "title": "Almanya ayağa kalktı: Orduda cinsel ilişki yarışması - Odatv"
+  },
+  {
+    "id": "REVIEW-ae1467c70a5d",
+    "status": "review",
+    "reason": "The article is about the history and significance of Muhtars' Day (Muhtarlar Günü) and does not report any crime, incident, or public-interest map event.",
+    "source": "ahaber.com.tr",
+    "url": "https://www.ahaber.com.tr/yasam/2026/10/19/19-ekim-muhtarlar-gunu-tarihi",
+    "title": "19 Ekim Muhtarlar Günü 2026: Neden kutlanıyor, nasıl ortaya çıktı? - A Haber"
+  },
+  {
+    "id": "REVIEW-bb288b6fb404",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Çin'de) gerçekleşmiştir.",
+    "source": "sozcu.com.tr",
+    "url": "https://www.sozcu.com.tr/cin-de-cocuklarinin-gozu-onunde-anneye-cinsel-saldiri-girisimi-p369184",
+    "title": "Çin'de çocuklarının gözü önünde anneye cinsel saldırı girişimi - Sözcü Gazetesi"
+  },
+  {
+    "id": "REVIEW-d00f34c2b9e1",
+    "status": "review",
+    "reason": "The incident relates to a financial fraud and embezzlement investigation ('fon soruşturması'), which does not fall under the defined categories for this public-interest news map (such as sexual assault, domestic violence, femicide, child abuse, etc.).",
+    "source": "evrensel.net",
+    "url": "https://www.evrensel.net/haber/6005484/fon-sorusturmasinda-ifade-veren-taha-cakmak-iade-hesabina-para-yatirdi-seytan-bunlari-gorse-esas-durusa-gecer",
+    "title": "Fon soruşturmasında ifade veren Taha Çakmak iade hesabına para yatırdı: 'Şeytan bunları görse esas duruşa geçer' - Evrensel"
+  },
+  {
+    "id": "REVIEW-cf6141211e4f",
+    "status": "review",
+    "reason": "The article is a news report about a government minister's statements regarding political discussions, legal complaints, and proposed social media regulations to protect children. It does not report a specific actual criminal incident.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/gundem/bakan-goktastan-15-yas-altina-yonelik-sosyal-medya-duzenlemesine-iliskin-aciklama-istismari-onluyoruz-7678961",
+    "title": "Bakan Göktaş'tan 15 yaş altına yönelik sosyal medya düzenlemesine ilişkin açıklama: İstismarı önlüyoruz - Milliyet"
   }
 ]
