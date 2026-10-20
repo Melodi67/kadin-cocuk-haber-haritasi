@@ -802,5 +802,85 @@
     "source": "milliyet.com.tr",
     "url": "https://www.milliyet.com.tr/gundem/bakan-goktastan-15-yas-altina-yonelik-sosyal-medya-duzenlemesine-iliskin-aciklama-istismari-onluyoruz-7678961",
     "title": "Bakan Göktaş'tan 15 yaş altına yönelik sosyal medya düzenlemesine ilişkin açıklama: İstismarı önlüyoruz - Milliyet"
+  },
+  {
+    "id": "AUTO-6db10530e46c",
+    "title": "İzmir'de cinsel taciz davasında para cezası taksitlendirildi",
+    "title_en": "Fine for sexual harassment case paid in installments in İzmir",
+    "summary": "İzmir'de görülen cinsel taciz davasında mahkeme, sanığı 16 bin 800 TL adli para cezasına çarptırarak ödemenin 5 taksitte yapılmasına ve hükmün açıklanmasının geri bırakılmasına karar verdi.",
+    "summary_en": "In a sexual harassment case in İzmir, the court sentenced the defendant to a judicial fine of 16,800 TL, decided to pay it in 5 installments, and deferred the announcement of the verdict.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "İzmir",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel taciz suçu nedeniyle adli para cezası ve hükmün açıklanmasının geri bırakılması kararı",
+    "legal_en": "Judicial fine and deferment of the announcement of the verdict for the crime of sexual harassment",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/cinsel-taciz-davasinda-tartismali-karar-para-cezasi-taksitlendirildi-2548055"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/cinsel-taciz-davasinda-tartismali-karar-para-cezasi-taksitlendirildi-2548055",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-20T10:10:48.418209+00:00"
+  },
+  {
+    "id": "AUTO-4da4f5329dd9",
+    "title": "Fatmanur Çelik ve Hifa İkra davasında beraat kararı",
+    "title_en": "Acquittal verdict in the Fatmanur Çelik and Hifa İkra case",
+    "summary": "İstanbul'da görülen davada mahkeme, bir çocuğun istismarı ile suçlanan sanık hakkında beraat kararı verdi. Kadın örgütleri kararı protesto etti.",
+    "summary_en": "In an Istanbul trial, the court acquitted the defendant accused of child abuse. Women's organizations protested the verdict.",
+    "date": "",
+    "area": "",
+    "district": "Kartal",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "ekmekvegul.net",
+        "url": "https://ekmekvegul.net/gundem/fatmanur-celik-ve-hifa-ikra-durusmasinda-faile-beraat-karari-ofkeliyiz-yasliyiz-ama-mucadeleye-devam-edecegiz"
+      }
+    ],
+    "source": "ekmekvegul.net",
+    "url": "https://ekmekvegul.net/gundem/fatmanur-celik-ve-hifa-ikra-durusmasinda-faile-beraat-karari-ofkeliyiz-yasliyiz-ama-mucadeleye-devam-edecegiz",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-20T10:10:48.418247+00:00"
+  },
+  {
+    "id": "REVIEW-6d007356b397",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in Germany) and does not involve Turkish public interest or jurisdiction.",
+    "source": "t24.com.tr",
+    "url": "https://t24.com.tr/dunya/alman-ordusunda-cinsel-istismar-skandali-kim-daha-cok-cinsel-iliskiye-girdi-yarisi-yapilmis,1354170",
+    "title": "Alman Ordusunda cinsel istismar skandalı: “Kim daha çok cinsel ilişkiye girdi” yarışı yapılmış! - T24"
+  },
+  {
+    "id": "REVIEW-d26dd13ad81d",
+    "status": "review",
+    "reason": "The text discusses a planned/announced children's beauty pageant and past events, but describes no actual specific criminal incident, police intervention, or specific case of child abuse that has occurred locally beyond opinion commentary and past controversy.",
+    "source": "ahaber.com.tr",
+    "url": "https://www.ahaber.com.tr/galeri/magazin/antalyada-cocuk-guzellik-yarismasi-skandali",
+    "title": "4 yaşındaki çocuklara bikinili podyum rezaleti! Antalya Valiliği o yarışmayı iptal etti - A Haber"
+  },
+  {
+    "id": "REVIEW-26a91041c845",
+    "status": "review",
+    "reason": "The article is an opinion piece/column discussing potential upcoming events and general commentary on child beauty pageants and regulations, rather than reporting a specific, verified past incident with concrete event details.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/yazarlar/gunaydin/funda-karayel/2026/10/17/cocuk-guzellik-yarismasi-yasaklanmali",
+    "title": "Çocuk güzellik yarışması yasaklanmalı! - Sabah"
   }
 ]
