@@ -882,5 +882,101 @@
     "source": "sabah.com.tr",
     "url": "https://www.sabah.com.tr/yazarlar/gunaydin/funda-karayel/2026/10/17/cocuk-guzellik-yarismasi-yasaklanmali",
     "title": "Çocuk güzellik yarışması yasaklanmalı! - Sabah"
+  },
+  {
+    "id": "AUTO-115de9fc1743",
+    "title": "Antep’te iş yerinde cinsel taciz ve saldırı davasında karar duruşması görülecek",
+    "title_en": "Decision hearing to be held in workplace sexual harassment and assault trial in Antep",
+    "summary": "Gaziantep'te bir tekstil fabrikasında kadın işçiye cinsel taciz ve saldırıda bulunduğu iddiasıyla yargılanan fabrika patronunun davasında yarın karar duruşması görülecek.",
+    "summary_en": "The decision hearing for the factory owner on trial for allegedly sexually harassing and assaulting a female worker at a textile factory in Gaziantep will be held tomorrow.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Gaziantep",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı ve cinsel taciz",
+    "legal_en": "Sexual assault and sexual harassment",
+    "sources": [
+      {
+        "publisher": "evrensel.net",
+        "url": "https://www.evrensel.net/haber/6005628/antepte-patronun-cinsel-taciz-ve-cinsel-saldiri-davasinda-karar-gunu-bu-dosyada-adalet-tum-kadin-isciler-icin-onemli"
+      },
+      {
+        "publisher": "sozcu.com.tr",
+        "url": "https://www.sozcu.com.tr/fabrika-patronunun-cinsel-taciz-ve-saldiri-davasi-ertelendi-p371093"
+      }
+    ],
+    "source": "evrensel.net",
+    "url": "https://www.evrensel.net/haber/6005628/antepte-patronun-cinsel-taciz-ve-cinsel-saldiri-davasinda-karar-gunu-bu-dosyada-adalet-tum-kadin-isciler-icin-onemli",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-21T10:18:14.594868+00:00"
+  },
+  {
+    "id": "AUTO-0f26fa908309",
+    "title": "Antalya'da Çocuğa Cinsel İstismar Davasında 30 Yıl Hapis Cezası",
+    "title_en": "30 Years in Prison for Child Sexual Abuse in Antalya",
+    "summary": "Antalya'da dini nikahlı partnerinin 12 yaşındaki kızına yönelik cinsel istismar ve tehdit suçlarından yargılanan sanık, mahkeme tarafından 30 yıl hapis cezasına çarptırıldı ve hakkında yakalama emri çıkarıldı.",
+    "summary_en": "A defendant on trial for the sexual abuse and threats against his partner's 12-year-old daughter in Antalya was sentenced to 30 years in prison by the court, which also issued an arrest warrant.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Antalya",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun nitelikli cinsel istismarı ve tehdit",
+    "legal_en": "Qualified child sexual abuse and threats",
+    "sources": [
+      {
+        "publisher": "aksiyon.com.tr",
+        "url": "https://www.aksiyon.com.tr/adalet-yerini-buldu-antalya-da-cocuga-cinsel-istismar-ve-tehdide-30-yil-hapis-379704"
+      }
+    ],
+    "source": "aksiyon.com.tr",
+    "url": "https://www.aksiyon.com.tr/adalet-yerini-buldu-antalya-da-cocuga-cinsel-istismar-ve-tehdide-30-yil-hapis-379704",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-21T10:18:14.594906+00:00"
+  },
+  {
+    "id": "AUTO-c422a230deda",
+    "title": "Cornell Üniversitesi'ndeki Cinsel Saldırı İddiası ve Protestolar",
+    "title_en": "Sexual Assault Allegation and Protests at Cornell University",
+    "summary": "ABD'deki Cornell Üniversitesi kampüsünde 2024 yılında meydana geldiği belirtilen cinsel saldırı iddiaları üzerine açılan hukuk davası ve soruşturma süreci ülke genelinde protestolara yol açtı. Savcılık dosyayı yeniden incelerken, olayla ilgili hukuki ve idari süreçler devam ediyor.",
+    "summary_en": "A civil lawsuit and investigation regarding an alleged sexual assault at a Cornell University campus in the US in 2024 have sparked nationwide protests. Prosecutors have reopened the case file while legal and administrative processes continue.",
+    "date": "2024-10-19",
+    "area": "",
+    "district": "",
+    "province": "Ithaca",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı ve hukuki tazminat davası",
+    "legal_en": "Sexual assault and civil lawsuit",
+    "sources": [
+      {
+        "publisher": "halktv.com.tr",
+        "url": "https://halktv.com.tr/dunya/unlu-okuldaki-toplu-cinsel-istismar-skandali-abdyi-sarsti-protestolar-ulke-geneline-yayildi-1060530h"
+      }
+    ],
+    "source": "halktv.com.tr",
+    "url": "https://halktv.com.tr/dunya/unlu-okuldaki-toplu-cinsel-istismar-skandali-abdyi-sarsti-protestolar-ulke-geneline-yayildi-1060530h",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-21T10:18:14.594923+00:00"
+  },
+  {
+    "id": "REVIEW-8edb19216f16",
+    "status": "review",
+    "reason": "The article is about an international maritime jurisdiction agreement between Turkey and Libya and does not report on any domestic violence, sexual assault, child abuse, or other crimes meeting the public-interest mapping criteria.",
+    "source": "evrensel.net",
+    "url": "https://www.evrensel.net/haber/6005844/turkiye-libya-deniz-yetki-anlasmasina-hafter-yonetiminden-onay",
+    "title": "Türkiye-Libya deniz yetki anlaşmasına Hafter yönetiminden onay - Evrensel"
   }
 ]
