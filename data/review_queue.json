@@ -978,5 +978,85 @@
     "source": "evrensel.net",
     "url": "https://www.evrensel.net/haber/6005844/turkiye-libya-deniz-yetki-anlasmasina-hafter-yonetiminden-onay",
     "title": "Türkiye-Libya deniz yetki anlaşmasına Hafter yönetiminden onay - Evrensel"
+  },
+  {
+    "id": "AUTO-8c3faaa0136c",
+    "title": "Burdur'da cinsel saldırı ve silahla yaralama suçlamasıyla iddianame kabul edildi",
+    "title_en": "Indictment accepted for sexual assault and armed wounding charges in Burdur",
+    "summary": "Burdur'da bir kişinin araç içerisinde mağdura cinsel saldırıda bulunmaya çalıştığı ve karşı koyması üzerine silahla ağır yaraladığı suçlamasına ilişkin iddianame kabul edilerek dava açıldı.",
+    "summary_en": "An indictment has been accepted for a suspect charged with attempting sexual assault and severely wounding a victim with a firearm inside a vehicle in Burdur.",
+    "date": "2026-05-08",
+    "area": "Şeker Plajı",
+    "district": "Merkez",
+    "province": "Burdur",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı, kasten öldürmeye teşebbüs, ruhsatsız silah bulundurmak",
+    "legal_en": "Sexual assault, attempted intentional homicide, possession of unlicensed firearm",
+    "sources": [
+      {
+        "publisher": "gazetekalem.com.tr",
+        "url": "https://gazetekalem.com.tr/burdurdaki-cinsel-saldiri-ve-silahla-yaralama-suclamasina-iliskin-iddianame-kabul-edildi/"
+      }
+    ],
+    "source": "gazetekalem.com.tr",
+    "url": "https://gazetekalem.com.tr/burdurdaki-cinsel-saldiri-ve-silahla-yaralama-suclamasina-iliskin-iddianame-kabul-edildi/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-22T10:19:10.193378+00:00"
+  },
+  {
+    "id": "AUTO-7857f6c8b4b1",
+    "title": "Lefkoşa'da Çocuk Cinsel Tacizi İddiasıyla Zanlı Tutuklandı",
+    "title_en": "Suspect Arrested in Nicosia on Child Sexual Harassment Allegations",
+    "summary": "Lefkoşa'da 10 yaşındaki bir çocuğa yönelik cinsel taciz suçlamasıyla tutuklanan zanlı mahkemeye çıkarıldı. Mahkeme, zanlının 2 gün süreyle tutuklu kalmasına ve sağlık kontrolünden geçirilmesine karar verdi.",
+    "summary_en": "A suspect arrested in Nicosia on charges of sexual harassment against a 10-year-old child appeared in court. The court ordered a 2-day detention and a medical examination for the suspect.",
+    "date": "2026-10-17",
+    "area": "",
+    "district": "Lefkoşa",
+    "province": "Lefkoşa",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel Taciz",
+    "legal_en": "Sexual Harassment",
+    "sources": [
+      {
+        "publisher": "kibrishaberci.com",
+        "url": "https://www.kibrishaberci.com/lefkosada-10-yasindaki-cocuga-cinsel-taciz-suclamasi-zanliya-2-gun-tutukluluk/"
+      }
+    ],
+    "source": "kibrishaberci.com",
+    "url": "https://www.kibrishaberci.com/lefkosada-10-yasindaki-cocuga-cinsel-taciz-suclamasi-zanliya-2-gun-tutukluluk/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-22T10:19:10.193407+00:00"
+  },
+  {
+    "id": "REVIEW-c44be15c523b",
+    "status": "review",
+    "reason": "The article discusses international cooperation, social service models, and forums between Turkey and Uzbekistan regarding child protection and family policies, rather than reporting a specific verified crime incident.",
+    "source": "trtavaz.com.tr",
+    "url": "https://www.trtavaz.com.tr/haber/tur/turkistandan/turkiye-ve-ozbekistan-arasinda-cocuklarin-korunmasina-yonelik-is-birligi-gucleni/6ad8b5d59e3a7fde58c9ea20",
+    "title": "Türkiye ve Özbekistan arasında çocukların korunmasına yönelik iş birliği güçleniyor - Türkistan'dan - Haber - TRT Avaz"
+  },
+  {
+    "id": "REVIEW-e83af1673e7f",
+    "status": "review",
+    "reason": "The incident is an international news event regarding geopolitical threats and remote work directives for state employees in Saudi Arabia, which falls outside the scope of domestic Turkish public-interest incident mapping for gender-based violence, abuse, or domestic crimes.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskentindeki-devlet-calisanlarina-evden-calismalari-soylendi-7683182",
+    "title": "Husi tehdidi korkutuyor: Suudi Arabistan'da devlet çalışanlarına evden çalışma talimatı - Milliyet"
+  },
+  {
+    "id": "REVIEW-e250730ac530",
+    "status": "review",
+    "reason": "The incident is a financial fraud and organized crime case, which does not fall under the required categories of gender-based violence, abuse, or assault.",
+    "source": "akdenizgercek.com.tr",
+    "url": "https://www.akdenizgercek.com.tr/video/antalya/internetteki-ucuz-ilanlarin-arkasindan-sebeke-cikti-antalya-ve-9-ilde-85-milyonluk-vurgun/387748",
+    "title": "İnternetteki Ucuz İlanların Arkasından Şebeke Çıktı: Antalya ve 9 İlde 85 Milyonluk Vurgun - Akdeniz Gerçek"
   }
 ]
