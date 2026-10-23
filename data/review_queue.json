@@ -1058,5 +1058,57 @@
     "source": "akdenizgercek.com.tr",
     "url": "https://www.akdenizgercek.com.tr/video/antalya/internetteki-ucuz-ilanlarin-arkasindan-sebeke-cikti-antalya-ve-9-ilde-85-milyonluk-vurgun/387748",
     "title": "İnternetteki Ucuz İlanların Arkasından Şebeke Çıktı: Antalya ve 9 İlde 85 Milyonluk Vurgun - Akdeniz Gerçek"
+  },
+  {
+    "id": "AUTO-42d339cc5f40",
+    "title": "12 yıldır kırmızı bültenle aranan firari Büyükçekmece'de yakalandı",
+    "title_en": "Fugitive sought with red notice for 12 years caught in Büyükçekmece",
+    "summary": "Çocuğun cinsel istismarı suçundan hakkında kesinleşmiş hapis cezası bulunan ve 12 yıldır kırmızı bültenle aranan firari hükümlü, Büyükçekmece'de düzenlenen operasyonla yakalanarak gözaltına alındı.",
+    "summary_en": "A fugitive convict sentenced to imprisonment for child sexual abuse and sought with a red notice for 12 years was captured and detained in an operation in Büyükçekmece.",
+    "date": "",
+    "area": "",
+    "district": "Büyükçekmece",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "cnnturk.com",
+        "url": "https://www.cnnturk.com/turkiye/12-yildir-kirmizi-bultenle-aranan-firari-buyukcekmecede-yakalandi-3483085"
+      }
+    ],
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/turkiye/12-yildir-kirmizi-bultenle-aranan-firari-buyukcekmecede-yakalandi-3483085",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-23T10:12:52.205186+00:00"
+  },
+  {
+    "id": "REVIEW-e4b58032d499",
+    "status": "review",
+    "reason": "The incident occurred in New York, USA, which is outside Turkey. This map only tracks incidents within Turkey.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/dunya/son-dakika-dunya-devi-amazonda-cinsel-saldiri-skandali-otel-odasina-geldi-7685359",
+    "title": "Dünya devi Amazon'da 'cinsel saldırı' skandalı! 'Otel odasına geldi' - Milliyet"
+  },
+  {
+    "id": "REVIEW-bcfe82da8fe3",
+    "status": "review",
+    "reason": "The article is about a sports match and UEFA country rankings, not a public-interest crime or incident falling within the specified categories.",
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/galatasarayin-lille-zaferi-sonrasi-uefa-ulke-puani-guncellendi-turkiye-kacinci-sirada",
+    "title": "Galatasaray'ın Lille zaferi sonrası UEFA ülke puanı güncellendi: Türkiye kaçıncı sırada? - https://www.babaocagi.com/"
+  },
+  {
+    "id": "REVIEW-1574aea314ae",
+    "status": "review",
+    "reason": "The incident location is in the Philippines (Cebu), which is outside Turkey.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/kelebek/magazin/kraliyet-ailesine-sok-meghanin-babasinin-evinde-cocuk-istismari-gorselleri-bulundu-43351880",
+    "title": "Kraliyet ailesine şok: Meghan’ın babasının evinde çocuk istismarı görselleri bulundu! - Hürriyet"
   }
 ]
