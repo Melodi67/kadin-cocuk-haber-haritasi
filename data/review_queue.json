@@ -1110,5 +1110,81 @@
     "source": "hurriyet.com.tr",
     "url": "https://www.hurriyet.com.tr/kelebek/magazin/kraliyet-ailesine-sok-meghanin-babasinin-evinde-cocuk-istismari-gorselleri-bulundu-43351880",
     "title": "Kraliyet ailesine şok: Meghan’ın babasının evinde çocuk istismarı görselleri bulundu! - Hürriyet"
+  },
+  {
+    "id": "AUTO-8cba1b52393e",
+    "title": "Engelli Kadına Cinsel Saldırı Davasında Ara Karar Açıklandı",
+    "title_en": "Interim Decision Announced in Sexual Assault Trial Against Disabled Woman",
+    "summary": "Bolu ve Düzce'de engelli bir kadına cinsel saldırıda bulunulduğu iddiasıyla açılan davada 4 sanık hakim karşısına çıktı. Mahkeme sanıkların tutukluluk halinin devamına karar verirken, bir sanık duruşmada itirafta bulundu.",
+    "summary_en": "Four defendants appeared before the judge in a trial alleging the sexual assault of a disabled woman between Bolu and Düzce. The court ordered the continued detention of all defendants, while one defendant made a confession during the hearing.",
+    "date": "",
+    "area": "Yolçatı köyü",
+    "district": "",
+    "province": "Bolu",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli Cinsel Saldırı",
+    "legal_en": "Aggravated Sexual Assault",
+    "sources": [
+      {
+        "publisher": "bolununsesi.com",
+        "url": "https://www.bolununsesi.com/haber/173331/engelli-kadina-cinsel-saldiri-davasinda-ara-karar-aciklandi-1-sanik-itiraf-etti"
+      }
+    ],
+    "source": "bolununsesi.com",
+    "url": "https://www.bolununsesi.com/haber/173331/engelli-kadina-cinsel-saldiri-davasinda-ara-karar-aciklandi-1-sanik-itiraf-etti",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-24T09:37:47.974255+00:00"
+  },
+  {
+    "id": "REVIEW-e49a3f8c54da",
+    "status": "review",
+    "reason": "The reported incident and investigation are taking place in the Philippines and involve foreign public figures, lacking a direct localized incident within Turkey.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/10/23/meghan-markle-babasi-hakkindaki-cocuk-istismari-iddialari-karsisinda-sarsildigini-belirtti",
+    "title": "Meghan Markle: Babam hakkındaki iddialar beni \"derinden sarstı\" - Euronews.com"
+  },
+  {
+    "id": "REVIEW-f99456360af1",
+    "status": "review",
+    "reason": "The text discusses a past acquittal in a sexual harassment case and a current trial regarding extortion (irtikap), with no new verifiable incident fitting the required incident criteria.",
+    "source": "bolununsesi.com",
+    "url": "https://www.bolununsesi.com/haber/173348/tanju-ozcan-beni-butun-turkiyeye-rezil-ettiler",
+    "title": "Tanju Özcan: “Beni bütün Türkiye’ye rezil ettiler” - Bolununsesi"
+  },
+  {
+    "id": "REVIEW-daff810b9059",
+    "status": "review",
+    "reason": "The incident described took place abroad (in the Philippines) and involves foreign public figures, making it outside the scope of domestic Turkish public-interest incident mapping.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/kelebek/magazin/babasinin-evinde-cocuk-istismari-goruntuleri-bulunmustu-sonunda-sessizligini-bozdu-bundan-sekiz-yildir-haberim-var-43352562",
+    "title": "Babasının evinde çocuk istismarı görüntüleri bulunmuştu: Meghan Markle sessizliğini bozdu... 'Bundan sekiz yıldır haberim var' - Hürriyet"
+  },
+  {
+    "id": "REVIEW-42392b6ebb64",
+    "status": "review",
+    "reason": "The incident took place in the Philippines and involves a US citizen, outside of Turkey.",
+    "source": "sozcu.com.tr",
+    "url": "https://www.sozcu.com.tr/ingiliz-prensesinin-babasinin-evinden-kutu-kutu-cocuk-istismari-goruntuleri-cikti-p372011",
+    "title": "İngiliz prensesinin babasının evinden 'kutu kutu çocuk istismarı görüntüleri' çıktı - Sözcü Gazetesi"
+  },
+  {
+    "id": "REVIEW-9ead2cd3264c",
+    "status": "review",
+    "reason": "Makale siyasi bir köşe yazısıdır, haber konusu herhangi bir suç olayını veya kamusal şiddet olayını içermemektedir.",
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/cem-ozkeskinden-carpici-yazi-doktor-saim-ve-ceyrek-asirlik-turkiye",
+    "title": "Cem Özkeskin’den çarpıcı yazı: 'Doktor Saim ve çeyrek asırlık Türkiye' - https://www.babaocagi.com/"
+  },
+  {
+    "id": "REVIEW-73319bfd40a9",
+    "status": "review",
+    "reason": "The incident is a natural disaster (heavy rainfall/flooding) rather than a targeted crime or violence falling under the requested categories.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-un-saganak-bilancosu-aciklandi-47-mahsur-kalma-olayi-yasandi-2546820",
+    "title": "İstanbul’un sağanak bilançosu açıklandı! 47 mahsur kalma olayı yaşandı - Cumhuriyet"
   }
 ]
