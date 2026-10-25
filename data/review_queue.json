@@ -1186,5 +1186,21 @@
     "source": "cumhuriyet.com.tr",
     "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-un-saganak-bilancosu-aciklandi-47-mahsur-kalma-olayi-yasandi-2546820",
     "title": "İstanbul’un sağanak bilançosu açıklandı! 47 mahsur kalma olayı yaşandı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-0c92ae917e39",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Filipinler) gerçekleşmiştir.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/10/25/meghan-marklein-babasi-hakkindaki-cocuk-istismari-iddialari-eski-evinde-bulunan-bilgisayar",
+    "title": "Filipinler polisi, Thomas Markle hakkındaki iddiaları soruşturuyor - Euronews.com"
+  },
+  {
+    "id": "REVIEW-d667bdf95b7d",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (South Korea), making it ineligible for the Turkish public-interest news map.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/dunya/son-dakika-mesih-olduguna-inandirmisti-kadin-muritlerine-cinsel-saldiri-suclamasiyla-33-yil-daha-aldi-7683007",
+    "title": "Mesih olduğuna inandırmıştı: Kadın müritlerine cinsel saldırı suçlamasıyla 33 yıl daha aldı - Milliyet"
   }
 ]
