@@ -1202,5 +1202,89 @@
     "source": "milliyet.com.tr",
     "url": "https://www.milliyet.com.tr/dunya/son-dakika-mesih-olduguna-inandirmisti-kadin-muritlerine-cinsel-saldiri-suclamasiyla-33-yil-daha-aldi-7683007",
     "title": "Mesih olduğuna inandırmıştı: Kadın müritlerine cinsel saldırı suçlamasıyla 33 yıl daha aldı - Milliyet"
+  },
+  {
+    "id": "AUTO-5d82d0f661c5",
+    "title": "İstanbul'da Sokakta Cinsel Taciz İddiası ve Arbede",
+    "title_en": "Street Sexual Harassment Allegation and Brawl in Istanbul",
+    "summary": "İstanbul Kağıthane'de sokakta yürüyen bir kadını takip ederek cinsel tacizde bulunduğu iddia edilen şüpheli, vatandaşlar tarafından yakalandı. Olay yerine gelen polis ekipleri şüpheliyi gözaltına aldı.",
+    "summary_en": "A suspect accused of following and sexually harassing a woman on the street in Kağıthane, Istanbul, was caught by citizens. Police teams arrived at the scene and detained the suspect.",
+    "date": "2026-10-23",
+    "area": "Sultan Selim Mahallesi",
+    "district": "Kağıthane",
+    "province": "İstanbul",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel saldırı",
+    "legal_en": "Sexual assault",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-kadina-sokakta-taciz-iddiasi-utan-biraz-diye-bagirdi-arbede-cikti-2550023"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-kadina-sokakta-taciz-iddiasi-utan-biraz-diye-bagirdi-arbede-cikti-2550023",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-26T11:16:13.329833+00:00"
+  },
+  {
+    "id": "REVIEW-28ce59ad725f",
+    "status": "review",
+    "reason": "The incident occurred outside Turkey and does not involve Turkish citizens or Turkish territory.",
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo",
+    "title": "Meghan Markle'ın babası hakkındaki istismar iddialarıyla ilgili neler biliniyor? - BBC"
+  },
+  {
+    "id": "REVIEW-8324ae17070a",
+    "status": "review",
+    "reason": "The news article reports on general police operations involving the extradition of 63 fugitives wanted for various crimes from multiple countries over a month-long period, lacking a specific single incident with defined date, location, and details suitable for a localized incident map.",
+    "source": "dha.com.tr",
+    "url": "https://www.dha.com.tr/gundem/ulusal-ve-uluslararasi-duzeyde-aranan-63-suclu-yakalanarak-turkiyeye-iade-edildi-2969742",
+    "title": "Ulusal ve uluslararası düzeyde aranan 63 suçlu yakalanarak Türkiye'ye iade edildi - DHA | Demirören Haber Ajansı"
+  },
+  {
+    "id": "REVIEW-2c91c4e1f3dd",
+    "status": "review",
+    "reason": "The article is a general roundup report about multiple fugitives apprehended abroad and extradited to Turkey for various crimes over a month-long period, lacking a single specific incident location, date, and verifiable individual case details suitable for a localized map.",
+    "source": "tv5.com.tr",
+    "url": "https://www.tv5.com.tr/kirmizi-bultenle-ve-ulusal-seviyede-aranan-63-firari-suclu-turkiyeye-getirildi",
+    "title": "Kırmızı bültenle ve ulusal seviyede aranan 63 firari suçlu Türkiye'ye getirildi - TV5 Haber"
+  },
+  {
+    "id": "REVIEW-be5108205818",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Kuzey İrlanda) gerçekleşmiştir.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/dunya/kuzey-irlanda-da-cocuk-istismari-skandali-eski-parti-liderine-15-yil-hapis-2547082",
+    "title": "Kuzey İrlanda'da çocuk istismarı skandalı: Eski parti liderine 15 yıl hapis - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-7feaa9b244a9",
+    "status": "review",
+    "reason": "The article is about political party transfers and a call for early elections by a politician, not a public-interest crime incident such as violence, assault, abuse, or femicide.",
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/iyi-partiden-vekil-ve-belediye-baskani-transferlerine-tepki-cikis-yolu-icin-derhal-secim-diyoruz",
+    "title": "İYİ Parti'den 'vekil ve belediye başkanı' transferlerine tepki: Çıkış yolu için derhal 'seçim' diyoruz - https://www.babaocagi.com/"
+  },
+  {
+    "id": "REVIEW-04da726aecf3",
+    "status": "review",
+    "reason": "The article reports on a general law enforcement operation involving the extradition of multiple individuals wanted for various crimes from different foreign countries to Turkey. It does not focus on a single specific local public-interest incident occurring within a defined Turkish province or neighborhood.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/yasam/son-dakika-icisleri-bakani-mustafa-ciftci-acikladi-33u-kirmizi-bultenle-aranan-63-suclu-turkiyeye-getirildi-7688546",
+    "title": "SON DAKİKA! 33'ü kırmızı bültenle aranan 63 suçlu Türkiye'ye getirildi! Aralarında Survivor Hikmet Tuğsuz ve oyuncu Cengizhan Yurdutek de var! - Sabah"
+  },
+  {
+    "id": "REVIEW-3583f25d2fe0",
+    "status": "review",
+    "reason": "The text discusses political allegations and statements denying them, but lacks specific, verifiable incident details such as a definite date or location for the alleged event, focusing instead on political commentary and phone call accounts.",
+    "source": "haberrize.com.tr",
+    "url": "https://www.haberrize.com.tr/gundem/mustafa-sarigulden-cinsel-saldiri-iddiasina-yanit-iddia-kesinlikle-dogru-degil/2012104",
+    "title": "Mustafa Sarıgül’den Cinsel Saldırı İddiasına Yanıt: “İddia Kesinlikle Doğru Değil” - HABER RİZE"
   }
 ]
