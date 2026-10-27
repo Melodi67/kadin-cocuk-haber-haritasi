@@ -1286,5 +1286,73 @@
     "source": "haberrize.com.tr",
     "url": "https://www.haberrize.com.tr/gundem/mustafa-sarigulden-cinsel-saldiri-iddiasina-yanit-iddia-kesinlikle-dogru-degil/2012104",
     "title": "Mustafa Sarıgül’den Cinsel Saldırı İddiasına Yanıt: “İddia Kesinlikle Doğru Değil” - HABER RİZE"
+  },
+  {
+    "id": "AUTO-931c3c60e35c",
+    "title": "ABD'de 'korku evi' olarak anılan malikanede çocuk istismarı davası",
+    "title_en": "Child abuse case unfolds in US mansion dubbed 'house of horrors'",
+    "summary": "ABD'nin California eyaletinde bir malikanede, taşıyıcı annelik yoluyla dünyaya gelen çocukların istismar edildiği iddialarıyla ilgili açılan soruşturma ve dava süreci detaylandırılıyor. Çift çocuk istismarı komplosuyla suçlanıyor.",
+    "summary_en": "An investigation and trial unfold in California, USA, regarding allegations of child abuse involving children born via surrogacy kept in a mansion. A couple faces charges of conspiracy to commit child abuse.",
+    "date": "2025-05-01",
+    "area": "",
+    "district": "Arcadia",
+    "province": "California",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuk istismarı suçu işlemek için komplo kurma, çocuk istismarı",
+    "legal_en": "Conspiracy to commit child abuse, child abuse",
+    "sources": [
+      {
+        "publisher": "bbc.com",
+        "url": "https://www.bbc.com/turkce/articles/cmgr8drlev44o"
+      }
+    ],
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/cmgr8drlev44o",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-27T10:41:55.398739+00:00"
+  },
+  {
+    "id": "REVIEW-989b78235567",
+    "status": "review",
+    "reason": "The text primarily concerns large-scale financial crimes (money laundering, fraud) and political allegations, while the mention of sexual assault is an unverified journalistic claim attributed to a secret witness and a reporter, lacking official judicial confirmation as a formal adjudicated charge or official indictment for that specific act.",
+    "source": "tr724.com",
+    "url": "https://www.tr724.com/ozel-haber-kara-para-aklamaktan-cinsel-saldiri-iddialarina-sarigul-dosyasi/",
+    "title": "ÖZEL HABER | Kara para aklamaktan cinsel saldırı iddialarına: Sarıgül dosyası - TR724"
+  },
+  {
+    "id": "REVIEW-34d28f4ee797",
+    "status": "review",
+    "reason": "The article is a general summary of Ministry of Interior operations regarding the extradition of 63 wanted individuals over a one-month period across multiple countries and various unspecified crimes, lacking a specific single incident, exact date, or location within Turkey.",
+    "source": "10haber.net",
+    "url": "https://10haber.net/gundem/33u-hakkinda-kirmizi-bulten-vardi-aranan-63-kisi-turkiyeye-getirildi-749216/",
+    "title": "» 33’ü hakkında kırmızı bülten vardı: Aranan 63 kişi Türkiye’ye getirildi - 10Haber"
+  },
+  {
+    "id": "REVIEW-40d873cb50ee",
+    "status": "review",
+    "reason": "The incident described took place outside Turkey (in the Philippines and involving UK/US public figures) and lacks any connection to Turkey, making it ineligible for a Turkish public-interest news map.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/kelebek/magazin/istismar-skandalinda-sular-durulmuyor-meghani-uyaran-kisi-uvey-annesiymis-o-adam-tehlikeli-cocuklarina-sakin-yaklastirma-43354248",
+    "title": "İstismar skandalında sular durulmuyor… Meghan’ı uyaran kişi üvey annesiymiş: O adam tehlikeli, çocuklarına sakın yaklaştırma! - Hürriyet"
+  },
+  {
+    "id": "REVIEW-e64aca665fa7",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (Cornell University, USA), and the data schema is intended for a Turkish public-interest news map.",
+    "source": "cgtnturk.com",
+    "url": "https://www.cgtnturk.com/abdde-toplu-tecavuz-iddialari-ogrenci-partileri-iptal-edildi",
+    "title": "ABD'de toplu tecavüz iddiaları: Öğrenci partileri iptal edildi - CGTN Türk"
+  },
+  {
+    "id": "REVIEW-41eb313a3782",
+    "status": "review",
+    "reason": "The article is a political news report about statements made by a party leader regarding national politics, alliances, economic policies, and foreign relations. It does not report on a specific criminal incident such as violence, abuse, or assault.",
+    "source": "babaocagi.com.tr",
+    "url": "https://www.babaocagi.com.tr/devlet-bahcelinin-ardindan-umit-ozdagdan-turk-milliyetcisi-partilere-ittifak-cagrisi",
+    "title": "Devlet Bahçeli'nin ardından Ümit Özdağ'dan Türk milliyetçisi partilere ittifak çağrısı! - https://www.babaocagi.com/"
   }
 ]
