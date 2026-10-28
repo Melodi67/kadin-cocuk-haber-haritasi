@@ -1354,5 +1354,93 @@
     "source": "babaocagi.com.tr",
     "url": "https://www.babaocagi.com.tr/devlet-bahcelinin-ardindan-umit-ozdagdan-turk-milliyetcisi-partilere-ittifak-cagrisi",
     "title": "Devlet Bahçeli'nin ardından Ümit Özdağ'dan Türk milliyetçisi partilere ittifak çağrısı! - https://www.babaocagi.com/"
+  },
+  {
+    "id": "AUTO-a334210004b4",
+    "title": "Mustafa Sarıgül hakkında cinsel saldırı iddiası ve korumanın savcılık ifadesi",
+    "title_en": "Sexual assault allegations against Mustafa Sarıgül and bodyguard's prosecutor statement",
+    "summary": "Bir siyasetçinin yakın koruması, savcılık ifadesinde yıllarca cinsel saldırıya uğradığını iddia etti. Olayla ilgili soruşturma ve iddialar basına yansıdı.",
+    "summary_en": "A close bodyguard of a politician claimed in a prosecutor's statement that he was subjected to sexual assault for years. Investigations and allegations were reflected in the press.",
+    "date": "",
+    "area": "",
+    "district": "Şişli",
+    "province": "İstanbul",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Nitelikli cinsel saldırı iddiası",
+    "legal_en": "Allegation of qualified sexual assault",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/korumasindan-mustafa-sarigulun-dokunulmazligini-kaldiracak-ifade-43357363"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/korumasindan-mustafa-sarigulun-dokunulmazligini-kaldiracak-ifade-43357363",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-28T11:26:20.092172+00:00"
+  },
+  {
+    "id": "AUTO-cc07aec8c493",
+    "title": "Sarıgül hakkında cinsel saldırı iddiasıyla soruşturma başlatıldı",
+    "title_en": "Investigation launched into sexual assault allegations against Sarıgül",
+    "summary": "Eski bir korumanın savcılık ifadesine dayandırılan haberde, bir milletvekili hakkında cinsel saldırı iddiasıyla soruşturma yürütüldüğü belirtildi. Şüpheli sıfatındaki kişi suçlamaları reddetti.",
+    "summary_en": "News based on a former bodyguard's prosecutor statement indicates an ongoing investigation into sexual assault allegations against a parliament member. The accused denied the charges.",
+    "date": "2026-10-16",
+    "area": "",
+    "district": "",
+    "province": "",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel Saldırı ve Soruşturma",
+    "legal_en": "Sexual Assault and Investigation",
+    "sources": [
+      {
+        "publisher": "serbestiyet.com",
+        "url": "https://serbestiyet.com/haberler/mustafa-sarigul-hakkinda-cinsel-saldiri-iddiasi-eski-korumasinin-savcilik-ifadesi-ortaya-cikti-252369/"
+      }
+    ],
+    "source": "serbestiyet.com",
+    "url": "https://serbestiyet.com/haberler/mustafa-sarigul-hakkinda-cinsel-saldiri-iddiasi-eski-korumasinin-savcilik-ifadesi-ortaya-cikti-252369/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-28T11:26:20.092205+00:00"
+  },
+  {
+    "id": "REVIEW-eaf4d359d900",
+    "status": "review",
+    "reason": "The incident involves an animal (a stray dog) rather than a human victim, so it does not fall under the required categories of human-related violence or abuse.",
+    "source": "akdenizmanset.com.tr",
+    "url": "https://www.akdenizmanset.com.tr/kopege-cinsel-tacize-hapis",
+    "title": "Köpeğe cinsel tacize hapis - Antalya Haberleri - Akdenizmanset"
+  },
+  {
+    "id": "REVIEW-8983d1205942",
+    "status": "review",
+    "reason": "Genel bir Interpol operasyonuyla yurt dışından Türkiye'ye iade edilen çok sayıda şüpheliyi konu almaktadır; belirli tekil bir olay haber haritası kriterlerine uymamaktadır.",
+    "source": "sabah.com.tr",
+    "url": "https://m.sabah.com.tr/yasam/63-supheli-turkiyeye-iade-edildi-7688879/amp",
+    "title": "63 şüpheli Türkiye’ye iade edildi - Sabah"
+  },
+  {
+    "id": "REVIEW-d9535262f07d",
+    "status": "review",
+    "reason": "Genel bir operasyon ve çok sayıda şüphelinin uluslararası iadesi haberi olup, belirli tekil bir olay veya insana ait somut bir suç olayı detayları içermemektedir.",
+    "source": "akdenizmanset.com.tr",
+    "url": "https://www.akdenizmanset.com.tr/ulusal-ve-uluslararasi-duzeyde-aranan-63-suclu-yakalanarak-turkiyeye-iade-edildi",
+    "title": "Ulusal ve uluslararası düzeyde aranan 63 suçlu yakalanarak Türkiye'ye iade edildi - Akdenizmanset"
+  },
+  {
+    "id": "REVIEW-4baa64fa05be",
+    "status": "review",
+    "reason": "The incident pertains to financial fraud and corruption allegations involving a corporate executive, which does not fall under the targeted categories of gender-based violence, abuse, or public-interest crimes mapped by this system.",
+    "source": "notbir.com.tr",
+    "url": "https://notbir.com.tr/gundem/istifa-eden-turkiye-sigorta-genel-muduru-taha-cakmak-yeniden-gozaltinda",
+    "title": "İstifa eden Türkiye Sigorta Genel Müdürü Taha Çakmak yeniden gözaltında - Notbir"
   }
 ]
