@@ -1442,5 +1442,49 @@
     "source": "notbir.com.tr",
     "url": "https://notbir.com.tr/gundem/istifa-eden-turkiye-sigorta-genel-muduru-taha-cakmak-yeniden-gozaltinda",
     "title": "İstifa eden Türkiye Sigorta Genel Müdürü Taha Çakmak yeniden gözaltında - Notbir"
+  },
+  {
+    "id": "AUTO-4d6b93816400",
+    "title": "Sarıgül dosyasında cinsel istismar ve kara para soruşturması",
+    "title_en": "Sexual abuse and money laundering investigation in Sarıgül case",
+    "summary": "Erzincan Milletvekili Mustafa Sarıgül hakkında koruması tarafından cinsel istismar iddiaları ortaya atılırken, Sarıgül ve ailesi hakkında kara para aklama, dolandırıcılık ve suç örgütü kurma suçlamalarıyla yürütülen soruşturmalar derinleştiriliyor.",
+    "summary_en": "While allegations of sexual abuse against MP Mustafa Sarıgül were raised by his bodyguard, investigations into money laundering, fraud, and forming a criminal organization against Sarıgül and his family are being deepened.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Ankara",
+    "category": "other",
+    "type": "other",
+    "legal": "Cinsel istismar, suç işlemek amacıyla örgüt kurma, suçtan kaynaklanan mal varlığı değerlerini aklama, dolandırıcılık, tehdit",
+    "legal_en": "Sexual abuse, forming an organization with the intent to commit a crime, laundering assets derived from crime, fraud, threat",
+    "sources": [
+      {
+        "publisher": "dw.com",
+        "url": "https://www.dw.com/tr/mustafa-sar%C4%B1g%C3%BCl-yarg%C4%B1-k%C4%B1skac%C4%B1nda-su%C3%A7lamalar-neler/a-79789080"
+      }
+    ],
+    "source": "dw.com",
+    "url": "https://www.dw.com/tr/mustafa-sar%C4%B1g%C3%BCl-yarg%C4%B1-k%C4%B1skac%C4%B1nda-su%C3%A7lamalar-neler/a-79789080",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-10-29T11:36:41.399244+00:00"
+  },
+  {
+    "id": "REVIEW-50b8e50c6516",
+    "status": "review",
+    "reason": "The article reports a general roundup and extradition of 63 fugitives by the Ministry of Interior for various crimes across multiple countries and provinces over a one-month period, lacking a specific single incident, exact date, or location suitable for a point-based news map.",
+    "source": "yeniasya.com.tr",
+    "url": "https://www.yeniasya.com.tr/gundem/kirmizi-bultenle-ve-ulusal-seviyede-aranan-63-firari-suclu-turkiye-ye-getirildi_627735",
+    "title": "Kırmızı bültenle ve ulusal seviyede aranan 63 firari suçlu Türkiye'ye getirildi - Yeni Asya"
+  },
+  {
+    "id": "REVIEW-726176d4f8b2",
+    "status": "review",
+    "reason": "The news article reports on a general law enforcement operation involving the extradition of 63 suspects from various foreign countries for numerous different crimes, rather than a single specific local public-interest incident in Turkey.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/yasam/63-supheli-turkiyeye-iade-edildi-7688879",
+    "title": "63 şüpheli Türkiye’ye iade edildi - Sabah"
   }
 ]
