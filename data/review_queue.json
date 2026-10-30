@@ -1486,5 +1486,29 @@
     "source": "sabah.com.tr",
     "url": "https://www.sabah.com.tr/yasam/63-supheli-turkiyeye-iade-edildi-7688879",
     "title": "63 şüpheli Türkiye’ye iade edildi - Sabah"
+  },
+  {
+    "id": "REVIEW-c5e4cee5e4df",
+    "status": "review",
+    "reason": "The article is a general security roundup reporting the extradition of 63 wanted individuals with various distinct charges across multiple countries and dates, lacking a single specific localized incident suitable for mapping.",
+    "source": "dha.com.tr",
+    "url": "https://www.dha.com.tr/yerel-haberler/ankara/ulusal-ve-uluslararasi-duzeyde-aranan-63-suclu-2969848",
+    "title": "Ulusal ve uluslararası düzeyde aranan 63 suçlu yakalanarak Türkiye'ye iade edildi - DHA | Demirören Haber Ajansı"
+  },
+  {
+    "id": "REVIEW-f6fb04a381ad",
+    "status": "review",
+    "reason": "The text discusses unverified allegations, political statements, and ongoing investigations without specific verifiable incident dates or exact locations.",
+    "source": "numedya24.tv",
+    "url": "https://www.numedya24.tv/ozel-sarigul-hakkindaki-iddialar-icin-konustu/",
+    "title": "Özel, Sarıgül hakkındaki iddialar için konuştu — 'Doğru çıkarsa biz de savunamayız' - Nûmedya24"
+  },
+  {
+    "id": "REVIEW-f6d307546fd0",
+    "status": "review",
+    "reason": "The article is a general warning and informational piece about online child exploitation and AI-based blackmail in Germany, rather than a report on a specific concrete incident.",
+    "source": "arti49.com",
+    "url": "https://www.arti49.com/service/amp/turkten-korkutan-uyari-yapay-zekayla-cocuklara-santaj-artiyor-2403770h.htm",
+    "title": "Türk'ten korkutan uyarı: Yapay zekayla çocuklara şantaj artıyor - Almanya Haberleri | ARTI49"
   }
 ]
