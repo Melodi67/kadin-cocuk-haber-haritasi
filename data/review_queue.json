@@ -1510,5 +1510,73 @@
     "source": "arti49.com",
     "url": "https://www.arti49.com/service/amp/turkten-korkutan-uyari-yapay-zekayla-cocuklara-santaj-artiyor-2403770h.htm",
     "title": "Türk'ten korkutan uyarı: Yapay zekayla çocuklara şantaj artıyor - Almanya Haberleri | ARTI49"
+  },
+  {
+    "id": "AUTO-9dd35b789daf",
+    "title": "Adana'da Hastanede Kızını Öldürmeye Çalışan Baba Tutuklandı",
+    "title_en": "Father Trying to Kill Daughter in Hospital Arrested in Adana",
+    "summary": "Adana'da cinsel istismara uğradığını öne süren kızını hastanede koruma altındayken silahla öldürmeye çalışan baba, özel harekat operasyonuyla yakalanarak tutuklandı.",
+    "summary_en": "A father who tried to kill his daughter with a gun while she was under protection in a hospital in Adana after she alleged sexual abuse was caught and arrested in a special operations raid.",
+    "date": "2026-10-31",
+    "area": "Meydan Mahallesi",
+    "district": "Seyhan",
+    "province": "Adana",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Kasten öldürmeye teşebbüs, silahlı saldırı",
+    "legal_en": "Attempted murder, armed attack",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/gundem/cinsel-istismara-ugrayan-kizini-hastanede-oldurmeye-calisti-1748741"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/gundem/cinsel-istismara-ugrayan-kizini-hastanede-oldurmeye-calisti-1748741",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-01T11:54:33.275766+00:00"
+  },
+  {
+    "id": "REVIEW-5f48b14f33bf",
+    "status": "review",
+    "reason": "The article primarily discusses a large-scale financial money laundering and corruption investigation, with passing allegations of sexual assault mentioned as part of political and legal controversies, lacking a specific primary localized violent crime incident fitting the map criteria.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-iki-tutuklama-daha-1748767",
+    "title": "Sarıgül soruşturmasında iki tutuklama daha - NTV Haber"
+  },
+  {
+    "id": "REVIEW-a26697883d40",
+    "status": "review",
+    "reason": "The article discusses a general UNICEF report on global digital child sexual abuse and mentions a retrospective academic study on Ankara Child Monitoring Center files, but it does not report a specific, singular, verifiable news incident with a definite date and location.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/gundem/goruntu-sahte-utanc-gercek-yapay-zekali-santaja-dikkat-43361214",
+    "title": "Görüntü sahte, utanç gerçek... ‘Yapay zekâlı şantaj’a dikkat - Hürriyet"
+  },
+  {
+    "id": "REVIEW-c9a03e71ee6d",
+    "status": "review",
+    "reason": "The article reports a general operation by the Ministry of Interior bringing 63 fugitives back to Turkey from various countries for various crimes, without detailing a specific individual incident suitable for the incident map.",
+    "source": "indyturk.com",
+    "url": "https://www.indyturk.com/node/784337/haber/k%C4%B1rm%C4%B1z%C4%B1-b%C3%BCltenle-ve-ulusal-seviyede-aranan-63-firari-su%C3%A7lu-t%C3%BCrkiyeye-getirildi",
+    "title": "Kırmızı bültenle ve ulusal seviyede aranan 63 firari suçlu Türkiye'ye getirildi - Independent Türkçe"
+  },
+  {
+    "id": "REVIEW-fd46218fceb4",
+    "status": "review",
+    "reason": "The article is a news report about a government minister's statements, policy evaluations, and international meetings regarding social services and child welfare, rather than a specific criminal incident.",
+    "source": "aile.gov.tr",
+    "url": "https://www.aile.gov.tr/balikesir/haberler/aile-ve-sosyal-hizmetler-bakanimiz-goektas-oezbekistanda-basin-mensuplarina-degerlendirmede-bulundu/",
+    "title": "Aile ve Sosyal Hizmetler Bakanımız Göktaş, Özbekistan'da basın mensuplarına değerlendirmede bulundu: - Aile ve Sosyal Hizmetler Bakanlığı"
+  },
+  {
+    "id": "REVIEW-d225d224fec3",
+    "status": "review",
+    "reason": "The incident focuses on financial crimes (money laundering, bribery, organized crime) rather than gender-based violence, child abuse, or sexual assault/harassment incidents map criteria (even though the text mentions generic allegations in passing, the core subject is a high-profile financial corruption and money laundering investigation).",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/gundem/son-dakika-sarigul-dosyasinda-bomba-ifade-isvicreye-para-kacirdilar-7691362",
+    "title": "Sarıgül dosyasının kilit isminin ifadesi CNN Türk'te: İsviçre'ye para kaçırdılar - Milliyet"
   }
 ]
