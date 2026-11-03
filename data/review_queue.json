@@ -1586,5 +1586,29 @@
     "source": "trthaber.com",
     "url": "https://www.trthaber.com/haber/turkiye/siber-suclarla-mucadelede-11-ilde-operasyon-86-tutuklama-961972.html",
     "title": "Siber suçlarla mücadelede 11 ilde operasyon: 86 tutuklama - TRT Haber"
+  },
+  {
+    "id": "REVIEW-780b619b82c8",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (Florida, USA), so it is not relevant to the Turkish public-interest news map.",
+    "source": "turkish.aawsat.com",
+    "url": "https://turkish.aawsat.com/ya%C5%9Fam/5336949-disney-ve-universala-ait-tema-parklar%C4%B1n%C4%B1n-%C3%A7al%C4%B1%C5%9Fanlar%C4%B1-%C3%A7ocuklara-cinsel-taciz",
+    "title": "Disney ve Universal'a ait tema parklarının çalışanları, çocuklara cinsel taciz operasyonunda yakalandı - Şarkul Avsat Türkçe"
+  },
+  {
+    "id": "REVIEW-2ffbf101c019",
+    "status": "review",
+    "reason": "The article reports a general law enforcement operation involving the extradition of multiple individuals for various offenses across different countries and cities, lacking a specific single localized incident suitable for the news map.",
+    "source": "yenisafak.com",
+    "url": "https://www.yenisafak.com/gundem/uluslararasi-ve-ulusal-duzeyde-aranan-63-suclu-turkiyeye-iade-edildi-4867322",
+    "title": "Uluslararası ve ulusal düzeyde aranan 63 suçlu Türkiye'ye iade edildi | Güvenlik ve Asayiş Haberleri - Yeni Şafak"
+  },
+  {
+    "id": "REVIEW-2efb0640e39c",
+    "status": "review",
+    "reason": "The text discusses political allegations, money laundering investigations, and claims regarding political figures, rather than a specific verifiable local incident meeting the strict criteria for map placement. Furthermore, allegations of sexual assault mentioned briefly lack specific incident dates, locations, and verifiable local event facts required for the map.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozelden-emir-sarigulun-600-bin-dolar-iddiasina-yanit-1749231",
+    "title": "Özgür Özel'den Emir Sarıgül'ün 600 bin dolar iddiasına yanıt - NTV Haber"
   }
 ]
