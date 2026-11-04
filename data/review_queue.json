@@ -1610,5 +1610,57 @@
     "source": "ntv.com.tr",
     "url": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozelden-emir-sarigulun-600-bin-dolar-iddiasina-yanit-1749231",
     "title": "Özgür Özel'den Emir Sarıgül'ün 600 bin dolar iddiasına yanıt - NTV Haber"
+  },
+  {
+    "id": "AUTO-8e65c11d96ac",
+    "title": "Antakya'da Cinsel Taciz Hükümlüsü Tutuklandı",
+    "title_en": "Convicted Sexual Harasser Arrested in Antakya",
+    "summary": "Hatay'ın Antakya ilçesinde cinsel taciz suçundan 2 yıl 6 ay kesinleşmiş hapis cezası bulunan hükümlü, emniyet ekiplerince yakalanarak çıkarıldığı mahkemece tutuklandı.",
+    "summary_en": "A convict sentenced to 2 years and 6 months in prison for sexual harassment was captured by police teams in Antakya, Hatay, and subsequently arrested by the court.",
+    "date": "2026-10-31",
+    "area": "",
+    "district": "Antakya",
+    "province": "Hatay",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel taciz suçundan kesinleşmiş hapis cezası bulunan hükümlünün tutuklanması",
+    "legal_en": "Arrest of a convict with a finalized prison sentence for sexual harassment",
+    "sources": [
+      {
+        "publisher": "iha.com.tr",
+        "url": "https://www.iha.com.tr/hatay-haberleri/antakyada-cinsel-taciz-sucundan-aranan-hukumlu-tutuklandi-509254033"
+      }
+    ],
+    "source": "iha.com.tr",
+    "url": "https://www.iha.com.tr/hatay-haberleri/antakyada-cinsel-taciz-sucundan-aranan-hukumlu-tutuklandi-509254033",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-04T13:07:18.257749+00:00"
+  },
+  {
+    "id": "REVIEW-1da08243cd27",
+    "status": "review",
+    "reason": "Bu bir haber veya olay bildirimi değil, çocuk ihmali ve istismarı konusunda düzenlenen bilgilendirici bir konferanstır.",
+    "source": "haber7.com",
+    "url": "https://m.haber7.com/guncel/haber/2606092-susehrinde-cocuk-ihmali-ve-istismari-konferansi",
+    "title": "Suşehri'nde \"çocuk ihmali ve istismarı\" konferansı - Haber 7"
+  },
+  {
+    "id": "REVIEW-01bcfdbed163",
+    "status": "review",
+    "reason": "The article reports on statistical monthly data (aggregate figures) from an NGO report rather than documenting a specific individual verifiable incident with a defined location and date.",
+    "source": "ekmekvegul.net",
+    "url": "https://ekmekvegul.net/gundem/turkiye-kadin-dernekleri-federasyonu-ekim-ayinda-33-kadin-katledildi",
+    "title": "Türkiye Kadın Dernekleri Federasyonu: Ekim ayında 33 kadın katledildi - Ekmek ve Gül"
+  },
+  {
+    "id": "REVIEW-dfe7e006d9aa",
+    "status": "review",
+    "reason": "The article is about a parliamentary procedure and the scheduling of a bill in the Grand National Assembly of Turkey (TBMM), not a public-interest crime incident fitting the required categories.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/akp-nin-onergesi-kabul-edildi-mekke-anlasmasi-tbmm-gundeminde-one-cekildi-2553028",
+    "title": "AKP'nin önergesi kabul edildi: Mekke Anlaşması TBMM gündeminde öne çekildi - Cumhuriyet"
   }
 ]
