@@ -1678,5 +1678,93 @@
     "source": "hurriyet.com.tr",
     "url": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/kola-girme-mudafaasi-43361192",
     "title": "Kola girme müdafaası | Ahmet HAKAN Köşe Yazısı - Hürriyet"
+  },
+  {
+    "id": "AUTO-2394cb2ff020",
+    "title": "İstanbul'da bir hastanede gizli çekim iddiası: Hasta bakıcı tutuklandı",
+    "title_en": "Allegation of illicit recording at an Istanbul hospital: Hospital attendant arrested",
+    "summary": "Bir hastanenin kadın personel tuvaletinde, bir hasta bakıcının telefonunda aylarca izinsiz çekilmiş görüntüler tespit edildi. Olayla ilgili soruşturma kapsamında şüpheli tutuklandı.",
+    "summary_en": "Unauthorized recordings of female staff found on a hospital attendant's phone in a staff restroom. The suspect was arrested as part of the investigation.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "İstanbul",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Özel hayatın gizliliğini ihlal, cinsel taciz",
+    "legal_en": "Violation of privacy, sexual harassment",
+    "sources": [
+      {
+        "publisher": "t24.com.tr",
+        "url": "https://t24.com.tr/gundem/capa-tipta-taciz-iddiasi-9-ay-boyunca-izinsiz-cekilmis-goruntuler-bulundu-hasta-bakici-tutuklandi,1355088"
+      }
+    ],
+    "source": "t24.com.tr",
+    "url": "https://t24.com.tr/gundem/capa-tipta-taciz-iddiasi-9-ay-boyunca-izinsiz-cekilmis-goruntuler-bulundu-hasta-bakici-tutuklandi,1355088",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-06T13:02:37.473493+00:00"
+  },
+  {
+    "id": "AUTO-f996457aa8ce",
+    "title": "Ankara'da cinsel saldırı suçundan aranan firari yakalandı",
+    "title_en": "Fugitive wanted for sexual assault caught in Ankara",
+    "summary": "Ankara'da cinsel saldırı suçundan hakkında kesinleşmiş 72 yıl hapis cezası bulunan cezaevi firarisi, jandarma ekiplerince Sincan'da yakalanarak cezaevine teslim edildi.",
+    "summary_en": "A prison fugitive with a finalized 72-year prison sentence for sexual assault was caught by gendarmerie teams in Sincan, Ankara, and sent to prison.",
+    "date": "2026-11-03",
+    "area": "",
+    "district": "Sincan",
+    "province": "Ankara",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı suçundan kesinleşmiş hapis cezası",
+    "legal_en": "Finalized prison sentence for sexual assault",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/gundem/cinsel-saldiri-sucundan-72-yil-hapis-cezasiyla-aranan-cezaevi-firarisi-yakalandi-1749230"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/gundem/cinsel-saldiri-sucundan-72-yil-hapis-cezasiyla-aranan-cezaevi-firarisi-yakalandi-1749230",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-06T13:02:37.473544+00:00"
+  },
+  {
+    "id": "REVIEW-40a0fd90f1b6",
+    "status": "review",
+    "reason": "The incident took place in London, United Kingdom, which is outside Turkey. The news map is for Turkish public-interest incidents.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/05/ingiliz-komedyen-russell-brand-hakkinda-tecavuz-ve-cinsel-saldiri-suclarindan-mahkumiyet-k",
+    "title": "İngiliz komedyen Russell Brand hakkında tecavüz ve cinsel saldırı suçlarından mahkumiyet kararı - Euronews.com"
+  },
+  {
+    "id": "REVIEW-32e4b7161e2c",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Hindistan) gerçekleşmiştir.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/teknoloji/hindistanda-metaya-cocuk-istismari-icerikleri-nedeniyle-inceleme-7694869",
+    "title": "Hindistan'da Meta'ya çocuk istismarı içerikleri nedeniyle inceleme - Milliyet"
+  },
+  {
+    "id": "REVIEW-b8dfa2775071",
+    "status": "review",
+    "reason": "The text discusses political commentary and ongoing investigations regarding money laundering and sexual assault allegations against a politician, but lacks a specific, verifiable single incident date and clear local event anchor for an individual criminal act.",
+    "source": "ehamedya.com.tr",
+    "url": "https://ehamedya.com.tr/haber/chp-sozcusu-muslim-saridan-mustafa-sarigul-aciklamasi-dokunulmazlik-gundeme-gelebilir",
+    "title": "CHP Sözcüsü Müslim Sarı'dan Mustafa Sarıgül açıklaması: “Dokunulmazlık gündeme gelebilir” - EHA Medya"
+  },
+  {
+    "id": "REVIEW-66ab486e602c",
+    "status": "review",
+    "reason": "The article is a news commentary/editorial about regulatory gaps, RTÜK fines, and proposed digital copyright legislation for internet platforms, rather than reporting a specific criminal incident of public-interest mapping concern.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/yasam/sabah-gundeme-getirmisti-taslak-masada-gozler-mecliste-cifte-standart-ne-zaman-bitecek-7696317",
+    "title": "SABAH gündeme getirmişti! Taslak masada gözler Meclis’te: Çifte standart ne zaman bitecek? - Sabah"
   }
 ]
