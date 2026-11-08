@@ -1782,5 +1782,81 @@
     "source": "ntv.com.tr",
     "url": "https://www.ntv.com.tr/dunya/galeri-meghan-marklein-babasi-gozaltina-alindi-1749770",
     "title": "Meghan Markle'ın babası gözaltına alındı - NTV Haber"
+  },
+  {
+    "id": "AUTO-0cfb89e9fb51",
+    "title": "Yüksekova’da Çocuğa Cinsel İstismar İddiası Protesto Edildi",
+    "title_en": "Allegation of Child Sexual Abuse Protested in Yüksekova",
+    "summary": "Hakkari'nin Yüksekova ilçesinde 13 yaşındaki bir çocuğa yönelik cinsel istismar iddiasının etkin soruşturulması için yürüyüş ve basın açıklaması düzenlendi.",
+    "summary_en": "A march and press statement were held in Yüksekova district of Hakkari to demand an effective investigation into allegations of child sexual abuse.",
+    "date": "2024-10-20",
+    "area": "",
+    "district": "Yüksekova",
+    "province": "Hakkari",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı iddiası",
+    "legal_en": "Allegation of child sexual abuse",
+    "sources": [
+      {
+        "publisher": "12punto.com.tr",
+        "url": "https://12punto.com.tr/adalet-hukuk/yuksekovada-13-yasindaki-cocuga-cinsel-istismar-iddiasi-protesto-edildi-158328"
+      },
+      {
+        "publisher": "gazetekalem.com.tr",
+        "url": "https://gazetekalem.com.tr/hakkaride-cocuk-istismari-protesto-edildi/"
+      }
+    ],
+    "source": "12punto.com.tr",
+    "url": "https://12punto.com.tr/adalet-hukuk/yuksekovada-13-yasindaki-cocuga-cinsel-istismar-iddiasi-protesto-edildi-158328",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-08T12:00:14.591545+00:00"
+  },
+  {
+    "id": "AUTO-1325042a1d26",
+    "title": "Hakkari’de Çocuk İstismarı İddiasına Tepki ve Yürüyüş",
+    "title_en": "Protest in Hakkari Over Alleged Child Abuse",
+    "summary": "Hakkari Yüksekova'da 13 yaşındaki bir çocuğun cinsel istismara maruz kaldığı iddiaları üzerine sivil toplum örgütleri ve vatandaşlar yürüyüş düzenleyerek olayın soruşturulmasını talep etti.",
+    "summary_en": "Civil society organizations and citizens held a march in Yüksekova, Hakkari, following allegations that a 13-year-old child was subjected to sexual abuse, demanding a thorough investigation.",
+    "date": "2026-10-20",
+    "area": "",
+    "district": "Yüksekova",
+    "province": "Hakkari",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı iddiası",
+    "legal_en": "Allegation of child sexual abuse",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/hakkari-de-13-yasindaki-cocuga-istismar-yuurttaslar-sokaga-cikti-2554263"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/hakkari-de-13-yasindaki-cocuga-istismar-yuurttaslar-sokaga-cikti-2554263",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-08T12:00:14.591581+00:00"
+  },
+  {
+    "id": "REVIEW-3a758d5e5dea",
+    "status": "review",
+    "reason": "The incident took place in the USA and involves foreign nationals, lacking a direct public interest connection to Turkey.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/08/meghan-marklein-babasi-cocuk-istismari-materyali-bulundurmaktan-tutuklandi",
+    "title": "Meghan Markle'ın babası çocuk istismarı materyali bulundurmaktan tutuklandı - Euronews.com"
+  },
+  {
+    "id": "REVIEW-376cae86f4e9",
+    "status": "review",
+    "reason": "The article reports on a general law enforcement operation involving multiple suspects and various crimes across different countries over a period of a month, lacking a specific singular localized incident suitable for a crime map.",
+    "source": "ankahaber.net",
+    "url": "https://ankahaber.net/haber/kirmizi-bultenle-ve-ulusal-seviyede-aranan-63-firari-suclu-turkiye-ye-getirildi-717bb391",
+    "title": "Kırmızı bültenle ve ulusal seviyede aranan 63 firari suçlu Türkiye'ye getirildi - Anka Haber"
   }
 ]
