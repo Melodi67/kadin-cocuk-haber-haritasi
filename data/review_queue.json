@@ -1858,5 +1858,97 @@
     "source": "ankahaber.net",
     "url": "https://ankahaber.net/haber/kirmizi-bultenle-ve-ulusal-seviyede-aranan-63-firari-suclu-turkiye-ye-getirildi-717bb391",
     "title": "Kırmızı bültenle ve ulusal seviyede aranan 63 firari suçlu Türkiye'ye getirildi - Anka Haber"
+  },
+  {
+    "id": "AUTO-be2bb0ce275d",
+    "title": "Mustafa Sarıgül'ün Soruşturma Dosyası Ankara'ya Gönderildi",
+    "title_en": "Mustafa Sarıgül's Investigation File Sent to Ankara",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı, bir milletvekili hakkında yürütülen ve aralarında cinsel suçlar ile kara para aklama iddialarının bulunduğu soruşturma dosyasını yetkisizlik kararıyla Ankara'ya devretti.",
+    "summary_en": "The Istanbul Chief Public Prosecutor's Office transferred an ongoing investigation file concerning a member of parliament, which includes allegations of sexual crimes and money laundering, to Ankara due to lack of jurisdiction.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Ankara",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı ve nitelikli cinsel saldırı iddiaları",
+    "legal_en": "Allegations of child sexual abuse and qualified sexual assault",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/turkiye/mustafa-sarigulun-dosyasi-ankaraya-gonderildi-1750143"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/turkiye/mustafa-sarigulun-dosyasi-ankaraya-gonderildi-1750143",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-09T14:02:23.212229+00:00"
+  },
+  {
+    "id": "REVIEW-07680dff1745",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (United Kingdom), so it is not eligible for the Turkish public-interest news map.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/dunya/galeri-unlu-komedyen-russel-branda-yonelik-cinsel-saldiri-davasinda-karar-gunu-1750107",
+    "title": "Ünlü komedyen Russel Brand'a yönelik cinsel saldırı davasında karar günü - NTV Haber"
+  },
+  {
+    "id": "REVIEW-cd5c09a64559",
+    "status": "review",
+    "reason": "The article is about an administrative antitrust investigation by the Competition Board into hazelnut companies, which does not involve violent crime, human rights violations, or public-interest map criteria related to assault/abuse/harassment/femicide.",
+    "source": "velev.press",
+    "url": "https://velev.press/ekonomi/findikta-fiyat-sorusturmasi-genisliyor-ferrero-dahil-7-sirket-incelemede/",
+    "title": "Fındıkta fiyat soruşturması genişliyor: Ferrero dahil 7 şirket incelemede - Velev"
+  },
+  {
+    "id": "REVIEW-ec84008bc867",
+    "status": "review",
+    "reason": "The incident is an international investigative report about social media platform content in Spain and the US, not a specific local incident in Turkey.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/dunya/tiktok-ta-cocuk-istismari-skandali-binlerce-video-ve-supheli-hesap-tespit-edildi-2554658",
+    "title": "TikTok'ta çocuk istismarı skandalı: Binlerce video ve şüpheli hesap tespit edildi - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-677ae83c5b46",
+    "status": "review",
+    "reason": "The incident is a factory fire without any relation to the specific categories of gender-based violence, child abuse, sexual assault, or harassment targeted by the mapping tool.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/aydin-da-mobilya-fabrikasinda-yangin-2554116",
+    "title": "Aydın'da mobilya fabrikasında yangın - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-8ac4ae28349d",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (USA/Florida) and does not involve Turkish citizens or public interest within Turkey.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/trend/galeri/magazin/meghan-marklein-babasi-cocuk-istismari-sorusturmasinda-gozaltina-alindi-cocuklari-hakkinda-verdigi-karar-yeniden-akillara-geldi",
+    "title": "Meghan Markle’ın babası çocuk istismarı soruşturmasında gözaltına alındı! Çocukları hakkında verdiği karar yeniden akıllara geldi... - Sabah"
+  },
+  {
+    "id": "REVIEW-ddd8f776c948",
+    "status": "review",
+    "reason": "The text discusses a high-profile political figure facing various allegations including financial crimes and sexual abuse/assault, but it lacks a specific incident date, location context (province/district), and concrete event details suitable for a localized public-interest news map.",
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/video/turkiye/son-dakika-sarigul-dosyasi-ankaraya-gonderildi-istanbulda-yurutulen-sorusturmada-yetkisizlik-karari-3491005",
+    "title": "SON DAKİKA | Sarıgül dosyası Ankara'ya gönderildi! İstanbul'da yürütülen soruşturmada yetkisizlik kararı - CNN Türk"
+  },
+  {
+    "id": "REVIEW-266ec60d5da5",
+    "status": "review",
+    "reason": "The incident involves the discovery of a dead body on a beach with a suicide note, indicating a suicide rather than targeted gender-based violence, child abuse, or public-interest crime mapped here.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/plajda-erkek-cesedi-bulundu-kimligi-belirlendi-uzerinden-not-cikti-2550854",
+    "title": "Plajda erkek cesedi bulundu: Kimliği belirlendi, üzerinden not çıktı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-4e2af9377926",
+    "status": "review",
+    "reason": "The article reports on a general law enforcement operation involving the extradition of 63 fugitives with various charges from multiple countries to Turkey, rather than a specific individual incident suitable for a local public-interest news map.",
+    "source": "wanhaber.com",
+    "url": "https://www.wanhaber.com/63-suclu-yakalanarak-turkiyeye-iade-edildi",
+    "title": "63 suçlu yakalanarak Türkiye'ye iade edildi - Van Haber | Wan Haber | Son Dakika Van Haberleri"
   }
 ]
