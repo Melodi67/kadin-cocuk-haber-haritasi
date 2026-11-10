@@ -1950,5 +1950,81 @@
     "source": "wanhaber.com",
     "url": "https://www.wanhaber.com/63-suclu-yakalanarak-turkiyeye-iade-edildi",
     "title": "63 suçlu yakalanarak Türkiye'ye iade edildi - Van Haber | Wan Haber | Son Dakika Van Haberleri"
+  },
+  {
+    "id": "AUTO-5449d95dac2b",
+    "title": "Şişli'deki Çocuk İstismarı İddialarıyla İlgili Soruşturma Genişliyor",
+    "title_en": "Investigation Broadens Regarding Child Abuse Allegations in Şişli",
+    "summary": "İstanbul'da yürütülen bir soruşturma kapsamında, eski bir belediye başkanının geçmişte çocuk kamplarında çocukları taciz ettiği yönünde iddialar ortaya atıldı. Başsavcılık iddiaları araştırıyor.",
+    "summary_en": "As part of an ongoing investigation in Istanbul, allegations emerged that a former mayor abused children at youth camps in the past. The Chief Public Prosecutor's Office is investigating.",
+    "date": "",
+    "area": "",
+    "district": "Şişli",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocukların cinsel istismarı iddiası",
+    "legal_en": "Allegation of child sexual abuse",
+    "sources": [
+      {
+        "publisher": "cnnturk.com",
+        "url": "https://www.cnnturk.com/video/turkiye/emir-sarigulun-ek-ifadesi-cnn-turkte-atki-paketinde-100-bin-dolar-iddiasi-3491249"
+      }
+    ],
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/video/turkiye/emir-sarigulun-ek-ifadesi-cnn-turkte-atki-paketinde-100-bin-dolar-iddiasi-3491249",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-10T13:36:41.364226+00:00"
+  },
+  {
+    "id": "REVIEW-870204908549",
+    "status": "review",
+    "reason": "The incident described is a broad, international digital platform investigation based in Spain regarding online child sexual abuse material and policy violations on TikTok, lacking a specific local news map incident in Turkey.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/10/tiktokta-cocuk-istismari-20-bini-askin-supheli-pedofil-hesabi-tespit-edildi",
+    "title": "TikTok'ta çocuk istismarı: Şüpheli 20 bin pedofil hesabı tespit edildi - Euronews.com"
+  },
+  {
+    "id": "REVIEW-fa156134414e",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in London, United Kingdom), and the map is restricted to Turkish public-interest news.",
+    "source": "turkiyegazetesi.com.tr",
+    "url": "https://www.turkiyegazetesi.com.tr/dunya/unlu-komedyen-russell-brandin-cezasi-belli-oldu-1828212",
+    "title": "Ünlü komedyen Russell Brand'in cezası belli oldu! Hakim açtı ağzını yumdu gözünü - Türkiye Gazetesi"
+  },
+  {
+    "id": "REVIEW-bb725d6cec19",
+    "status": "review",
+    "reason": "The text is a political speech in parliament discussing various allegations, legal criticisms, and general political commentary rather than a specific verifiable criminal incident report with concrete place and time details for mapping.",
+    "source": "evrensel.net",
+    "url": "https://www.evrensel.net/haber/6008812/erkan-bas-tan-ahmet-saymadi-iddiasi-ifadede-ahmet-sik-tweeti-silsin-arkadasini-serbest-birakalim-diyorlar",
+    "title": "Erkan Baş'tan Ahmet Saymadi iddiası: 'İfadede 'Ahmet Şık tweeti silsin, arkadaşını serbest bırakalım' diyorlar' - Evrensel"
+  },
+  {
+    "id": "REVIEW-84881d9aa521",
+    "status": "review",
+    "reason": "The incident occurred outside Turkey (in the United Kingdom).",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/09/komedyen-russell-brandin-tecavuz-ve-cinsel-saldiri-davasinda-ceza-asamasina-gecildi",
+    "title": "Russell Brand tecavüz ve cinsel saldırı suçlarından ceza alacak - Euronews.com"
+  },
+  {
+    "id": "REVIEW-5ac025de2555",
+    "status": "review",
+    "reason": "The article is about a government energy strategy and investment vision, not an incident falling within the targeted public-interest categories.",
+    "source": "dailyummah.com",
+    "url": "https://dailyummah.com/turkiye-500-milyar-dolarlik-dev-enerji-vizyonunu-acikladi/",
+    "title": "Türkiye 500 milyar dolarlık dev enerji vizyonunu açıkladı - Daily Ummah"
+  },
+  {
+    "id": "REVIEW-8548f3e92c99",
+    "status": "review",
+    "reason": "The article discusses ongoing investigative developments, witness testimonies, and allegations related to a political figure, but does not report a specific primary incident with verifiable location, date, and victim details suitable for mapping.",
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/video/turkiye/sariguller-sorusturmasinda-yeni-gelisme-korumanin-ek-ifadesi-cnn-turkte-3490802",
+    "title": "Mustafa Sarıgül Soruşturmasında Yeni Gelişme: Koruması Beşir Ömer Demir Ek İfade Verdi - CNN Türk"
   }
 ]
