@@ -2026,5 +2026,157 @@
     "source": "cnnturk.com",
     "url": "https://www.cnnturk.com/video/turkiye/sariguller-sorusturmasinda-yeni-gelisme-korumanin-ek-ifadesi-cnn-turkte-3490802",
     "title": "Mustafa Sarıgül Soruşturmasında Yeni Gelişme: Koruması Beşir Ömer Demir Ek İfade Verdi - CNN Türk"
+  },
+  {
+    "id": "AUTO-e6dbf139dd81",
+    "title": "Russell Brand, tecavüz ve cinsel saldırı suçlarından hapis cezasına çarptırıldı",
+    "title_en": "Russell Brand sentenced to prison for rape and sexual assault",
+    "summary": "İngiliz komedyen Russell Brand, mahkeme tarafından tecavüz ve cinsel saldırı suçlarından 10 yıl 6 ay hapis cezasına mahkum edildi.",
+    "summary_en": "British comedian Russell Brand has been sentenced to 10 years and 6 months in prison by a court for rape and sexual assault.",
+    "date": "",
+    "area": "",
+    "district": "Southwark",
+    "province": "Londra",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Tecavüz ve cinsel saldırı suçlarından mahkumiyet",
+    "legal_en": "Conviction for rape and sexual assault",
+    "sources": [
+      {
+        "publisher": "bbc.com",
+        "url": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo"
+      }
+    ],
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-11T12:49:55.900918+00:00"
+  },
+  {
+    "id": "AUTO-f77827fb988b",
+    "title": "Mustafa Sarıgül hakkında cinsel saldırı iddiasıyla soruşturma başlatıldı",
+    "title_en": "Investigation launched into Mustafa Sarıgül over sexual assault allegations",
+    "summary": "Şişli'de geçmiş dönemde lise öğrencilerine yönelik cinsel saldırıda bulunulduğu iddiasıyla İstanbul Cumhuriyet Başsavcılığı soruşturma başlattı.",
+    "summary_en": "The Istanbul Chief Public Prosecutor's Office launched an investigation into allegations of sexual assault against high school students in Şişli in the past.",
+    "date": "2004-01-01",
+    "area": "",
+    "district": "Şişli",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Cinsel saldırı ve çocuk istismarı iddiası",
+    "legal_en": "Allegation of sexual assault and child abuse",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/gundem/sarigulle-ilgili-korkunc-iddialar-43358771"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/gundem/sarigulle-ilgili-korkunc-iddialar-43358771",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-11T12:49:55.900955+00:00"
+  },
+  {
+    "id": "REVIEW-f176abdffad8",
+    "status": "review",
+    "reason": "The article discusses a proposed legislative bill in Germany regarding sexual harassment and rape laws, rather than reporting a specific, localized incident.",
+    "source": "dw.com",
+    "url": "https://www.dw.com/tr/almanyada-s%C3%B6zl%C3%BC-tacize-yapt%C4%B1r%C4%B1m-geliyor-tecav%C3%BCzde-cezalar-a%C4%9F%C4%B1rla%C5%9F%C4%B1yor/a-79830572",
+    "title": "Almanya'da sözlü tacize ceza geliyor, tecavüzde cezalar ağırlaşıyor - DW.com"
+  },
+  {
+    "id": "REVIEW-d5a919de6f4c",
+    "status": "review",
+    "reason": "The incident is an illegal arms trafficking operation, which does not fall under the targeted categories of gender-based violence, child abuse, or related public interest map crimes.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/tokat-ta-silah-kacakciligi-operasyonu-9-gozalti-2554159",
+    "title": "Tokat'ta silah kaçakçılığı operasyonu: 9 gözaltı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-fa203bc924f5",
+    "status": "review",
+    "reason": "The incident is a traffic dispute and attack on a vehicle (student minibus) without any casualties, severe injuries, or specific categories like gender-based violence, sexual violence, child abuse, or major public-interest crime mandated by the criteria.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/yol-tartismasinda-ogrenci-servisine-saldirdi-2551755",
+    "title": "Yol tartışmasında öğrenci servisine saldırdı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-3339a78a7489",
+    "status": "review",
+    "reason": "The incident occurred in the United Kingdom, which is outside Turkey.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/dunya/galeri-unlu-cocuk-kitabi-yazari-cinsel-istismarla-suclaniyor-1750392",
+    "title": "Ünlü çocuk kitabı yazarı cinsel istismarla suçlanıyor - NTV Haber"
+  },
+  {
+    "id": "REVIEW-27ffc15965de",
+    "status": "review",
+    "reason": "The article is about a political disinformation claim regarding foreign interference in elections and does not involve a gender-based violence, sexual assault, abuse, or domestic crime incident.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/iletisim-baskanligi-ndan-israil-secimlerine-mudahale-iddialarina-yalanlama-2551503",
+    "title": "İletişim Başkanlığı'ndan İsrail seçimlerine müdahale iddialarına yalanlama - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-4424c5d36f4a",
+    "status": "review",
+    "reason": "The incident described took place outside of Turkey (USA/Hollywood) and does not involve Turkish jurisdiction or public interest relevant to Turkey.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/kelebek/televizyon/46-yillik-evli-usta-aktorden-cinsel-taciz-itirafi-cinsellige-takintiliyim-bazi-kadinlari-rahatsiz-etmis-olabilirim-43373865",
+    "title": "46 yıllık evli usta aktörden cinsel taciz itirafı… ‘Cinselliğe takıntılıyım, bazı kadınları rahatsız etmiş olabilirim’ - Hürriyet"
+  },
+  {
+    "id": "REVIEW-af31be83117a",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in the United States and Belgium) and does not involve Turkish citizens or Turkish public interest jurisdiction.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/trend/galeri/magazin/babasi-cocuk-istismari-suclamasiyla-tutuklanmisti-meghan-marklein-kameralar-onundeki-zor-anlari",
+    "title": "Babası çocuk istismarı suçlamasıyla tutuklanmıştı: Meghan Markle’ın kameralar önündeki zor anları... - Sabah"
+  },
+  {
+    "id": "REVIEW-76e58b819dfc",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in Spain).",
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/dunya/ispanyada-tiktok-krizi-cocuk-istismari-iddialari-sonrasi-kritik-adim-3491697",
+    "title": "İspanya'da TikTok krizi! Çocuk istismarı iddiaları sonrası kritik adım - CNN Türk"
+  },
+  {
+    "id": "REVIEW-bcf9be87f6af",
+    "status": "review",
+    "reason": "The text describes the death of a veteran found at home and subsequent funeral procedures, with no indication of a crime, assault, domestic violence, or gender-based violence.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/evinde-olu-bulunmustu-kibris-gazisi-torenle-topraga-verildi-2552643",
+    "title": "Evinde ölü bulunmuştu: Kıbrıs gazisi törenle toprağa verildi - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-6141bcd40f13",
+    "status": "review",
+    "reason": "The article is about flight disruptions due to heavy fog and does not describe any gender-based violence, abuse, or public interest crimes within the map's scope.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-yogun-sis-ucak-seferleri-aksadi-2551923",
+    "title": "Diyarbakır'da yoğun sis: Uçak seferleri aksadı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-bf40e1aca99e",
+    "status": "review",
+    "reason": "The article discusses unverified allegations and jurisdictional transfer of an ongoing parliamentary investigation file, lacking definitive incident dates and official judicial confirmation of specific crimes.",
+    "source": "gaste24.com",
+    "url": "https://www.gaste24.com/sarigul-hakkinda-hazirlanan-cinsel-istismar-dosyasi-ankaraya-gonderildi",
+    "title": "Sarıgül hakkında hazırlanan \"cinsel istismar\" dosyası Ankara'ya gönderildi - Gaste24"
+  },
+  {
+    "id": "REVIEW-bf520795dcd6",
+    "status": "review",
+    "reason": "The article discusses a high-level political and financial corruption investigation involving money laundering allegations, where sexual assault and child abuse are merely mentioned as part of an ongoing probe dossier without a specific verified localized incident or primary focus suitable for the news map.",
+    "source": "rudaw.net",
+    "url": "https://www.rudaw.net/turkish/categories/trkiye/1287213",
+    "title": "Soruşurma altındaki Mustafa Sarıgül hakkında yeni gelişme - Rudaw"
   }
 ]
