@@ -2178,5 +2178,109 @@
     "source": "rudaw.net",
     "url": "https://www.rudaw.net/turkish/categories/trkiye/1287213",
     "title": "Soruşurma altındaki Mustafa Sarıgül hakkında yeni gelişme - Rudaw"
+  },
+  {
+    "id": "AUTO-9416c1603907",
+    "title": "Afyonkarahisar'da silahlı saldırı ve cinayetler",
+    "title_en": "Armed attack and homicides in Afyonkarahisar",
+    "summary": "Afyonkarahisar'da bir kişi, aralarında öğretmenlerin de bulunduğu çok sayıda kişiye pompalı tüfekle saldırarak 8 kişiyi öldürdü ve yaraladı. Şüpheli, polis ve jandarma ekiplerinin operasyonuyla yakalanarak gözaltına alındı.",
+    "summary_en": "A gunman carried out armed attacks using a pump-action shotgun in Afyonkarahisar, killing 8 people, including teachers, and injuring others. The suspect was captured and detained in a joint police and gendarmerie operation.",
+    "date": "",
+    "area": "",
+    "district": "İhsaniye",
+    "province": "Afyonkarahisar",
+    "category": "other",
+    "type": "other",
+    "legal": "Kasten öldürme, yaralama, yağma",
+    "legal_en": "Intentional homicide, assault, robbery",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/afyonkarahisar-da-8-kisiyi-katleden-erkek-yakalandi-saldiri-aninin-goruntuleri-ortaya-cikti-2553747"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/afyonkarahisar-da-8-kisiyi-katleden-erkek-yakalandi-saldiri-aninin-goruntuleri-ortaya-cikti-2553747",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-12T13:54:16.358815+00:00"
+  },
+  {
+    "id": "AUTO-f74a49e58a5c",
+    "title": "İzmit'te çocuğa cinsel istismar suçundan aranan şahıs yakalandı",
+    "title_en": "Wanted person for child sexual abuse captured in İzmit",
+    "summary": "Kocaeli'nin İzmit ilçesinde, hakkında kesinleşmiş hapis cezası bulunan ve çocuğa cinsel istismar suçundan aranan bir şahıs jandarma operasyonuyla yakalanarak adliyeye sevk edildi.",
+    "summary_en": "In İzmit district of Kocaeli, a person wanted for child sexual abuse with a finalized prison sentence was captured in a gendarmerie operation and referred to the courthouse.",
+    "date": "2026-11-12",
+    "area": "",
+    "district": "İzmit",
+    "province": "Kocaeli",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun nitelikli cinsel istismarı ve kişiyi hürriyetinden yoksun kılma",
+    "legal_en": "Qualified sexual abuse of a child and deprivation of liberty",
+    "sources": [
+      {
+        "publisher": "ozgunkocaeli.com.tr",
+        "url": "https://www.ozgunkocaeli.com.tr/cocuga-cinsel-istismar-sucundan-aranan-sahis-izmitte-yakalandi"
+      }
+    ],
+    "source": "ozgunkocaeli.com.tr",
+    "url": "https://www.ozgunkocaeli.com.tr/cocuga-cinsel-istismar-sucundan-aranan-sahis-izmitte-yakalandi",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-12T13:54:16.358860+00:00"
+  },
+  {
+    "id": "REVIEW-114cce73333c",
+    "status": "review",
+    "reason": "The incident described took place in Germany (Alman ordusu, Berlin), which is outside of Turkey. The news map is restricted to incidents in Turkey.",
+    "source": "dw.com",
+    "url": "https://www.dw.com/tr/alman-ordusunda-cinsel-istismar-ve-taciz-endi%C5%9Fe-verici-boyutta-kad%C4%B1n-askerlerin-y%C3%BCzde-72si-ma%C4%9Fdur/a-79921117",
+    "title": "Alman ordusunda cinsel istismar ve taciz endişe verici boyutta: Kadın askerlerin yüzde 72’si mağdur - DW.com"
+  },
+  {
+    "id": "REVIEW-7faf917c5b16",
+    "status": "review",
+    "reason": "The article discusses a general survey and statistical study about sexual harassment within the German armed forces rather than reporting on a specific, individual criminal incident.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/11/arastirma-alman-ordusunda-kadin-askerlerin-yuzde-60indan-fazlasi-cinsel-tacize-maruz-kaldi",
+    "title": "Alman ordusunda kadın askerlerin yüzde 60'ı cinsel taciz mağduru - Euronews.com"
+  },
+  {
+    "id": "REVIEW-f0f4c5b31e1c",
+    "status": "review",
+    "reason": "The article is about a sports injury and a surgical operation of a football player, which is not relevant to the public-interest crime categories monitored.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/spor/basaksehir-den-sakatlik-aciklamasi-ameliyat-oldu-2555030",
+    "title": "Başakşehir'den sakatlık açıklaması: Ameliyat oldu - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-71ed9fba2976",
+    "status": "review",
+    "reason": "The article is about a sports achievement (boxing match victory) and does not involve any incident related to the tracked categories (violence, abuse, crime, etc.).",
+    "source": "iscihaber.net",
+    "url": "https://www.iscihaber.net/spor/samsunlu-milli-boksor-muhammet-ali-arli-dakar-2026-yaz-genclik-olimpiyatlarinda-yari-finale-yukseldi-mi/280916",
+    "title": "Samsunlu Milli Boksör Muhammet Ali Arlı, Dakar 2026 Yaz Gençlik Olimpiyatları'nda yarı finale yükseldi mi? - İşçi Haber"
+  },
+  {
+    "id": "REVIEW-5cf98e7467e3",
+    "status": "review",
+    "reason": "The suspect is deceased and the incident occurred outside of Turkey.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/dunya/epstein-skandalini-hatirlatan-olay-fransa-da-unlu-milyarder-hakkinda-cinsel-istismar-ve-insan-ticareti-sorusturmasi-2555219",
+    "title": "Epstein skandalını hatırlatan olay! Fransa’da ünlü milyarder hakkında cinsel istismar ve insan ticareti soruşturması… - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-a30d5352e095",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (İspanya) gerçekleşmiştir.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/ispanya-dan-tiktok-icin-askiya-alma-hamlesi-binlerce-cocuk-istismari-goruntusu-tepki-cekti-2555262",
+    "title": "İspanya'dan TikTok için 'askıya alma' hamlesi: Binlerce çocuk istismarı görüntüsü tepki çekti - Cumhuriyet"
   }
 ]
