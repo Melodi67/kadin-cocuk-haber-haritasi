@@ -2282,5 +2282,61 @@
     "source": "cumhuriyet.com.tr",
     "url": "https://www.cumhuriyet.com.tr/turkiye/ispanya-dan-tiktok-icin-askiya-alma-hamlesi-binlerce-cocuk-istismari-goruntusu-tepki-cekti-2555262",
     "title": "İspanya'dan TikTok için 'askıya alma' hamlesi: Binlerce çocuk istismarı görüntüsü tepki çekti - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-09030ce1a8e3",
+    "status": "review",
+    "reason": "The text is an opinion column discussing parliamentary immunity procedures, political evaluations, and referencing past allegations without providing specific, verifiable current incident details suitable for a news map.",
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/yazarlar/abdulkadir-selvi/sarigulun-dokunulmazligi-kaldiriliyor-sirada-kim-var-43376411",
+    "title": "Sarıgül’ün dokunulmazlığı kaldırılıyor sırada kim var | Abdulkadir SELVİ Köşe Yazısı - Hürriyet"
+  },
+  {
+    "id": "REVIEW-9277a6a6eb19",
+    "status": "review",
+    "reason": "The incident is a financial crime and capital markets investigation, which does not fall under public-interest news map categories such as violence against women, child abuse, sexual assault, or domestic violence.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-eski-bakan-fatma-betul-sayan-kaya-tutuklandi-tasfiye-oncesi-satis-2554062",
+    "title": "Fon soruşturmasında eski Bakan Fatma Betül Sayan Kaya tutuklandı: Tasfiye öncesi satış - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-3a75a683cfea",
+    "status": "review",
+    "reason": "The article is about a political party primary election for the party leadership, which does not involve any public-interest incidents such as violence, assault, or legal violations.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-de-genel-baskanlik-in-secimi-heyecani-malatya-da-uyeler-sandik-basina-gitti-2554405",
+    "title": "YENİ Parti'de 'genel başkanlık in seçimi' heyecanı: Malatya'da üyeler sandık başına gitti - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-748935730860",
+    "status": "review",
+    "reason": "Olay Almanya'da gerçekleşmiştir ve harita kapsamı dışındadır.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/dunya/alman-ordusunda-cinsel-taciz-skandali-kadin-askerlerin-yuzde-40-i-magdur-2555549",
+    "title": "Alman ordusunda cinsel taciz skandalı: Kadın askerlerin yüzde 40'ı mağdur - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-a95554b602b8",
+    "status": "review",
+    "reason": "The article reports on a nationwide drug trafficking operation across 76 provinces without detailing specific individual incidents, victims, or localized crimes falling within the public-interest map criteria (femicide, sexual assault, domestic violence, child abuse, etc.).",
+    "source": "ozgunkocaeli.com.tr",
+    "url": "https://www.ozgunkocaeli.com.tr/kocaeli-dahil-76-ilde-dev-operasyon-1204-kisi-tutuklandi",
+    "title": "Kocaeli dahil 76 ilde dev operasyon! 1204 kişi tutuklandı - Özgün Kocaeli"
+  },
+  {
+    "id": "REVIEW-66e608f24afd",
+    "status": "review",
+    "reason": "The incident is a fraud/scam attempt using a public institution's name, which does not fall under the targeted public-interest news map categories (such as violence, abuse, or harassment).",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/rtuk-un-adini-kullanarak-dolandiricilik-girisimi-kurumdan-yayincilara-uyari-2552574",
+    "title": "RTÜK'ün adını kullanarak dolandırıcılık girişimi: Kurumdan yayıncılara uyarı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-998d9036ea4b",
+    "status": "review",
+    "reason": "The incident is a natural death due to a heart attack, not related to the monitored categories of violence or abuse.",
+    "source": "ozgunkocaeli.com.tr",
+    "url": "https://www.ozgunkocaeli.com.tr/genc-adam-evinde-olu-bulundu",
+    "title": "Genç adam evinde ölü bulundu - Özgün Kocaeli"
   }
 ]
