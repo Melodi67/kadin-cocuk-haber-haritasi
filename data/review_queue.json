@@ -2338,5 +2338,73 @@
     "source": "ozgunkocaeli.com.tr",
     "url": "https://www.ozgunkocaeli.com.tr/genc-adam-evinde-olu-bulundu",
     "title": "Genç adam evinde ölü bulundu - Özgün Kocaeli"
+  },
+  {
+    "id": "AUTO-22062c83f50a",
+    "title": "Filipinler'deki çocuk istismarı soruşturması genişletildi",
+    "title_en": "Child abuse investigation expanded in the Philippines",
+    "summary": "Filipinler'de yürütülen çocuk istismarı soruşturmasında, bir aile üyesinin de suça karışmış olabileceği iddiaları üzerine inceleme başlatıldığı açıklandı.",
+    "summary_en": "In a child abuse investigation in the Philippines, authorities stated that inquiries have been launched over allegations involving another family member.",
+    "date": "2026-11-05",
+    "area": "",
+    "district": "",
+    "province": "Manila",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuk istismarı iddiası ve soruşturma",
+    "legal_en": "Child abuse allegation and investigation",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/kelebek/stil/meghana-kara-haber-cocuk-istismari-davasina-abisi-de-karisti-43367420"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/kelebek/stil/meghana-kara-haber-cocuk-istismari-davasina-abisi-de-karisti-43367420",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-14T12:18:04.533462+00:00"
+  },
+  {
+    "id": "REVIEW-0d84af948ea3",
+    "status": "review",
+    "reason": "The incident location is in Lefkoşa (North Cyprus), which is outside of Turkey, and the news is about the arrest of a fugitive wanted with a red notice.",
+    "source": "kibrispostasi.com",
+    "url": "https://www.kibrispostasi.com/c57-Adli_Haberler/n619813-turkiyede-kirmizi-bultenle-aranan-zanli-lefkosada-yakalandi",
+    "title": "Türkiye’de kırmızı bültenle aranan zanlı Lefkoşa’da yakalandı - Kıbrıs Postası"
+  },
+  {
+    "id": "REVIEW-d4a9b74ded13",
+    "status": "review",
+    "reason": "The incident describes a social media lynch campaign and reactions regarding an Atatürk commemoration event at a muftiate, which does not constitute a physical crime or gender-based/child-related violence falling under the requested categories.",
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/canakkalede-ataturku-andiklari-icin-linc-kampanyasina-maruz-kaldilar/",
+    "title": "Çanakkale’de Atatürk’ü andıkları için linç kampanyasına maruz kaldılar - Kanal 17"
+  },
+  {
+    "id": "REVIEW-be5a4b9f8c49",
+    "status": "review",
+    "reason": "The article is a political analysis and discussion regarding parliamentary immunity files, political scenarios, and allegations against a member of parliament. It does not report a verified local crime incident with specific factual context for mapping.",
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/cv1j6lk0x3xwo",
+    "title": "Dokunulmazlık dosyalarında üç senaryo: Sarıgül 'koçbaşı' olur mu? - BBC"
+  },
+  {
+    "id": "REVIEW-772b919e4784",
+    "status": "review",
+    "reason": "The article reports on a general international research study conducted in Spain and multiple other countries regarding online child exploitation on social media, rather than a specific verifiable local incident in Turkey.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/yasam/tiktokta-cocuk-istismari-skandali-7699077",
+    "title": "TikTok’ta çocuk istismarı skandalı - Sabah"
+  },
+  {
+    "id": "REVIEW-b633a318b19e",
+    "status": "review",
+    "reason": "The incident is a traffic accident involving property damage and a driver fleeing the scene, which does not fall under the targeted categories of gender-based violence, abuse, or public-interest crimes specified for the news map.",
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/ezine-cikisinda-kaza-yapip-kayiplara-karisti/",
+    "title": "Ezine Çıkışında Kaza Yapıp Kayıplara Karıştı - Kanal 17"
   }
 ]
