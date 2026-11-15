@@ -2406,5 +2406,85 @@
     "source": "kanal17.com.tr",
     "url": "https://www.kanal17.com.tr/ezine-cikisinda-kaza-yapip-kayiplara-karisti/",
     "title": "Ezine Çıkışında Kaza Yapıp Kayıplara Karıştı - Kanal 17"
+  },
+  {
+    "id": "AUTO-9564c6ed1f42",
+    "title": "Mustafa Sarıgül Hakkında Soruşturma Başlatıldı",
+    "title_en": "Investigation Launched Regarding Mustafa Sarıgül",
+    "summary": "İstanbul Cumhuriyet Başsavcılığı, bir siyasetçi hakkında 'suç örgütü kurma', 'çocuğun cinsel istismarı', 'suçtan kaynaklanan mal varlığı değerlerini aklama' ve 'nitelikli cinsel saldırı' suçlamalarıyla soruşturma yürütülmesi için dosya hazırladı.",
+    "summary_en": "The Istanbul Chief Public Prosecutor's Office prepared a file to conduct an investigation against a politician on charges of establishing a criminal organization, child sexual abuse, laundering crime revenues, and qualified sexual assault.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "çocuğun cinsel istismarı, nitelikli cinsel saldırı, suç örgütü kurma, suçtan kaynaklanan mal varlığı değerlerini aklama",
+    "legal_en": "child sexual abuse, qualified sexual assault, establishing a criminal organization, laundering crime revenues",
+    "sources": [
+      {
+        "publisher": "amp.dw.com",
+        "url": "https://amp.dw.com/tr/belediye-ba%C5%9Fkan%C4%B1-lider-aday%C4%B1-fenomen-mustafa-sar%C4%B1g%C3%BCl-kimdir/a-79941674"
+      }
+    ],
+    "source": "amp.dw.com",
+    "url": "https://amp.dw.com/tr/belediye-ba%C5%9Fkan%C4%B1-lider-aday%C4%B1-fenomen-mustafa-sar%C4%B1g%C3%BCl-kimdir/a-79941674",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-15T12:50:49.928179+00:00"
+  },
+  {
+    "id": "AUTO-48b255bffbc1",
+    "title": "İzmir Aliağa'da Fabrika Patlaması: 18 İşçi Hayatını Kaybetti",
+    "title_en": "Factory Explosion in Aliağa, İzmir: 18 Workers Killed",
+    "summary": "İzmir'in Aliağa ilçesindeki bir çelik fabrikasında sıvı çelik dökümü sırasında tavan vincinin düşmesiyle meydana gelen patlamada 18 işçi hayatını kaybetti, 15 işçi yaralandı.",
+    "summary_en": "An explosion caused by a falling overhead crane during liquid steel pouring at a steel plant in Aliağa, İzmir, killed 18 workers and injured 15 others.",
+    "date": "",
+    "area": "",
+    "district": "Aliağa",
+    "province": "İzmir",
+    "category": "other",
+    "type": "other",
+    "legal": "İş cinayeti ve taksirle öldürme soruşturması kapsamında yönetim kurulu başkanı dahil 11 kişi gözaltına alındı.",
+    "legal_en": "Within the scope of occupational homicide and negligence investigation, 11 individuals including the chairman of the board were detained.",
+    "sources": [
+      {
+        "publisher": "ekonomigazetesi.com",
+        "url": "https://www.ekonomigazetesi.com/kose-yazisi/terorsuz-turkiye-surecinde-asil-sinav-toplumsal-destek-92184"
+      }
+    ],
+    "source": "ekonomigazetesi.com",
+    "url": "https://www.ekonomigazetesi.com/kose-yazisi/terorsuz-turkiye-surecinde-asil-sinav-toplumsal-destek-92184",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-15T12:50:49.928210+00:00"
+  },
+  {
+    "id": "REVIEW-c9a9bda58476",
+    "status": "review",
+    "reason": "The article is about a political meeting regarding urban planning and architecture in Lapseki, Çanakkale, and does not describe any public-interest incident or crime falling under the specified categories.",
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/ayhan-giderden-lapsekiye-mujde-ilce-yatay-mimari-ile-buyuyecek-turkiyeye-ornek-olacak/",
+    "title": "Ayhan Gider’den Lapseki’ye müjde: İlçe yatay mimari ile büyüyecek, Türkiye’ye örnek olacak - Kanal 17"
+  },
+  {
+    "id": "REVIEW-b61fa3f2fe11",
+    "status": "review",
+    "reason": "The incident is an elderly man found dead in a wooded area while herding animals, with no indication of a crime, gender-based violence, or public-interest incident covered by the schema categories.",
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/ayvacikta-yasli-adam-ormanlik-alanda-olu-bulundu/",
+    "title": "Ayvacık’ta yaşlı adam ormanlık alanda ölü bulundu - Kanal 17"
+  },
+  {
+    "id": "REVIEW-d3a0b259b1a4",
+    "status": "review",
+    "reason": "The incident described took place globally/in multiple countries (primarily Spain and other nations mentioned in a digital platform report) and is not a local Turkish domestic incident.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/teknoloji/tiktokta-20-binden-fazla-supheli-cocuk-istismari-profili-tespit-edildi-7698743",
+    "title": "TikTok'ta 20 binden fazla şüpheli çocuk istismarı profili tespit edildi - Milliyet"
   }
 ]
