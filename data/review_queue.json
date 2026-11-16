@@ -2486,5 +2486,45 @@
     "source": "milliyet.com.tr",
     "url": "https://www.milliyet.com.tr/teknoloji/tiktokta-20-binden-fazla-supheli-cocuk-istismari-profili-tespit-edildi-7698743",
     "title": "TikTok'ta 20 binden fazla şüpheli çocuk istismarı profili tespit edildi - Milliyet"
+  },
+  {
+    "id": "REVIEW-27ea16460b63",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (in the United Kingdom).",
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/cvp8678kx3gzo",
+    "title": "İngiltere'de Brand davasının ardından cinsel rıza yaşı tartışması - BBC"
+  },
+  {
+    "id": "REVIEW-27beb9344cc5",
+    "status": "review",
+    "reason": "The incident took place in France (Paris), outside of Turkey, and the news does not involve a Turkish jurisdiction or Turkish citizens as the primary subject of the incident.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/dunya/aktor-depardieuden-itiraf-cinsel-saldiri-sucunu-kabul-edip-temyizden-cekildi-1751119",
+    "title": "Aktör Depardieu'den itiraf. Cinsel saldırı suçunu kabul edip temyizden çekildi - NTV Haber"
+  },
+  {
+    "id": "REVIEW-5af169a919c3",
+    "status": "review",
+    "reason": "Olay Fransa'da gerçekleşmiştir. Harita kapsamı dışındadır.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/16/gerard-depardieu-cinsel-saldiri-mahkumiyeti-icin-temyizden-vazgecti",
+    "title": "Gerard Depardieu: Cinsel saldırı mahkûmiyeti için temyizden vazgeçti - Euronews"
+  },
+  {
+    "id": "REVIEW-f4936e90905e",
+    "status": "review",
+    "reason": "Olay Türkiye sınırları dışında (Fransa, Paris) meydana gelmiştir.",
+    "source": "gazeteburdur.com.tr",
+    "url": "https://www.gazeteburdur.com.tr/haber/muhammed-el-fayed-sorusturmasinda-paris-teki-ritz-oteli-dahil-3-mulkte-arama-yapildi",
+    "title": "Muhammed el-Fayed soruşturmasında Paris'teki Ritz Oteli dahil 3 mülkte arama yapıldı - https://www.gazeteburdur.com.tr/"
+  },
+  {
+    "id": "REVIEW-7c9d0f6fab14",
+    "status": "review",
+    "reason": "The incident occurred in the United States and involves foreign nationals, falling outside the geographical scope of incidents in Turkey.",
+    "source": "nirvanahaber.com",
+    "url": "https://nirvanahaber.com/haber/meghan-markle-in-babasi-cocuk-istismari-materyali-suclamasiyla-tutuklandi",
+    "title": "Meghan Markle'ın babası çocuk istismarı materyali suçlamasıyla tutuklandı - Nirvana Haber"
   }
 ]
