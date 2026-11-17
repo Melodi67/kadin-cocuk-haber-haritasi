@@ -2526,5 +2526,41 @@
     "source": "nirvanahaber.com",
     "url": "https://nirvanahaber.com/haber/meghan-markle-in-babasi-cocuk-istismari-materyali-suclamasiyla-tutuklandi",
     "title": "Meghan Markle'ın babası çocuk istismarı materyali suçlamasıyla tutuklandı - Nirvana Haber"
+  },
+  {
+    "id": "AUTO-38bfd7f6d498",
+    "title": "Manavgat'ta banyo tavanına gizli telefon yerleştiren tesisatçı tutuklandı",
+    "title_en": "Plumber arrested in Manavgat for placing hidden phone on bathroom ceiling",
+    "summary": "Antalya'nın Manavgat ilçesinde onarım için gittiği dairenin banyo tavanına gizli cep telefonu yerleştirerek görüntü kaydettiği iddia edilen tesisatçı tutuklandı.",
+    "summary_en": "A plumber alleged to have placed a hidden mobile phone on the bathroom ceiling of an apartment in Manavgat, Antalya, to record video, has been arrested.",
+    "date": "2026-11-16",
+    "area": "",
+    "district": "Manavgat",
+    "province": "Antalya",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Özel hayatın gizliliğini ihlal, Cinsel taciz",
+    "legal_en": "Violation of privacy, Sexual harassment",
+    "sources": [
+      {
+        "publisher": "yenisafak.com",
+        "url": "https://www.yenisafak.com/gundem/antalya-haberleri-onarim-yaptigi-daireye-goruntu-kaydi-icin-cep-telefonu-yerlestiren-tesisatci-tutuklandi-4873099"
+      }
+    ],
+    "source": "yenisafak.com",
+    "url": "https://www.yenisafak.com/gundem/antalya-haberleri-onarim-yaptigi-daireye-goruntu-kaydi-icin-cep-telefonu-yerlestiren-tesisatci-tutuklandi-4873099",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-17T14:39:12.022721+00:00"
+  },
+  {
+    "id": "REVIEW-78ad58ab4474",
+    "status": "review",
+    "reason": "Olay ABD'nin Virginia eyaletinde gerçekleşmiştir. Türkiye içindeki olayları haritalama kriterimize uymamaktadır.",
+    "source": "sozcu.com.tr",
+    "url": "https://www.sozcu.com.tr/eski-cia-direktorunun-oglu-cocuk-istismari-icerigi-biriktirmekten-gozaltina-alindi-p381272",
+    "title": "Eski CIA direktörünün oğlu çocuk istismarı içeriği biriktirmekten gözaltına alındı - Sözcü Gazetesi"
   }
 ]
