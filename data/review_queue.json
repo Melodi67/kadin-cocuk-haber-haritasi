@@ -2562,5 +2562,93 @@
     "source": "sozcu.com.tr",
     "url": "https://www.sozcu.com.tr/eski-cia-direktorunun-oglu-cocuk-istismari-icerigi-biriktirmekten-gozaltina-alindi-p381272",
     "title": "Eski CIA direktörünün oğlu çocuk istismarı içeriği biriktirmekten gözaltına alındı - Sözcü Gazetesi"
+  },
+  {
+    "id": "AUTO-34ce8742d18e",
+    "title": "Manavgat'ta banyodaki asma tavana gizli telefon yerleştiren tesisatçı tutuklandı",
+    "title_en": "Plumber arrested in Manavgat for placing hidden phone in bathroom ceiling",
+    "summary": "Manavgat'ta bir evde tamirat yapan tesisat ustasının banyodaki asma tavan içerisine gizlice görüntü kaydı alacak şekilde cep telefonu yerleştirdiği ortaya çıktı. Şüpheli tesisatçı çıkarıldığı hakimlikçe tutuklandı.",
+    "summary_en": "A plumber who made repairs in an apartment was found to have placed a cell phone in the bathroom ceiling to record images. The suspect was arrested by the court.",
+    "date": "2026-11-14",
+    "area": "Emek Mahallesi",
+    "district": "Manavgat",
+    "province": "Antalya",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Özel hayatın gizliliğini ihlal, Cinsel taciz",
+    "legal_en": "Violation of privacy, Sexual harassment",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/apartman-dairesindeki-asma-tavana-telefon-yerlestirdi-goruntu-kaydeden-tesisat-ustasi-tutuklandi-2556540"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/apartman-dairesindeki-asma-tavana-telefon-yerlestirdi-goruntu-kaydeden-tesisat-ustasi-tutuklandi-2556540",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-18T14:17:42.275405+00:00"
+  },
+  {
+    "id": "AUTO-4945c5cda259",
+    "title": "Çan'da fabrikada şüpheli ölüm",
+    "title_en": "Suspicious death at a factory in Çan",
+    "summary": "Çan'daki bir seramik fabrikasının marangozhane bölümünde bir kişi hareketsiz halde ölü bulundu. Olayla ilgili soruşturma başlatıldı.",
+    "summary_en": "A person was found dead and motionless in the carpentry section of a ceramic factory in Çan. An investigation has been launched regarding the incident.",
+    "date": "2026-11-09",
+    "area": "",
+    "district": "Çan",
+    "province": "Çanakkale",
+    "category": "other",
+    "type": "other",
+    "legal": "Şüpheli ölüm",
+    "legal_en": "Suspicious death",
+    "sources": [
+      {
+        "publisher": "kanal17.com.tr",
+        "url": "https://www.kanal17.com.tr/canda-fabrikada-supheli-olum/"
+      }
+    ],
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/canda-fabrikada-supheli-olum/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-18T14:17:42.275453+00:00"
+  },
+  {
+    "id": "REVIEW-ab0abd3e3339",
+    "status": "review",
+    "reason": "The incident took place in France, outside of Turkey, and does not meet the geographic scope for the Turkish public-interest news map.",
+    "source": "dw.com",
+    "url": "https://www.dw.com/tr/cinsel-sald%C4%B1r%C4%B1dan-h%C3%BCk%C3%BCm-giyen-depardieu-su%C3%A7unu-kabul-etti/a-79959585",
+    "title": "Cinsel saldırıdan hüküm giyen Gerard Depardieu geri adım attı - DW.com"
+  },
+  {
+    "id": "REVIEW-a1435649ceba",
+    "status": "review",
+    "reason": "The article discusses a global statistical report on child sexual abuse material and exploitation rather than a specific verifiable domestic incident in Turkey.",
+    "source": "tv5.com.tr",
+    "url": "https://www.tv5.com.tr/yapay-zeka-destekli-cocuk-istismari-materyali-ihbarlari-yuzde-8-bin-400den-fazla-artti",
+    "title": "Yapay zeka destekli çocuk istismarı materyali ihbarları yüzde 8 bin 400'den fazla arttı - TV5 Haber"
+  },
+  {
+    "id": "REVIEW-897e50fe3bbf",
+    "status": "review",
+    "reason": "The text describes a father's statement at a meeting regarding drug addiction and his child being in prison, but it does not report a specific violent crime, assault, abuse, or actionable incident suitable for the news map.",
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/gelibolulu-babadan-uyusturucu-isyani-insan-evladinin-cezaevinde-olmasina-sevinebilir-mi/",
+    "title": "Gelibolulu babadan uyuşturucu isyanı: \"insan evladının cezaevinde olmasına sevinebilir mi?\" - Kanal 17"
+  },
+  {
+    "id": "REVIEW-21b9a444e52e",
+    "status": "review",
+    "reason": "The incident is a traffic accident resulting in fatalities, which does not fall under the targeted categories of gender-based violence, sexual assault, domestic violence, femicide, child abuse, or other specified public-interest crimes for this mapping project.",
+    "source": "kanal17.com.tr",
+    "url": "https://www.kanal17.com.tr/candaki-kazada-olen-2-kisinin-kimlikleri-belli-oldu/",
+    "title": "Çan’daki kazada ölen 2 kişinin kimlikleri belli oldu - Kanal 17"
   }
 ]
