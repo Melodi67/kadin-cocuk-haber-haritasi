@@ -2650,5 +2650,113 @@
     "source": "kanal17.com.tr",
     "url": "https://www.kanal17.com.tr/candaki-kazada-olen-2-kisinin-kimlikleri-belli-oldu/",
     "title": "Çan’daki kazada ölen 2 kişinin kimlikleri belli oldu - Kanal 17"
+  },
+  {
+    "id": "AUTO-c2147fd75f8d",
+    "title": "Cem Özdemir’in danışmanı cinsel taciz suçlamaları nedeniyle görevinden ayrıldı",
+    "title_en": "Cem Özdemir's adviser steps down due to sexual harassment allegations",
+    "summary": "Almanya'da bir siyasi danışman, sosyal medyada yöneltilen cinsel taciz suçlamaları ve savcılık soruşturması nedeniyle görevini bıraktı. Şüpheli suçlamaları reddederken, savcılık inceleme başlattı.",
+    "summary_en": "A political adviser in Germany stepped down due to sexual harassment allegations raised on social media and a subsequent prosecutor's investigation. The suspect denied the allegations while prosecutors initiated a preliminary inquiry.",
+    "date": "2026-11-01",
+    "area": "",
+    "district": "",
+    "province": "Tübingen",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel taciz suçlaması ve soruşturma",
+    "legal_en": "Sexual harassment allegation and investigation",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/avrupa/cem-ozdemirin-danismani-cinsel-taciz-suclamalari-nedeniyle-gorevi-birakiyor-43382092"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/avrupa/cem-ozdemirin-danismani-cinsel-taciz-suclamalari-nedeniyle-gorevi-birakiyor-43382092",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-19T14:32:04.811908+00:00"
+  },
+  {
+    "id": "AUTO-f2ebc899b252",
+    "title": "Gérard Depardieu'nün Cinsel Saldırı Cezası Kesinleşti",
+    "title_en": "Gérard Depardieu's Sexual Assault Conviction Finalized",
+    "summary": "Fransız mahkemesi, ünlü oyuncu Gérard Depardieu'nün 2021 yılında bir film setinde iki kadın çalışana cinsel saldırıda bulunduğu gerekçesiyle aldığı ertelenmiş hapis cezasını temyiz başvurusundan vazgeçmesiyle kesinleştirdi.",
+    "summary_en": "A French court finalized the suspended prison sentence of actor Gérard Depardieu for sexual assault against two female crew members in 2021 after he withdrew his appeal.",
+    "date": "2021",
+    "area": "",
+    "district": "",
+    "province": "Paris",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı suçundan verilen hapis cezası kesinleşti.",
+    "legal_en": "Prison sentence for sexual assault finalized.",
+    "sources": [
+      {
+        "publisher": "velev.press",
+        "url": "https://velev.press/yasam/gerard-depardieunun-cinsel-saldiri-cezasi-kesinlesti-durusmaya-gelmedi-yillar-sonra-ozur-diledi/"
+      }
+    ],
+    "source": "velev.press",
+    "url": "https://velev.press/yasam/gerard-depardieunun-cinsel-saldiri-cezasi-kesinlesti-durusmaya-gelmedi-yillar-sonra-ozur-diledi/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-19T14:32:04.811953+00:00"
+  },
+  {
+    "id": "AUTO-d5931c78c66f",
+    "title": "Cinsel saldırı suçundan kırmızı bültenle aranan kişi Lefkoşa'da yakalandı",
+    "title_en": "Person sought with red notice for sexual assault captured in Nicosia",
+    "summary": "Türkiye'de cinsel saldırı ve kişiyi hürriyetinden yoksun kılma suçlarından kırmızı bültenle aranan bir kişi, Lefkoşa'da polis tarafından yakalanarak mahkemeye çıkarıldı ve 20 gün süreyle cezaevine gönderildi.",
+    "summary_en": "A person sought with a red notice for sexual assault and deprivation of liberty in Turkey was captured by police in Nicosia, brought to court, and sent to prison for 20 days.",
+    "date": "2026-11-13",
+    "area": "",
+    "district": "",
+    "province": "Lefkoşa",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Basit Cinsel Saldırı ve Cebir, Tehdit ve Hile Kullanarak Kişiyi Hürriyetinden Yoksun Kılma",
+    "legal_en": "Simple Sexual Assault and Deprivation of Liberty Using Force, Threat and Deception",
+    "sources": [
+      {
+        "publisher": "haberkibris.com",
+        "url": "https://haberkibris.com/cinsel-saldiri-sucundan-kirmizi-bultenle-araniyordu-lefkosada-yakalandi-1144-2026-11-14.html"
+      }
+    ],
+    "source": "haberkibris.com",
+    "url": "https://haberkibris.com/cinsel-saldiri-sucundan-kirmizi-bultenle-araniyordu-lefkosada-yakalandi-1144-2026-11-14.html",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-19T14:32:04.811966+00:00"
+  },
+  {
+    "id": "REVIEW-2f675d83710a",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (Bahamas and Dominican Republic).",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/ispanyol-sarkici-julio-iglesias-cinsel-taciz-suclamasiyla-yargilanacak-2557370",
+    "title": "İspanyol şarkıcı Julio İglesias 'cinsel taciz' suçlamasıyla yargılanacak - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-64e4fa23f7c4",
+    "status": "review",
+    "reason": "The incident took place in the Bahamas and the Dominican Republic, outside of Turkey, and thus is not relevant to a Turkish public-interest news map focusing on domestic incidents.",
+    "source": "cnnturk.com",
+    "url": "https://www.cnnturk.com/magazin/sikayetci-oldular-julio-iglesiasa-cinsel-taciz-suclamasi-3494971",
+    "title": "Şikayetçi oldular! Julio İglesias'a 'cinsel taciz' suçlaması! - CNN Türk"
+  },
+  {
+    "id": "REVIEW-82b8d56eff42",
+    "status": "review",
+    "reason": "The article discusses a global statistical report on AI-generated child abuse material and online exploitation by the Childlight Global Child Safety Institute, rather than a specific, localized criminal incident in Turkey.",
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/teknoloji/yapay-zeka-destekli-cocuk-istismari-ihbarlarinda-korkunc-artis-yuzde-8-bin-400luk-artis-7701783",
+    "title": "'Yapay zeka destekli çocuk istismarı' ihbarlarında korkunç artış! Yüzde 8 bin 400'lük artış - Milliyet"
   }
 ]
