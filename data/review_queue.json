@@ -2766,5 +2766,85 @@
     "source": "cumhuriyet.com.tr",
     "url": "https://www.cumhuriyet.com.tr/dunya/cinsel-suclardan-hapis-cezasi-alan-russell-brand-den-cezaevinden-mektup-suclu-degilim-birbirimizi-affedelim-2556555",
     "title": "Cinsel suçlardan hapis cezası alan Russell Brand'den cezaevinden mektup: 'Suçlu değilim, birbirimizi affedelim' - Cumhuriyet"
+  },
+  {
+    "id": "AUTO-6e83f908c3b5",
+    "title": "Akyazı'da Çocuğa Cinsel İstismar Soruşturmasında Şüpheli Tutuklandı",
+    "title_en": "Suspect Arrested in Child Sexual Abuse Investigation in Akyazı",
+    "summary": "Sakarya'nın Akyazı ilçesinde 14 yaşındaki çocuğa cinsel istismarda bulunduğu iddia edilen 45 yaşındaki şüpheli, emniyetteki işlemlerinin ardından sevk edildiği adliyede mahkemece tutuklandı.",
+    "summary_en": "A 45-year-old suspect accused of sexually abusing a 14-year-old child in the Akyazı district of Sakarya was arrested by the court after being referred to the courthouse following police procedures.",
+    "date": "",
+    "area": "",
+    "district": "Akyazı",
+    "province": "Sakarya",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "halk54.com",
+        "url": "https://www.halk54.com/akyazida-14-yasindaki-cocuga-cinsel-istismar-iddiasi-45-yasindaki-supheli-tutuklandi"
+      }
+    ],
+    "source": "halk54.com",
+    "url": "https://www.halk54.com/akyazida-14-yasindaki-cocuga-cinsel-istismar-iddiasi-45-yasindaki-supheli-tutuklandi",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-21T13:34:41.874979+00:00"
+  },
+  {
+    "id": "AUTO-89a5ae3ca1a6",
+    "title": "Ukrayna'da Türkiye'nin aradığı şüpheli yakalandı",
+    "title_en": "Suspect sought by Turkey detained in Ukraine",
+    "summary": "Ukrayna'nın Odessa bölgesinde, Türkiye tarafından çocukların cinsel istismarı suçlamasıyla Interpol aracılığıyla aranan bir şüpheli sınırda yakalandı.",
+    "summary_en": "A suspect wanted by Turkey via Interpol for child sexual abuse was detained at the border in the Odessa region of Ukraine.",
+    "date": "2026-11-21",
+    "area": "",
+    "district": "İzmail",
+    "province": "Odessa",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Reşit olmayanlara yönelik cinsel istismar suçlamasıyla uluslararası arama",
+    "legal_en": "International arrest warrant for child sexual abuse",
+    "sources": [
+      {
+        "publisher": "ukrhaber.com",
+        "url": "https://www.ukrhaber.com/blog/odessa-bolgesinde-turkiye-tarafindan-interpol-ile-aranan-supheli-yakalandi/"
+      }
+    ],
+    "source": "ukrhaber.com",
+    "url": "https://www.ukrhaber.com/blog/odessa-bolgesinde-turkiye-tarafindan-interpol-ile-aranan-supheli-yakalandi/",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-21T13:34:41.875014+00:00"
+  },
+  {
+    "id": "REVIEW-6a4707e5ae83",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey (Bahamas and Dominican Republic) and involves foreign nationals, making it outside the scope of Turkey public-interest news maps focusing on local incidents.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/18/julio-iglesias-hakkinda-cinsel-taciz-iddiasiyla-sorusturma-baslatildi",
+    "title": "Julio Iglesias hakkında cinsel taciz iddiasıyla soruşturma başlatıldı - Euronews.com"
+  },
+  {
+    "id": "REVIEW-862dc6904479",
+    "status": "review",
+    "reason": "The incident took place outside of Turkey (Bahamas and Dominican Republic) involving a foreign national.",
+    "source": "cgtnturk.com",
+    "url": "https://www.cgtnturk.com/ispanyol-sarkici-julio-iglesias-cinsel-taciz-suclamasiyla-yargilanacak",
+    "title": "İspanyol şarkıcı Julio İglesias cinsel taciz suçlamasıyla yargılanacak - CGTN Türk"
+  },
+  {
+    "id": "REVIEW-b38dfe320c29",
+    "status": "review",
+    "reason": "The incident took place in the United Kingdom, which is outside of Turkey. This news map only covers incidents occurring within Turkey.",
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/c6p9dy1v49jvo",
+    "title": "Kocasının uyuşturduğu kadın 13 yıl başka erkeklerin tecavüzüne uğradı - BBC"
   }
 ]
