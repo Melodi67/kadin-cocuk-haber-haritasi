@@ -2846,5 +2846,85 @@
     "source": "bbc.com",
     "url": "https://www.bbc.com/turkce/articles/c6p9dy1v49jvo",
     "title": "Kocasının uyuşturduğu kadın 13 yıl başka erkeklerin tecavüzüne uğradı - BBC"
+  },
+  {
+    "id": "AUTO-6a1b2f370b4e",
+    "title": "Edremit'te cinsel saldırı faili 16 yaşındaki çocuğu kaçırdı",
+    "title_en": "Sexual assault perpetrator abducts 16-year-old child in Edremit",
+    "summary": "Balıkesir'in Edremit ilçesinde, bir yıldır hakkında yakalama kararı bulunan iş yeri sahibi tarafından nitelikli cinsel saldırıya uğrayan 16 yaşındaki çocuk, 16 Kasım'da aynı kişi tarafından kaçırıldı.",
+    "summary_en": "In Edremit district of Balıkesir, a 16-year-old child who was subjected to sexual assault by her employer—who had an arrest warrant for a year—was abducted by the same individual on November 16.",
+    "date": "2026-11-16",
+    "area": "",
+    "district": "Edremit",
+    "province": "Balıkesir",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı ve kişiyi hürriyetinden yoksun kılma",
+    "legal_en": "Child sexual abuse and deprivation of liberty",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/bir-yildir-yakalanmayan-cinsel-saldiri-faili-16-yasindaki-mesem-li-cocugu-kacirdi-2557924"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/bir-yildir-yakalanmayan-cinsel-saldiri-faili-16-yasindaki-mesem-li-cocugu-kacirdi-2557924",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-22T13:27:27.283500+00:00"
+  },
+  {
+    "id": "AUTO-f18fc614088f",
+    "title": "Akyazı'da Çocuğa Cinsel İstismar İddiasıyla Şüpheli Tutuklandı",
+    "title_en": "Suspect Arrested in Alleged Child Sexual Abuse Case in Akyazı",
+    "summary": "Sakarya'nın Akyazı ilçesinde 14 yaşındaki çocuğa yönelik cinsel istismar iddiasıyla gözaltına alınan şüpheli mahkemece tutuklandı.",
+    "summary_en": "A suspect detained over the alleged sexual abuse of a 14-year-old child in Akyazı, Sakarya, has been arrested by the court.",
+    "date": "2026-11-19",
+    "area": "",
+    "district": "Akyazı",
+    "province": "Sakarya",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "kirmizisaat.com",
+        "url": "https://www.kirmizisaat.com/akyazida-14-yasindaki-cocuga-cinsel-istismar-supheli-tutuklandi"
+      }
+    ],
+    "source": "kirmizisaat.com",
+    "url": "https://www.kirmizisaat.com/akyazida-14-yasindaki-cocuga-cinsel-istismar-supheli-tutuklandi",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-22T13:27:27.283537+00:00"
+  },
+  {
+    "id": "REVIEW-87160225e0c4",
+    "status": "review",
+    "reason": "The article is a political commemoration message (10 Kasım message) and does not describe a verifiable public-interest incident within the required categories.",
+    "source": "halk54.com",
+    "url": "https://www.halk54.com/yeni-parti-adapazari-ilce-baskani-gumusten-10-kasim-mesaji",
+    "title": "Yeni Parti Adapazarı İlçe Başkanı Gümüş’ten 10 Kasım mesajı - halk54.com"
+  },
+  {
+    "id": "REVIEW-1ffff624da02",
+    "status": "review",
+    "reason": "The article is about a political visit and discussion regarding sports needs and is unrelated to any public-interest crime incidents like violence, abuse, or harassment.",
+    "source": "halk54.com",
+    "url": "https://www.halk54.com/askf-baskani-yasar-zimba-genclik-ve-spor-bakani-bak-ile-gorustu",
+    "title": "ASKF Başkanı Yaşar Zımba, Gençlik ve Spor Bakanı Bak ile görüştü - halk54.com"
+  },
+  {
+    "id": "REVIEW-16d16a291140",
+    "status": "review",
+    "reason": "The article is a political press release and speech about child poverty, child labor, and children's rights on World Children's Day, rather than a report on a specific, verifiable individual incident.",
+    "source": "ankahaber.net",
+    "url": "https://ankahaber.net/haber/yeni-parti-sinop-kadin-kollari-baskani-tumer-cocuk-yoksullugu-kader-degildir-c275e0f7",
+    "title": "YENİ Parti Sinop Kadın Kolları Başkanı Tümer: \"Çocuk yoksulluğu kader değildir” - Anka Haber"
   }
 ]
