@@ -2934,5 +2934,61 @@
     "source": "kirmizisaat.com",
     "url": "https://www.kirmizisaat.com/tarihin-durdugu-an-10-kasim-1938-ve-ataturkun-son-gunleri",
     "title": "Tarihin durduğu an: 10 Kasım 1938 ve Atatürk'ün son günleri - https://www.kirmizisaat.com/"
+  },
+  {
+    "id": "AUTO-382b6a218ebe",
+    "title": "Esenyurt'ta çocuğa cinsel istismar iddiasıyla yakalanan zanlı tutuklandı",
+    "title_en": "Suspect arrested in Esenyurt over alleged child sexual abuse",
+    "summary": "Esenyurt'ta 5 yaşındaki çocuğa cinsel istismarda bulunduğu iddia edilen şüpheli, çıkarıldığı nöbetçi sulh ceza hakimliğince tutuklandı.",
+    "summary_en": "A suspect alleged to have sexually abused a 5-year-old child in Esenyurt was arrested by the duty criminal judgeship of peace.",
+    "date": "2026-11-24",
+    "area": "Yeşilkent",
+    "district": "Esenyurt",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "12 yaşını tamamlamamış çocuğun nitelikli cinsel istismarı",
+    "legal_en": "Qualified sexual abuse of a child under 12 years of age",
+    "sources": [
+      {
+        "publisher": "milliyet.com.tr",
+        "url": "https://www.milliyet.com.tr/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-istismar-iddiasiyla-yakalanan-zanli-tutuklandi-7707179"
+      }
+    ],
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-istismar-iddiasiyla-yakalanan-zanli-tutuklandi-7707179",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-24T15:59:34.861611+00:00"
+  },
+  {
+    "id": "AUTO-3f336ee36432",
+    "title": "Milletvekili hakkında cinsel saldırı ve çocuk istismarı iddialarıyla fezleke hazırlandı",
+    "title_en": "Summary proceeding prepared against MP regarding allegations of sexual assault and child abuse",
+    "summary": "Ankara Cumhuriyet Başsavcılığı, bir milletvekili hakkında cinsel saldırı, çocuğun cinsel istismarı ve mali suçlamalarla dokunulmazlığının kaldırılması talebiyle fezleke hazırladı.",
+    "summary_en": "The Ankara Chief Public Prosecutor's Office prepared a summary proceeding requesting the lifting of parliamentary immunity for an MP on charges of sexual assault, child sexual abuse, and financial offenses.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Ankara",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Sarkıntılık yapmak suretiyle çocuğun cinsel istismarı, nitelikli cinsel saldırı",
+    "legal_en": "Child sexual abuse via sexual harassment, qualified sexual assault",
+    "sources": [
+      {
+        "publisher": "ahaber.com.tr",
+        "url": "https://www.ahaber.com.tr/gundem/2026/11/22/mustafa-sarigul-hakkinda-fezleke-hazirlandi-5-ayri-suclama"
+      }
+    ],
+    "source": "ahaber.com.tr",
+    "url": "https://www.ahaber.com.tr/gundem/2026/11/22/mustafa-sarigul-hakkinda-fezleke-hazirlandi-5-ayri-suclama",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-24T15:59:34.861661+00:00"
   }
 ]
