@@ -2990,5 +2990,61 @@
     "review_required": true,
     "status": "review",
     "checked_at": "2026-11-24T15:59:34.861661+00:00"
+  },
+  {
+    "id": "AUTO-39304cd9bfab",
+    "title": "Londra'da Cinsel Suçları Araştıran Polis Dedektifinin Mağdurlara Tecavüz Ettiği Ortaya Çıktı",
+    "title_en": "London Detective Investigating Sex Crimes Revealed to Have Abused Victims",
+    "summary": "Londra'da cinsel suçları soruşturmakla görevli bir polis dedektifinin, görevini kötüye kullanarak soruşturmasını yürüttüğü kadınları cinsel istismara ve tecavüze uğrattığı ortaya çıktı. Olayla ilgili soruşturmalar yürütülürken, zanlı cezaevinde intihar etti.",
+    "summary_en": "A police detective in London tasked with investigating sex crimes abused his position to sexually assault and rape women whose cases he was handling. Amid ongoing investigations into his crimes, the suspect died by suicide in prison.",
+    "date": "",
+    "area": "",
+    "district": "",
+    "province": "Londra",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı, cinsel istismar, görevi kötüye kullanma",
+    "legal_en": "Sexual assault, sexual abuse, misconduct in public office",
+    "sources": [
+      {
+        "publisher": "bbc.com",
+        "url": "https://www.bbc.com/turkce/articles/c8e39lrep7vro"
+      }
+    ],
+    "source": "bbc.com",
+    "url": "https://www.bbc.com/turkce/articles/c8e39lrep7vro",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-25T15:47:04.649312+00:00"
+  },
+  {
+    "id": "AUTO-59b8fe1bbf16",
+    "title": "Esenyurt'ta çocuğa cinsel taciz şüphelisi yakalandı",
+    "title_en": "Child sexual abuse suspect detained in Esenyurt",
+    "summary": "Esenyurt'ta 5 yaşındaki kız çocuğuna yönelik cinsel taciz olayıyla ilgili şüpheli polis ekiplerince yakalanarak gözaltına alındı.",
+    "summary_en": "The suspect regarding the sexual abuse of a 5-year-old child in Esenyurt was detained by police forces.",
+    "date": "2026-11-21",
+    "area": "Yenikent Mahallesi",
+    "district": "Esenyurt",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "milliyet.com.tr",
+        "url": "https://www.milliyet.com.tr/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-taciz-supheli-gozaltinda-7706481"
+      }
+    ],
+    "source": "milliyet.com.tr",
+    "url": "https://www.milliyet.com.tr/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-taciz-supheli-gozaltinda-7706481",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-25T15:47:04.649349+00:00"
   }
 ]
