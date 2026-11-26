@@ -3046,5 +3046,153 @@
     "review_required": true,
     "status": "review",
     "checked_at": "2026-11-25T15:47:04.649349+00:00"
+  },
+  {
+    "id": "AUTO-42726f2a8ef0",
+    "title": "Kadıköy'de cinsel taciz iddiasıyla şüpheli gözaltına alındı",
+    "title_en": "Suspect detained in Kadıköy over sexual harassment allegations",
+    "summary": "İstanbul Kadıköy'de kadınları taciz ettiği öne sürülen şüpheli, polis ekiplerince yakalandı. Beş kadın tarafından teşhis edilen şüphelinin emniyetteki işlemleri sürüyor.",
+    "summary_en": "A suspect accused of harassing women in Kadıköy, Istanbul, was detained by police. The suspect, identified by five women, remains in custody for processing.",
+    "date": "2026-11-25",
+    "area": "Feneryolu",
+    "district": "Kadıköy",
+    "province": "İstanbul",
+    "category": "sexual_harassment",
+    "type": "sexual_harassment",
+    "legal": "Cinsel taciz",
+    "legal_en": "Sexual harassment",
+    "sources": [
+      {
+        "publisher": "cumhuriyet.com.tr",
+        "url": "https://www.cumhuriyet.com.tr/turkiye/kadikoy-de-kadinlara-cinsel-taciz-iddiasi-5-kadinin-teshis-ettigi-supheli-gozaltinda-2559567"
+      }
+    ],
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/kadikoy-de-kadinlara-cinsel-taciz-iddiasi-5-kadinin-teshis-ettigi-supheli-gozaltinda-2559567",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-26T15:28:36.178821+00:00"
+  },
+  {
+    "id": "AUTO-e588e6bb23ef",
+    "title": "Esenyurt'ta çocuğa cinsel istismar iddiasıyla yakalanan zanlı tutuklandı",
+    "title_en": "Suspect arrested for alleged child sexual abuse in Esenyurt",
+    "summary": "Esenyurt'ta 5 yaşındaki çocuğa cinsel istismarda bulunduğu iddia edilen şüpheli, çıkarıldığı sulh ceza hakimliğince tutuklandı.",
+    "summary_en": "A suspect alleged to have sexually abused a 5-year-old child in Esenyurt was arrested by the criminal judgeship of peace.",
+    "date": "",
+    "area": "Yeşilkent Mahallesi",
+    "district": "Esenyurt",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "12 yaşını tamamlamamış çocuğun nitelikli cinsel istismarı",
+    "legal_en": "Qualified sexual abuse of a child under the age of 12",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/amp/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-istismar-iddiasiyla-yakalanan-zanli-tutuklandi-1752417"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/amp/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-istismar-iddiasiyla-yakalanan-zanli-tutuklandi-1752417",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-26T15:28:36.178871+00:00"
+  },
+  {
+    "id": "AUTO-9df732ee3476",
+    "title": "Alanya'da Çocuğa Cinsel İstismar İddiasıyla Şüpheli Tutuklandı",
+    "title_en": "Suspect Arrested in Alanya on Allegations of Child Sexual Abuse",
+    "summary": "Alanya'nın Konaklı Mahallesi'nde bir çocuğa cinsel istismarda bulunduğu iddia edilen şüpheli, jandarma ekiplerince yakalanarak sevk edildiği hakimlikçe tutuklandı.",
+    "summary_en": "A suspect accused of sexually abusing a child in Alanya's Konaklı neighborhood was captured by gendarmerie forces and arrested by the presiding judge.",
+    "date": "2026-11-25",
+    "area": "Konaklı",
+    "district": "Alanya",
+    "province": "Antalya",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Çocuğun cinsel istismarı",
+    "legal_en": "Child sexual abuse",
+    "sources": [
+      {
+        "publisher": "sabah.com.tr",
+        "url": "https://m.sabah.com.tr/antalya/2026/11/25/alanyada-cocuga-cinsel-istismar-iddiasi-supheli-tutuklandi/amp"
+      }
+    ],
+    "source": "sabah.com.tr",
+    "url": "https://m.sabah.com.tr/antalya/2026/11/25/alanyada-cocuga-cinsel-istismar-iddiasi-supheli-tutuklandi/amp",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-26T15:28:36.178887+00:00"
+  },
+  {
+    "id": "REVIEW-5f7aa2353913",
+    "status": "review",
+    "reason": "The text describes a generalized multi-province police operation involving multiple suspects and crimes without providing a specific single incident location (neighborhood/district), a specific incident date, or detailed verifiable facts for a distinct localized event suitable for a point-based news map.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/turkiye/yasa-disi-bahis-cocuk-istismari-ve-dolandiriciliga-12-ilde-operasyon-60-kisi-tutuklandi-1752175",
+    "title": "Yasa dışı bahis, çocuk istismarı, ve dolandırıcılığa 12 ilde operasyon. 60 kişi tutuklandı - NTV Haber"
+  },
+  {
+    "id": "REVIEW-e63de9d52ca3",
+    "status": "review",
+    "reason": "Olay ABD'nin Kaliforniya eyaletinde meydana gelmiştir. Projemizin kapsamı yalnızca Türkiye sınırları içerisindeki olaylardır.",
+    "source": "tr.euronews.com",
+    "url": "https://tr.euronews.com/2026/11/25/meghan-marklein-babasi-cocuk-pornografisi-bulundurma-suclamasiyla-yargilanacak",
+    "title": "Thomas Markle hakkında çocuk istismarı görüntüleri nedeniyle iddianame - Euronews.com"
+  },
+  {
+    "id": "REVIEW-37b7c4ba7c12",
+    "status": "review",
+    "reason": "The text is an annual report/statement by an organization (Gözaltında Cinsel Taciz ve Tecavüze Karşı Hukuki Yardım Ofisi) regarding overall statistics and advocacy work, rather than a single specific verifiable individual incident report.",
+    "source": "bianet.org",
+    "url": "https://bianet.org/haber/gozaltinda-cinsel-iskenceye-karsi-mucadele-surecek-2026da-100-basvuru-325718",
+    "title": "Gözaltında cinsel işkenceye karşı mücadele sürecek: 2026’da 100 başvuru - Bianet"
+  },
+  {
+    "id": "REVIEW-e7e9a70e7844",
+    "status": "review",
+    "reason": "The article is an expert commentary, interview, and evaluation regarding child rights, laws, poverty, child labor, and systemic issues on World Children's Day, rather than a report of a specific individual crime incident.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/haklari-var-guvenceleri-yok-2557621",
+    "title": "Çocuk Hakları Günü: 'Hakları var, güvenceleri yok' - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-02425870b41f",
+    "status": "review",
+    "reason": "The article reports a general operation by the Ministry of Interior regarding the extradition of 44 fugitives from 9 different countries for various past crimes, lacking a specific local incident date, exact location within Turkey, or single distinct event.",
+    "source": "radikal.com.tr",
+    "url": "https://www.radikal.com.tr/gundem/9-ulkede-yakalandilar-kirmizi-bultenle-aranan-44-firari-turkiyeye-getirildi-40559/",
+    "title": "9 ülkede yakalandılar! Kırmızı bültenle aranan 44 firari Türkiye’ye getirildi - Radikal"
+  },
+  {
+    "id": "REVIEW-50ae11f8286c",
+    "status": "review",
+    "reason": "The article is about a sports competition (swimming races and medals won by athletes) and does not involve any incidents related to violence, abuse, crime, or public-interest safety issues within the scope of the map.",
+    "source": "haberantalya.com",
+    "url": "https://www.haberantalya.com/ulusal-gelisim-ligi-yuzme-yarislarina-manavgatli-sporcular-damga-vurdu-42-madalya/534142",
+    "title": "Ulusal Gelişim Ligi Yüzme Yarışları’na Manavgatlı sporcular damga vurdu: 42 madalya - haber antalya"
+  },
+  {
+    "id": "REVIEW-ef2ec91dc0a8",
+    "status": "review",
+    "reason": "The article is a political press statement and general policy evaluation regarding children's rights on World Children's Day, rather than a report on a specific, verifiable individual incident.",
+    "source": "ankahaber.net",
+    "url": "https://ankahaber.net/haber/iyi-partili-ofluoglu-cocukluk-ertelenemez-kaybedilen-bir-cocukluk-sonradan-telafi-edilemez-2e57ff3f",
+    "title": "İYİ Partili Ofluoğlu: Çocukluk ertelenemez; kaybedilen bir çocukluk sonradan telafi edilemez - Anka Haber"
+  },
+  {
+    "id": "REVIEW-061b51d9f528",
+    "status": "review",
+    "reason": "The article reports on the general extradition of 44 fugitives from 9 different countries for various crimes, lacking a specific single incident location, neighborhood, or single event context suitable for a localized news map.",
+    "source": "notbir.com.tr",
+    "url": "https://notbir.com.tr/gundem/9-ulkeden-44-suclu-turkiye-ye-getirildi-22-si-kirmizi-bultenle-araniyordu",
+    "title": "9 ülkeden 44 suçlu Türkiye'ye getirildi: 22'si kırmızı bültenle aranıyordu - Notbir"
   }
 ]
