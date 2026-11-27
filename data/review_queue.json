@@ -3194,5 +3194,133 @@
     "source": "notbir.com.tr",
     "url": "https://notbir.com.tr/gundem/9-ulkeden-44-suclu-turkiye-ye-getirildi-22-si-kirmizi-bultenle-araniyordu",
     "title": "9 ülkeden 44 suçlu Türkiye'ye getirildi: 22'si kırmızı bültenle aranıyordu - Notbir"
+  },
+  {
+    "id": "AUTO-fe8e1641cd1e",
+    "title": "Kadıköy'de cinsel saldırı iddiasıyla gözaltı",
+    "title_en": "Detention in Kadıköy over sexual assault allegations",
+    "summary": "İstanbul Kadıköy'de farklı tarihlerde kadınlara cinsel saldırıda bulunduğu iddia edilen şüpheli, polisin çalışmaları sonucu gözaltına alındı ve mağdurlar tarafından teşhis edildi.",
+    "summary_en": "A suspect accused of sexual assault against women on different dates in Kadıköy, Istanbul, was detained as a result of police work and identified by the victims.",
+    "date": "2026-11-23",
+    "area": "Eğitim Mahallesi",
+    "district": "Kadıköy",
+    "province": "İstanbul",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı ve taciz iddiası",
+    "legal_en": "Allegation of sexual assault and harassment",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/turkiye/kadikoyde-parkta-cinsel-saldiri-gozaltina-alindi-kadinlar-teshis-etti-1752673"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/turkiye/kadikoyde-parkta-cinsel-saldiri-gozaltina-alindi-kadinlar-teshis-etti-1752673",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-27T15:17:30.020271+00:00"
+  },
+  {
+    "id": "AUTO-2ee48885e527",
+    "title": "Esenyurt'ta çocuğa cinsel istismar iddiasıyla yakalanan zanlı tutuklandı",
+    "title_en": "Suspect arrested for alleged child sexual abuse in Esenyurt",
+    "summary": "Esenyurt'ta 5 yaşındaki çocuğa cinsel istismarda bulunduğu iddia edilen şüpheli, çıkarıldığı nöbetçi sulh ceza hakimliğince tutuklandı.",
+    "summary_en": "A suspect alleged to have sexually abused a 5-year-old child in Esenyurt was arrested by the presiding criminal judgeship of peace.",
+    "date": "2026-11-23",
+    "area": "Yeşilkent",
+    "district": "Esenyurt",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "12 yaşını tamamlamamış çocuğun nitelikli cinsel istismarı",
+    "legal_en": "Qualified sexual abuse of a child under the age of 12",
+    "sources": [
+      {
+        "publisher": "ntv.com.tr",
+        "url": "https://www.ntv.com.tr/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-istismar-iddiasiyla-yakalanan-zanli-tutuklandi-1752417"
+      }
+    ],
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/gundem/esenyurtta-5-yasindaki-cocuga-cinsel-istismar-iddiasiyla-yakalanan-zanli-tutuklandi-1752417",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-27T15:17:30.020314+00:00"
+  },
+  {
+    "id": "AUTO-88c93a4c5d02",
+    "title": "Siyasetçi Hakkında Yeni Cinsel Saldırı ve Taciz İddiaları ve Fezleke",
+    "title_en": "New Sexual Assault and Harassment Allegations and Summary of Proceedings Against Politician",
+    "summary": "Bir siyasetçi hakkında partideki bir kadına yönelik 2020-2021 yılları arasındaki taciz ve cinsel saldırı iddialarıyla ilgili yeni bir ifade tutanağı hazırlandı ve dosya soruşturma için ilgili başsavcılığa gönderildi.",
+    "summary_en": "A new statement regarding allegations of harassment and sexual assault against a female party member between 2020 and 2021 by a politician was drawn up and forwarded to the relevant chief public prosecutor's office.",
+    "date": "2021",
+    "area": "",
+    "district": "",
+    "province": "Ankara",
+    "category": "sexual_assault",
+    "type": "sexual_assault",
+    "legal": "Cinsel saldırı, taciz",
+    "legal_en": "Sexual assault, harassment",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/yeni-fezleke-yolda-43392586"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/yazarlar/nedim-sener/yeni-fezleke-yolda-43392586",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-27T15:17:30.020329+00:00"
+  },
+  {
+    "id": "AUTO-afbdd3f4b84c",
+    "title": "Esenyurt'ta çocuğa cinsel taciz şüphelisi gözaltına alındı",
+    "title_en": "Suspect detained for child sexual abuse in Esenyurt",
+    "summary": "İstanbul Esenyurt'ta 5 yaşındaki kız çocuğunu takip ederek taciz ettiği belirlenen şüpheli, polis ekiplerince yakalanarak gözaltına alındı.",
+    "summary_en": "A suspect identified as having followed and abused a 5-year-old girl in Esenyurt, Istanbul, was detained by police forces.",
+    "date": "2026-11-21",
+    "area": "Yeşilkent Mahallesi",
+    "district": "Esenyurt",
+    "province": "İstanbul",
+    "category": "child_abuse",
+    "type": "child_abuse",
+    "legal": "Cinsel taciz, çocuk istismarı",
+    "legal_en": "Sexual abuse of a minor",
+    "sources": [
+      {
+        "publisher": "hurriyet.com.tr",
+        "url": "https://www.hurriyet.com.tr/gundem/igrenc-tacize-jet-gozalti-43388615"
+      }
+    ],
+    "source": "hurriyet.com.tr",
+    "url": "https://www.hurriyet.com.tr/gundem/igrenc-tacize-jet-gozalti-43388615",
+    "verification": "needs_review",
+    "location_precision": "approximate_neighborhood",
+    "review_required": true,
+    "status": "review",
+    "checked_at": "2026-11-27T15:17:30.020343+00:00"
+  },
+  {
+    "id": "REVIEW-a7987233ee7c",
+    "status": "review",
+    "reason": "The article discusses a global statistical report on AI-generated child abuse imagery and does not report a specific, localized incident in Turkey.",
+    "source": "cumhuriyet.com.tr",
+    "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-ile-uretilen-cocuk-istismari-iceriklerinde-korkutan-artis-ihbarlar-yuzde-8-bin-400-den-fazla-artti-2556693",
+    "title": "Yapay ile üretilen çocuk istismarı içeriklerinde korkutan artış; İhbarlar yüzde 8 bin 400'den fazla arttı - Cumhuriyet"
+  },
+  {
+    "id": "REVIEW-7bff275075c9",
+    "status": "review",
+    "reason": "The incident occurred outside of Turkey.",
+    "source": "turkish.aawsat.com",
+    "url": "https://turkish.aawsat.com/d%C3%BCnya/5344901-abdli-bir-kongre-%C3%BCyesinin-cinsel-tacizde-bulundu%C4%9Funa-ili%C5%9Fkin-kan%C4%B1tlar-ortaya-%C3%A7%C4%B1kt%C4%B1",
+    "title": "ABD'li bir Kongre üyesinin cinsel tacizde bulunduğuna ilişkin kanıtlar ortaya çıktı - Şarkul Avsat Türkçe"
   }
 ]
