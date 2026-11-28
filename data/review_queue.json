@@ -3322,5 +3322,37 @@
     "source": "turkish.aawsat.com",
     "url": "https://turkish.aawsat.com/d%C3%BCnya/5344901-abdli-bir-kongre-%C3%BCyesinin-cinsel-tacizde-bulundu%C4%9Funa-ili%C5%9Fkin-kan%C4%B1tlar-ortaya-%C3%A7%C4%B1kt%C4%B1",
     "title": "ABD'li bir Kongre üyesinin cinsel tacizde bulunduğuna ilişkin kanıtlar ortaya çıktı - Şarkul Avsat Türkçe"
+  },
+  {
+    "id": "REVIEW-650e756fdd88",
+    "status": "review",
+    "reason": "The article is a political proposal and commentary regarding violence against women and statistics, rather than a report on a specific, verifiable individual criminal incident.",
+    "source": "demparti.org.tr",
+    "url": "https://www.demparti.org.tr/tr/kadina-yonelik-siddete-dair-onergemiz/22977/",
+    "title": "Kadına yönelik şiddete dair önergemiz - DEM Parti"
+  },
+  {
+    "id": "REVIEW-e69af5bcd045",
+    "status": "review",
+    "reason": "The incident occurred in Argentina, which is outside of Turkey, and the map is for Turkish public-interest news.",
+    "source": "ntv.com.tr",
+    "url": "https://www.ntv.com.tr/dunya/fifaya-bir-kez-daha-sikayet-edildi-bana-birkac-ciplak-fotograf-gonderir-misin-1752950",
+    "title": "FIFA'ya bir kez daha şikayet edildi. \"Bana birkaç çıplak fotoğraf gönderir misin?\" - NTV Haber"
+  },
+  {
+    "id": "REVIEW-74ad67559ec7",
+    "status": "review",
+    "reason": "The incident took place in France and involves foreign nationals, falling outside the geographical scope for the Turkish public-interest news map.",
+    "source": "velev.press",
+    "url": "https://velev.press/dunya/yillardir-suclaniyordu-unlu-oyuncu-tecavuz-ve-cinsel-saldiridan-yargilanacak/",
+    "title": "Yıllardır suçlanıyordu: Ünlü oyuncu tecavüz ve cinsel saldırıdan yargılanacak - Velev"
+  },
+  {
+    "id": "REVIEW-e18163aeb8a4",
+    "status": "review",
+    "reason": "The incident occurred in the United States and is outside the scope of Turkish public-interest news for a Turkey-focused map.",
+    "source": "sabah.com.tr",
+    "url": "https://www.sabah.com.tr/trend/galeri/dunya/groktan-cocuk-istismari-skandali-gercek-fotograflar-mustehcen-goruntulere-donusturuldu-abdde-teknoloji-devine-pes-pese-iki-ayri-dava",
+    "title": "Grok’tan çocuk istismarı skandalı: Gerçek fotoğraflar müstehcen görüntülere dönüştürüldü! ABD’de teknoloji devine peş peşe iki ayrı dava - Sabah"
   }
 ]
